@@ -21,3 +21,11 @@ Run:
 ```
 or execute the main programme cell uploading all the necessary files. 1) layers.py 2) models.py 3)sparse_softmax.py  and the intended dataset.
 The dataset name in the main program should have to be changed accordingly.
+
+    
+```sh
+with open("/content/all_betagraph_.txt","rb") as f:
+    traindataset = pickle.load(f,encoding="latin1")
+with open("/content/all_betagraph_.txt","rb") as f:
+    testdataset = pickle.load(f,encoding="latin1")
+```
