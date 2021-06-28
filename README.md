@@ -7,10 +7,15 @@ The Benchmark dataset folder contains the graphdata set generated from five diff
 ### Parameter Settings
 
 |Datasets|	lr|	weight_decay|	batch_size|	pool_ratio	|dropout|	net_layers|
+
 |LINDAHL|0.005|0.001|512|0.5|0.1|3|
+
 |SCOP_TEST|0.005|0.001|256|0.5|0.1|3|
+
 |DD|0.005|0.001|512|0.5|0.1|3|
+
 |RDD|0.005|0.001|512|0.5|0.1|3|
+
 |EDD|0.005|0.001|512|0.5|0.1|3|
 #### Run
 To run simply execute this cell in google collaboratory environment.
