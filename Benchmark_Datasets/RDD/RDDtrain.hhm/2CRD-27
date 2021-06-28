@@ -1,0 +1,149 @@
+HHsearch 1.5
+NAME  2CRD
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Mon Sep 28 22:06:37 2015
+LENG  37 match states, 37 columns in multiple alignment
+FILT  76 out of 78 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.9 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCHHHHHHHHHHHCCCCCEECCCCCEECC
+>ss_conf PSIPRED confidence values
+9314506995588899999868867704299733087
+>Consensus
+xxxxvkCxxsxxCxxpCkxxxgxxxgKCmNxkCxCyx
+>2CRD
+EFTNVSCTTSKECWSVCQRLHNTSRGKCMNKKCRCYS
+>sp|P0C194|KAX6B_OPIMA Male-specific potassium channel inhibitor IsTX OX=167108 OS=Opisthacanthus madagascariensis (Scorpion). GN= PE=1 SV=1
+-LvhTNIPCRGTSDCYEPCEKKYNCARAKCMNRHCNCYN
+>sp|P0DJO5|KA15S_CHATC Potassium channel toxin alpha-KTx Ctri9577 OX=1055734 OS=Chaerilus tricostatus (Scorpion). GN= PE=2 SV=1
+-QihTNQPCTSNnTRCRTYCIKVHKINSGKCMNSKCVCHP
+>tr|B8XH39|B8XH39_BUTOS Putative potassium channel toxin Tx682 OX=539894 OS=Buthus occitanus israelis (Common yellow scorpion). GN= PE=4 SV=1
+-FeLDIKCTGGaDNCLQPCIDEYDTTKTKCINDRCNCYP
+>tr|F1CJ83|F1CJ83_BUTJU U8-buthitoxin-Hj3a OX=6863 OS=Buthotus judaicus (Scorpion) (Hottentotta judaica). GN= PE=4 SV=1
+-ITDESCEFSIHCLLVCRKKFEYLQVKCVSGKCHCYP
+>sp|P56219|KAX42_TITSE Neurotoxin Ts-kappa OX=6887 OS=Tityus serrulatus (Brazilian scorpion). GN= PE=1 SV=1
+-VIGQRCYRSPDCYSACKKLVGKATGKCTNGRCDC--
+>sp|P83112|KAX1A_PARTR Parabutoxin-3 OX=170972 OS=Parabuthus transvaalicus (South African fattail scorpion). GN= PE=1 SV=1
+-EVDMRCKSSKECLVKCKQATGRPNGKCMNRKCKCYP
+>sp|P0CI47|KA126_LYCMC Neurotoxin alpha-KTx 12.6 OX=172552 OS=Lychas mucronatus (Chinese swimming scorpion). GN= PE=2 SV=1
+--LDVKCVRLETCREPCKK-QLCLLPmKCMNGKCVCSP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+F 2    3437	4833	*	4090	2216	5571	*	2229	*	3048	*	*	4550	3969	4499	*	5534	3812	*	*	2
+       232	2750	*	364	2165	*	*	3543	1404	0	
+
+T 3    5170	*	*	3282	*	*	*	1460	*	3347	*	*	*	*	*	*	1431	4769	*	*	3
+       0	*	*	*	*	*	*	3844	0	0	
+
+N 4    4003	*	1651	4695	*	4441	*	5981	*	5816	*	1536	6318	4700	*	4139	5895	4986	*	*	4
+       0	*	*	*	*	*	*	3906	0	0	
+
+V 5    5669	*	5347	3991	*	5818	6099	1962	3755	5864	6360	6100	*	4459	*	*	5924	1238	*	*	5
+       0	*	*	*	*	*	*	3904	0	0	
+
+S 6    4841	*	5210	4701	*	*	*	*	1225	*	*	*	3515	*	2451	2311	*	*	*	*	6
+       0	*	*	*	*	*	*	3904	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       26	*	5818	*	*	*	*	3904	0	0	
+
+T 8    5316	*	*	4703	5315	4428	*	5084	4200	*	*	4223	*	5366	2858	2506	1748	4375	*	4527	8
+       0	*	*	*	*	*	0	3889	0	1017	
+
+T 9    3047	*	6308	*	4015	1407	5592	6795	*	6416	*	3921	*	*	4470	2673	4514	4773	*	4728	9
+       36	5329	*	0	*	0	*	3949	1034	1017	
+
+S 10   *	*	*	6034	*	3717	*	*	*	5255	*	5258	2727	*	*	756	3489	5371	*	*	10
+       82	4185	*	0	*	*	*	3978	1133	0	
+
+K 11   5815	*	5116	5255	*	4409	4975	4917	1847	*	*	5207	3941	4299	3117	2150	5258	*	*	5179	11
+       43	*	5097	*	*	*	*	3978	0	0	
+
+E 12   *	*	2331	2179	*	*	4155	*	4943	*	*	5040	3949	1709	4280	6342	5219	*	*	*	12
+       0	*	*	*	*	0	*	3979	0	1048	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	3978	0	0	
+
+W 14   3836	*	*	*	5179	5936	5815	4372	*	2322	*	*	6515	5229	3357	6777	4703	4724	2620	2079	14
+       0	*	*	*	*	*	*	3978	0	0	
+
+S 15   4487	*	4121	2938	*	5343	*	3979	2888	4586	*	5493	2438	4774	4771	2768	4304	5297	*	*	15
+       0	*	*	*	*	*	*	3978	0	0	
+
+V 16   3843	*	*	*	5493	*	4109	5010	4220	*	5815	*	1002	*	*	*	6136	2386	*	4546	16
+       0	*	*	*	*	*	*	3978	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	3978	0	0	
+
+Q 18   5356	*	*	3724	5915	*	*	3015	1125	*	6553	*	*	3691	2333	*	*	6090	*	*	18
+       103	*	3861	*	*	*	*	3978	0	0	
+
+R 19   3610	*	2675	3681	*	5032	*	*	1316	*	*	*	*	4016	2852	5116	*	*	*	5500	19
+       182	*	3076	0	*	0	*	3922	1000	1201	
+
+L 20   2080	*	*	3176	*	*	*	3724	2767	2802	6611	*	*	3685	4315	*	*	2749	*	*	20
+       108	*	3793	*	*	0	*	3842	0	1318	
+
+H 21   5722	*	*	*	2116	*	4294	4234	3657	*	6012	5499	*	4368	5725	*	1735	3717	*	3547	21
+       0	*	*	*	*	0	*	3943	0	1178	
+
+N 22   5229	5798	5116	4917	*	474	*	*	3786	5255	*	4132	*	*	*	*	*	*	*	5837	22
+       0	*	*	*	*	*	*	3978	0	0	
+
+T 23   5902	1886	*	*	4588	*	*	4349	3374	5795	3739	4720	6860	5899	3656	4097	3319	3861	*	4000	23
+       0	*	*	*	*	*	*	3985	0	0	
+
+S 24   2603	*	4796	*	4914	6166	4814	*	4150	3302	6206	4656	2732	*	2727	4378	3062	*	*	4779	24
+       0	*	*	*	*	*	*	3978	0	0	
+
+R 25   2688	*	*	5058	3748	*	3479	*	3839	4312	*	2157	5798	3612	3187	3672	5784	*	*	*	25
+       0	*	*	*	*	*	*	3978	0	0	
+
+G 26   2796	*	*	*	*	615	*	*	*	*	*	*	4312	*	*	3461	5116	4917	*	*	26
+       207	2902	*	0	*	*	*	3978	1394	0	
+
+K 27   *	*	*	*	*	*	*	*	72	*	*	*	*	*	4366	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3978	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	3978	0	0	
+
+M 29   *	*	*	*	*	*	*	1626	6118	*	1043	*	*	4311	*	5619	5784	3517	*	*	29
+       0	*	*	*	*	*	*	3978	0	0	
+
+N 30   *	*	*	*	*	4796	*	*	5229	*	*	145	*	*	*	4917	*	*	*	*	30
+       0	*	*	*	*	*	*	3978	0	0	
+
+K 31   *	*	5116	*	*	1138	*	*	2406	*	*	4566	*	*	2235	3771	*	*	*	*	31
+       0	*	*	*	*	*	*	3978	0	0	
+
+K 32   6204	*	*	*	*	*	6212	*	710	5179	5936	6436	*	4311	2772	4032	5418	5343	*	*	32
+       0	*	*	*	*	*	*	3978	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3978	0	0	
+
+R 34   *	*	3918	*	*	*	2950	6136	1604	5619	*	3858	*	*	2661	*	3485	3389	*	5101	34
+       0	*	*	*	*	*	*	3978	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	3985	0	0	
+
+Y 36   *	*	*	*	3407	*	5180	*	*	*	5886	5415	*	6564	*	4731	3696	*	*	489	36
+       0	*	*	*	*	*	*	3955	0	0	
+
+S 37   *	*	*	*	*	2545	*	*	4682	5482	*	3712	1191	5753	4480	3875	5267	4513	*	4271	37
+       0	*	*	0	*	*	*	3924	0	0	
+
+//

@@ -1,0 +1,240 @@
+HHsearch 1.5
+NAME  699
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 11:37:17 2016
+LENG  66 match states, 66 columns in multiple alignment
+FILT  17 out of 19 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCEEECCHHHEEECCEECCCCCCCCCCEEEECCHHHHHHHHHEEEEEEECCCCHHHHHHCCC
+>ss_conf PSIPRED confidence values
+973220011210000532300356456651144421133566542113899974461478863479
+>Consensus
+IPleteVTALsedeYFSaGvvkgHxxegxelxyxiekxgqrxwxxRxaviLsxxqGnxlreqxglg
+>699
+IPLDTEVTALSEDEYFSAGVVKGHRKESGELYYSIEKEGQRKWYKRMAVILSLEQGNRLREQYGLG
+>tr|M4AV04|M4AV04_XIPMA Uncharacterized protein OS=Xiphophorus maculatus GN=TP53BP1 PE=4 SV=1
+LPVRLRSSPLCV---CSLRRGGGHPQRGH-----------R--GQRAGSVVTVGRGGSSFvpltprgRARGAG
+>tr|E7F2M6|E7F2M6_DANRE Uncharacterized protein OS=Danio rerio GN=tp53bp1 PE=1 SV=2
+IPLETEVTALTEEEYFNIGVVKGHKTQGSEFLYCVEKDGQSSYYSRTSVILSMEQGSRLREQYGLG
+>tr|W5LFE7|W5LFE7_ASTMX Uncharacterized protein OS=Astyanax mexicanus GN=TP53BP1 PE=4 SV=1
+IPTETEVTALTEEEYFNTGLVKGHKMQGSELLYCVEKDGHSVWYSRNAVILTMEQGNRLREQFALG
+>tr|H3CE84|H3CE84_TETNG Uncharacterized protein OS=Tetraodon nigroviridis GN=TP53BP1 PE=4 SV=1
+IPLETEVTALLEDEYFSIGVVRGHKTEGQELLYSVEKDGQRQWYNRKAVILSLEQGNKLREQHSLG
+>tr|W5NA27|W5NA27_LEPOC Uncharacterized protein OS=Lepisosteus oculatus GN=TP53BP1 PE=4 SV=1
+IPLETEVTALSEDEYFSAGVVKGHKKEGSDFFYCVEKDGQRKWYRRMAVILSLEQGNRLREQFGLG
+>tr|Q98U15|Q98U15_XENLA p53-binding protein 1 OS=Xenopus laevis GN=tp53bp1 PE=2 SV=1
+IPLDSEVTALSDDEYFSAGVVKAHKKDSEELYYCIERIL--EWHESRH------------------
+>tr|H2L338|H2L338_ORYLA Uncharacterized protein OS=Oryzias latipes GN=LOC101165871 PE=4 SV=1
+IPVETEVTALLEDEYFSVGVVKGHRAEGSELFYSIERDGQRHWHNRTAVILSLDQGNRLREQHSLG
+>tr|S4RQW7|S4RQW7_PETMA Uncharacterized protein OS=Petromyzon marinus GN=TP53BP1 PE=4 SV=1
+IPLHTQVTALSHDEYFSAGQVSERFTEGSNFFDA-DKPMQHMQctLHKEGILLIATAGNMHMLLYSNV
+>tr|V9K906|V9K906_CALMI Tumor suppressor p53-binding protein 1 (Fragment) OS=Callorhinchus milii PE=2 SV=1
+IPVETEVTALSDDEYFSAGIVKAHRTEADEFHYCIEKDGQRTWYKRMAVILSLEQGNRLREQFGL-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+I 1    *	*	*	*	*	*	*	344	*	2236	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2403	0	0	
+
+P 2    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2403	0	0	
+
+L 3    *	*	*	*	*	*	*	*	*	761	4857	*	*	*	4514	*	3831	1936	*	*	3
+       0	*	*	*	*	*	*	2403	0	0	
+
+D 4    *	*	3032	880	*	*	2621	*	*	*	*	*	*	*	2543	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2403	0	0	
+
+T 5    *	*	*	*	*	*	*	*	*	2543	*	*	*	*	*	4174	372	*	*	*	5
+       0	*	*	*	*	*	*	2403	0	0	
+
+E 6    *	*	*	587	*	*	*	*	*	*	*	*	*	2621	2543	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2403	0	0	
+
+V 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2543	*	272	*	*	7
+       0	*	*	*	*	*	*	2403	0	0	
+
+T 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2543	272	*	*	*	8
+       0	*	*	*	*	*	*	2403	0	0	
+
+A 9    272	*	*	*	*	*	*	*	*	*	*	*	2543	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2403	0	0	
+
+L 10   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2403	0	0	
+
+S 11   *	2543	*	*	*	*	*	*	*	2919	*	*	*	*	*	817	2961	*	*	*	11
+       0	*	*	*	*	*	*	2403	0	0	
+
+E 12   *	*	3320	938	*	*	2621	*	4514	*	*	*	*	*	*	*	*	2543	*	*	12
+       272	*	2543	*	*	*	*	2403	0	0	
+
+D 13   *	*	236	2726	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	0	2005	0	1184	
+
+E 14   *	*	3971	95	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	0	2005	0	1184	
+
+Y 15   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	15
+       0	*	*	*	*	0	*	2005	0	1184	
+
+F 16   *	2543	*	*	272	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2403	0	0	
+
+S 17   *	*	*	*	*	*	*	*	*	*	*	2961	*	*	*	198	*	*	*	*	17
+       0	*	*	*	*	*	*	2403	0	0	
+
+A 18   817	*	*	*	*	*	*	2783	*	2543	*	*	*	*	*	*	3831	4472	*	*	18
+       0	*	*	*	*	*	*	2403	0	0	
+
+G 19   *	*	*	*	*	272	*	*	*	*	*	*	*	*	2543	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2403	0	0	
+
+V 20   *	*	*	*	*	*	*	4483	*	3831	*	*	*	2621	2543	*	*	860	*	*	20
+       0	*	*	*	*	*	*	2403	0	0	
+
+V 21   *	*	*	*	*	2543	*	4430	*	*	*	*	*	*	*	*	*	355	*	*	21
+       0	*	*	*	*	*	*	2403	0	0	
+
+K 22   *	*	*	*	*	2543	*	*	678	*	*	*	*	*	4617	2621	*	*	*	*	22
+       0	*	*	*	*	*	*	2403	0	0	
+
+G 23   2881	*	*	2621	*	604	*	*	*	*	*	*	*	4514	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2403	0	0	
+
+H 24   *	*	*	*	*	*	256	*	*	*	*	*	*	*	2621	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2403	0	0	
+
+R 25   *	*	*	*	2621	*	*	*	1422	*	*	*	2543	*	1773	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2403	0	0	
+
+K 26   4472	*	*	4514	*	*	*	*	2167	*	3831	*	*	1913	*	*	1504	*	*	*	26
+       0	*	*	*	*	*	*	2403	0	0	
+
+E 27   *	*	2994	914	*	*	*	*	*	*	*	*	*	2961	2543	*	*	4514	*	*	27
+       0	*	*	*	*	*	*	2403	0	0	
+
+S 28   4483	*	*	*	*	596	*	*	*	4623	*	*	*	*	*	1981	*	*	*	*	28
+       0	*	*	*	*	*	*	2403	0	0	
+
+G 29   *	*	3658	3458	*	2301	2543	*	*	*	*	*	*	3521	*	1442	*	*	*	*	29
+       272	*	2543	*	*	*	*	2403	0	0	
+
+E 30   *	*	3366	595	*	*	*	*	*	*	*	2337	*	4539	*	*	*	*	*	*	30
+       0	*	*	*	*	*	0	2005	0	1184	
+
+L 31   *	*	*	*	1478	*	*	*	*	642	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	0	2005	0	1184	
+
+Y 32   *	*	*	*	1171	*	4233	*	*	2316	*	*	*	*	*	*	*	*	*	1728	32
+       0	*	*	*	*	*	0	2005	0	1184	
+
+Y 33   *	*	2337	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	318	33
+       0	*	*	*	*	*	0	2005	0	1184	
+
+S 34   2337	734	*	*	*	*	*	*	*	*	*	*	*	*	*	2317	*	*	*	*	34
+       318	*	2337	*	*	*	0	2005	0	1184	
+
+I 35   *	*	*	*	*	*	*	815	*	*	*	*	*	*	*	*	*	1212	*	*	35
+       0	*	*	*	*	1138	874	1647	0	1400	
+
+E 36   *	*	2337	318	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	0	2005	0	1184	
+
+K 37   *	*	*	*	*	*	*	*	181	*	*	*	*	*	3085	*	*	*	*	*	37
+       0	*	*	*	*	*	0	2005	0	1184	
+
+E 38   *	*	997	2074	*	*	*	3977	*	*	*	*	2337	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	0	2005	0	1184	
+
+G 39   *	*	*	*	*	437	*	*	*	3977	2337	*	*	*	*	*	*	*	*	*	39
+       95	*	3977	*	*	*	0	2005	0	1184	
+
+Q 40   *	*	*	*	*	*	3569	*	*	*	*	*	*	127	*	*	*	*	*	*	40
+       0	*	*	*	*	421	1983	1954	0	1272	
+
+R 41   *	*	*	*	*	*	2506	*	*	*	*	*	*	4562	622	2920	*	*	*	*	41
+       275	*	2527	*	*	0	*	2336	0	1009	
+
+K 42   *	*	*	3977	*	*	4202	*	1426	*	2337	*	*	3214	*	3859	4233	3604	*	*	42
+       0	*	*	*	*	*	0	2005	0	1184	
+
+W 43   *	*	*	*	*	*	*	*	*	*	*	*	*	2337	*	*	*	*	448	3859	43
+       318	2337	*	1000	1000	0	*	2005	1140	1184	
+
+Y 44   *	*	*	*	*	2543	2768	*	*	2621	*	*	*	*	*	*	*	*	*	946	44
+       0	*	*	*	*	*	*	2403	0	0	
+
+K 45   *	*	*	4174	*	*	2621	*	2040	*	*	2919	*	2543	3231	2961	*	*	*	*	45
+       0	*	*	*	*	*	*	2403	0	0	
+
+R 46   *	*	*	*	*	*	*	*	2621	*	*	*	*	*	355	4174	*	*	*	*	46
+       0	*	*	*	*	*	*	2403	0	0	
+
+M 47   2236	*	*	2621	*	*	*	4883	4617	*	2111	3831	*	*	3334	*	2741	*	*	*	47
+       0	*	*	*	*	*	*	2403	0	0	
+
+A 48   948	*	*	*	*	1581	4174	*	*	*	*	*	*	*	*	3441	*	*	*	*	48
+       0	*	*	*	*	*	*	2403	0	0	
+
+V 49   *	*	*	*	*	*	*	2112	*	*	*	*	*	*	*	2527	*	748	*	*	49
+       0	*	*	*	*	*	*	2336	0	0	
+
+I 50   *	*	*	*	*	*	*	620	*	2506	*	*	*	*	*	*	*	2527	*	*	50
+       0	*	*	*	*	*	*	2336	0	0	
+
+L 51   *	*	*	*	*	*	*	*	*	275	*	*	*	*	*	*	*	2527	*	*	51
+       0	*	*	*	*	*	*	2336	0	0	
+
+S 52   *	*	*	*	*	*	*	2506	*	*	*	*	*	*	*	789	2028	*	*	*	52
+       0	*	*	*	*	*	*	2336	0	0	
+
+L 53   2506	*	*	*	*	*	*	*	*	1230	2920	*	*	3440	*	*	*	2527	*	*	53
+       0	*	*	*	*	*	*	2336	0	0	
+
+E 54   *	*	2865	962	*	2527	*	*	*	*	*	*	*	*	*	*	2506	*	*	*	54
+       0	*	*	*	*	*	*	2336	0	0	
+
+Q 55   2506	*	*	*	*	*	*	*	*	*	*	*	*	620	2527	*	*	*	*	*	55
+       0	*	*	*	*	*	*	2336	0	0	
+
+G 56   4176	*	*	*	*	82	*	*	*	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	2336	0	0	
+
+N 57   *	*	*	*	*	2527	*	*	*	*	*	384	*	*	*	4051	*	*	*	*	57
+       0	*	*	*	*	*	*	2336	0	0	
+
+R 58   *	*	*	*	*	*	*	*	1983	*	2506	4176	*	*	1547	2527	*	*	*	*	58
+       72	*	4360	*	*	*	*	2336	0	0	
+
+L 59   *	*	*	*	*	*	2482	*	*	636	*	*	*	*	*	2493	*	*	*	*	59
+       0	*	*	*	*	0	*	2324	0	1000	
+
+R 60   *	*	*	*	2527	*	*	*	*	4360	2506	*	*	*	733	*	*	*	*	*	60
+       362	2170	*	2599	260	*	*	2336	1245	0	
+
+E 61   *	*	*	770	*	4132	*	*	*	2482	*	*	*	*	2493	*	*	*	*	*	61
+       0	*	*	*	*	0	*	2324	0	1000	
+
+Q 62   2527	*	*	*	*	*	*	*	*	2506	*	*	*	620	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	2336	0	0	
+
+Y 63   *	*	*	*	1410	*	2810	*	*	*	*	*	*	*	2527	*	*	*	*	1700	63
+       0	*	*	*	*	*	*	2336	0	0	
+
+G 64   3800	*	*	*	*	714	*	*	*	*	*	*	*	*	*	1650	*	*	*	*	64
+       0	*	*	*	*	*	*	2336	0	0	
+
+L 65   2527	*	*	*	*	*	*	*	*	620	*	2506	*	*	*	*	*	*	*	*	65
+       0	*	*	*	*	*	*	2336	0	0	
+
+G 66   *	*	*	*	*	286	*	*	*	*	*	*	*	*	*	*	*	2475	*	*	66
+       0	*	*	0	*	*	*	2326	0	0	
+
+//

@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  150
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 06:33:00 2016
+LENG  36 match states, 36 columns in multiple alignment
+FILT  50 out of 52 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.1 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCHHHHHHHHCCCCCCHHHHHHCCCCCC
+>ss_conf PSIPRED confidence values
+987665643200577762244345188874104579
+>Consensus
+xxGxGexxcgxrplxexxxxxxxxexelxxsyxxxR
+>150
+TFGSGEADCGLRPLFEKKSLEDKTERELLESYIDGR
+>tr|F7D8I1|F7D8I1_XENTR Uncharacterized protein OS=Xenopus tropicalis GN=LOC100145345 PE=3 SV=1
+--GQGDDPTAEKKpinktsldhneigasvraartgtsksVWEENHGlASVEPDDYNTPDGDVR
+>tr|G1MRV6|G1MRV6_MELGA Uncharacterized protein OS=Meleagris gallopavo GN=F7 PE=3 SV=2
+--STGQDKTGAAQhmpgglnesDNADISAiPQcpQRNASAPAEHRDSR
+>tr|K7F5M9|K7F5M9_PELSI Uncharacterized protein OS=Pelodiscus sinensis PE=3 SV=1
+------KLNAKEQnvhdgltqtdAEGNLTGgDLpsWTRVFQTAEPSDTR
+>tr|M3YFR2|M3YFR2_MUSPF Uncharacterized protein OS=Mustela putorius furo GN=F10 PE=3 SV=1
+--GTPDSCSPAR-pgglppeLWRGRGRsdpgargpg--AETAEAQQNRPHVP
+>tr|F7B581|F7B581_ORNAN Uncharacterized protein OS=Ornithorhynchus anatinus GN=F2 PE=3 SV=1
+--L--NRECTEMTSL-------gIELSEVHLKYLIPR
+>tr|G1RVB3|G1RVB3_NOMLE Prothrombin OS=Nomascus leucogenys GN=F2 PE=3 SV=1
+--GSGEADHLRGGVQGQPGQ--nGKTQSLLKMQKSAR
+>tr|H2SPL2|H2SPL2_TAKRU Uncharacterized protein OS=Takifugu rubripes GN=f2 PE=3 SV=1
+--------AAHNPILFQKNK--kdASEDELLQSYREKR
+>tr|M3ZVS8|M3ZVS8_XIPMA Uncharacterized protein OS=Xiphophorus maculatus PE=3 SV=1
+--T-------LS-arvlmdtSWVKMESpvnpmvrkthvmiqvehrrsgrvikqhtpastfrfnnGMqsFTSNEHDDLSGTIR
+>tr|A0A060XWZ8|A0A060XWZ8_ONCMY Uncharacterized protein OS=Oncorhynchus mykiss GN=GSONMT00050264001 PE=3 SV=1
+--GK--GCPKQG-fygvytavanylDWAEEVMntpsvvapvpsvsapvmpfllemALdeVQIQQATEN--TIL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	1
+       0	*	*	*	*	*	*	1582	0	0	
+
+F 2    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1582	0	0	
+
+G 3    *	*	*	*	*	448	*	*	*	3828	*	*	*	*	*	2926	3950	*	*	*	3
+       209	*	2887	*	*	*	*	5143	0	0	
+
+S 4    3445	*	6415	3279	6729	*	*	*	3108	6133	3519	4417	*	2417	*	2624	2554	*	*	*	4
+       159	5419	3624	2000	415	*	0	4560	1000	1559	
+
+G 5    *	*	*	*	*	153	*	*	*	*	*	*	3316	*	*	*	*	*	*	*	5
+       0	*	*	*	*	1483	639	4284	0	1842	
+
+E 6    *	*	2415	919	*	*	*	*	*	*	*	3615	*	2472	*	5515	*	*	*	*	6
+       0	*	*	*	*	1054	948	4598	0	1514	
+
+A 7    1939	*	2787	4600	*	3750	*	*	3805	4139	5953	3691	*	6612	3795	2606	6610	*	*	*	7
+       0	*	*	*	*	*	0	5229	0	1219	
+
+D 8    *	2827	1822	2272	*	6553	*	*	3537	3805	*	5891	3735	*	*	6192	*	3392	*	*	8
+       0	*	*	*	*	*	0	5229	0	1219	
+
+C 9    5178	1004	*	*	*	*	4208	*	*	*	*	3862	3967	*	*	3774	2226	*	*	*	9
+       0	*	*	*	*	*	0	5264	0	1219	
+
+G 10   2559	*	*	*	*	811	*	*	3967	4208	*	*	3774	*	*	*	3856	*	*	*	10
+       0	*	*	*	*	0	*	5264	0	1219	
+
+L 11   2320	*	*	2365	*	*	5240	5044	3330	2038	*	*	*	3449	4026	*	4956	5590	*	*	11
+       0	*	*	*	*	*	*	5522	0	0	
+
+R 12   4491	*	*	3955	*	3188	*	4248	3901	*	4008	5240	*	*	1054	4085	*	4935	*	*	12
+       310	*	2372	*	*	*	*	5522	0	0	
+
+P 13   *	*	*	*	*	3900	*	*	3543	*	*	*	912	2056	*	*	3735	*	*	*	13
+       570	1616	*	3513	132	45	5011	4695	2982	1878	
+
+L 14   3955	*	2890	*	*	4247	*	5236	6261	1349	3732	*	*	*	*	3040	*	3070	*	*	14
+       0	*	*	*	*	0	*	5529	0	1000	
+
+F 15   4248	*	*	3955	1283	*	*	*	*	3496	*	4491	*	4265	*	*	*	*	1802	*	15
+       93	*	4008	*	*	*	*	5522	0	0	
+
+E 16   3204	*	*	987	5085	2645	*	*	*	*	*	*	*	*	3755	*	4122	3919	*	*	16
+       0	*	*	*	*	*	0	5242	0	1243	
+
+K 17   *	*	4381	2674	*	3755	*	*	1630	4332	5949	2567	*	3148	4699	6347	*	*	*	*	17
+       0	*	*	*	*	*	0	5242	0	1243	
+
+K 18   4122	*	*	3756	*	*	*	3269	1885	3467	3554	3778	4151	5240	3755	6648	*	3667	*	*	18
+       0	*	*	*	*	*	0	5242	0	1243	
+
+S 19   5715	*	*	3420	*	2686	3778	*	3859	5889	*	2808	*	4698	6307	1993	3884	4046	*	*	19
+       0	*	*	*	*	*	0	5242	0	1243	
+
+L 20   3577	*	*	*	*	2336	*	3802	2050	4275	4046	*	*	4151	3470	3919	*	3643	*	*	20
+       3898	1051	1151	3367	147	*	0	5242	2957	1243	
+
+E 21   1602	*	2993	4274	*	3334	*	*	3071	*	*	*	2235	*	*	*	3997	*	*	*	21
+       0	*	*	*	*	*	0	5138	0	3393	
+
+D 22   *	*	1770	*	*	*	*	*	*	2105	3334	*	*	2035	*	2930	*	*	*	*	22
+       1237	797	*	888	1121	0	*	5138	4257	3393	
+
+K 23   2709	*	*	4735	4085	3696	*	4008	3206	*	*	4452	*	2593	5106	4445	6744	2810	3955	*	23
+       0	*	*	*	*	*	*	5522	0	0	
+
+T 24   *	*	*	2325	*	4284	*	*	3013	*	*	4920	4248	4116	3999	3170	1860	4935	*	*	24
+       0	*	*	*	*	*	*	5522	0	0	
+
+E 25   *	*	*	1193	*	*	*	4116	*	4008	*	2946	3901	*	3955	4085	3030	*	*	*	25
+       0	*	*	*	*	*	*	5522	0	0	
+
+R 26   2677	*	2763	4656	*	*	5865	*	3400	5709	*	3659	*	2311	6268	3123	*	3095	*	*	26
+       0	*	*	*	*	*	*	5522	0	0	
+
+E 27   *	*	3901	743	3955	*	*	*	5709	*	*	*	*	3836	*	2460	*	*	*	*	27
+       0	*	*	*	*	*	*	5522	0	0	
+
+L 28   2535	*	*	*	*	*	4085	*	*	1030	*	*	*	3955	*	3551	*	4008	*	3901	28
+       0	*	*	*	*	*	*	5522	0	0	
+
+L 29   *	*	4085	*	6830	*	4008	4591	*	1316	6525	3901	4491	3500	*	*	2209	*	*	*	29
+       0	*	*	*	*	*	*	5522	0	0	
+
+E 30   3198	*	2277	1879	*	*	*	*	3999	3398	6316	*	*	3234	5876	4248	3901	*	*	*	30
+       0	*	*	*	*	*	*	5522	0	0	
+
+S 31   *	*	*	2364	*	*	*	*	4008	4085	4265	2964	3901	*	*	1193	*	*	*	*	31
+       86	*	4116	*	*	*	*	5522	0	0	
+
+Y 32   *	*	3836	*	*	*	2862	*	*	5981	*	*	3845	3740	3607	3985	*	*	*	1038	32
+       0	*	*	*	*	*	0	5327	0	1196	
+
+I 33   5696	*	5851	*	*	2909	*	2742	4159	3538	5678	3490	3607	4956	2274	3378	6280	*	*	*	33
+       93	*	3995	*	*	0	*	5327	0	1196	
+
+D 34   4426	*	1786	2950	*	2585	3598	3983	*	*	*	*	*	4831	6633	4144	3061	*	*	*	34
+       0	*	*	*	*	0	*	5484	0	1201	
+
+G 35   4038	*	*	6380	*	2013	*	3100	4222	*	*	*	4008	3787	*	2636	3955	2745	*	*	35
+       0	*	*	*	*	*	*	5522	0	0	
+
+R 36   *	*	*	*	*	*	*	*	*	4097	*	*	3804	*	201	*	*	*	*	*	36
+       0	*	*	0	*	*	*	5512	0	0	
+
+//

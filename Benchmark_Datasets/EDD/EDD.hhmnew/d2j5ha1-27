@@ -1,0 +1,159 @@
+HHsearch 1.5
+NAME  2045
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 12:57:53 2016
+LENG  39 match states, 39 columns in multiple alignment
+FILT  78 out of 80 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.6 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCEEECCCCCEECCCCEEEECCCCCCCCCC
+>ss_conf PSIPRED confidence values
+986756569870156975868178608658854577888
+>Consensus
+xxxCGxvxHGxWxxkxCxlCrCxxGxLhCxpxxxxxxCd
+>2045
+KEHCGSILHGTWLPKKCSLCRCWHGQLHCLPQTFLPGCD
+>tr|G1PG73|G1PG73_MYOLU Uncharacterized protein OS=Myotis lucifugus PE=4 SV=1
+-SECGTLVHGSWTVCGCQLCRCVFGTLHCLPRQTSGRCG
+>tr|V9L7Z7|V9L7Z7_CALMI Cryptic protein OS=Callorhinchus milii PE=2 SV=1
+-KTCGTILHGAWVIRSCSWCKCRYGRLHCIDAFKeMENCG
+>tr|A0A0Q3XNN0|A0A0Q3XNN0_ALLMI Uncharacterized protein OS=Alligator mississippiensis GN=Y1Q_003893 PE=4 SV=1
+-RSCDAIGHGEWTQEGCFLCQCLYGILNCFPQSVEERCG
+>tr|A0A0Q3XMH6|A0A0Q3XMH6_ALLMI Cripto, FRL-1, cryptic family 1B OS=Alligator mississippiensis GN=CFC1B PE=4 SV=1
+KRNCGPVAHGAWIIKGCRFCRCGYGMLHCLSGRMQDNCD
+>tr|K1R5K1|K1R5K1_CRAGI Teratocarcinoma-derived growth factor OS=Crassostrea gigas GN=CGI_10027439 PE=4 SV=1
+--ACRHVPHGYWIRSDCDKCRCFNGRIFCIPKYY-FGCD
+>tr|F7CPA0|F7CPA0_XENTR Uncharacterized protein OS=Xenopus tropicalis GN=tdgf1.3 PE=4 SV=1
+-ASCAGVPHGDWIRQGCLLCRCVSGVLHCFTPES-EDCG
+>tr|V9LAB5|V9LAB5_CALMI Cryptic protein-like protein OS=Callorhinchus milii PE=2 SV=1
+NRDCNSIQHGEWARKNCTWCKCNYGTFHCLRGLL-ENCD
+>tr|W4XBU1|W4XBU1_STRPU Uncharacterized protein OS=Strongylocentrotus purpuratus GN=Sp-Cryptic PE=4 SV=1
+NSSCGRVPHGRWVYLNCNSCHCVAGVLKCQPHPM-PGCD
+>tr|D1LWZ3|D1LWZ3_SACKO Cripto-like protein OS=Saccoglossus kowalevskii PE=2 SV=1
+-KPCGAVAHDEKLTVQCNTCLCRDGKLYCVPLGF-PAC-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	839	*	*	2144	*	*	3830	*	2792	*	*	*	1
+       0	*	*	*	*	*	*	2762	0	0	
+
+E 2    5566	*	*	2444	*	6366	*	*	2776	4591	*	*	*	5233	1931	1705	*	*	*	*	2
+       0	*	*	*	*	*	*	3576	0	0	
+
+H 3    5131	*	3242	3585	*	*	5222	*	3858	*	*	1464	3284	*	5782	2576	5696	*	*	5922	3
+       0	*	*	*	*	*	*	3659	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	3659	0	0	
+
+G 5    4646	*	5435	5664	*	379	*	*	4206	*	*	5388	*	*	4577	5152	*	*	*	*	5
+       71	4388	*	1101	906	*	*	3659	1091	0	
+
+S 6    2380	*	5214	4538	6816	4634	4847	4993	4930	5993	*	5650	3515	*	4112	1743	3724	4858	*	*	6
+       0	*	*	*	*	*	*	3659	0	0	
+
+I 7    *	*	*	*	4261	5794	6476	1877	*	2501	*	*	*	*	*	*	*	1090	*	*	7
+       0	*	*	*	*	*	*	3659	0	0	
+
+L 8    2859	*	*	6462	*	3695	*	6424	4317	3511	4199	*	1311	4522	*	4148	6971	4087	*	*	8
+       0	*	*	*	*	*	*	3659	0	0	
+
+H 9    *	*	*	*	*	*	41	*	*	*	*	5152	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3659	0	0	
+
+G 10   *	*	2281	*	*	382	*	*	*	*	*	5214	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3659	0	0	
+
+T 11   2011	*	3448	2187	*	*	5395	*	5821	6447	*	6716	*	5922	5109	4832	2223	4189	*	5131	11
+       0	*	*	*	*	*	*	3659	0	0	
+
+W 12   *	*	*	*	*	5794	*	*	4989	*	*	*	*	*	6259	*	5236	*	135	*	12
+       0	*	*	*	*	*	*	3659	0	0	
+
+L 13   5388	*	*	*	5650	*	*	3091	*	1709	4121	*	*	*	*	5883	2465	1850	*	*	13
+       18	6359	*	0	*	*	*	3659	1000	0	
+
+P 14   *	*	5821	4566	3532	*	*	4089	4334	3386	5713	*	2214	2706	3065	6271	4989	4700	5850	4571	14
+       0	*	*	*	*	*	*	3659	0	0	
+
+K 15   *	6547	*	4118	*	*	5348	*	1255	4687	5236	4927	*	4041	2219	3956	*	4989	*	5748	15
+       0	*	*	*	*	*	*	3659	0	0	
+
+K 16   5012	*	4046	*	*	1152	*	*	2575	*	*	2904	*	4282	4318	4588	6163	*	*	*	16
+       0	*	*	*	*	*	*	3659	0	0	
+
+C 17   *	80	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4206	*	*	17
+       80	*	4206	*	*	*	*	3659	0	0	
+
+S 18   5337	*	4337	*	6064	*	4739	*	*	4184	*	2817	5779	4172	2550	1647	5301	*	3759	6203	18
+       0	*	*	*	*	0	*	3588	0	1151	
+
+L 19   *	*	*	*	5757	*	*	4484	5131	845	3359	*	4206	*	*	5109	4989	*	4155	3587	19
+       0	*	*	*	*	*	*	3659	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3659	0	0	
+
+R 21   *	*	*	*	*	*	5109	*	2236	4107	*	*	*	5444	725	*	*	4206	5748	*	21
+       0	*	*	*	*	*	*	3659	0	0	
+
+C 22   *	80	*	*	*	*	*	*	*	*	*	4206	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3659	0	0	
+
+W 23   5850	*	*	*	3221	2311	*	4175	*	4222	4993	5388	*	*	3693	*	5670	2462	2214	5995	23
+       0	*	*	*	*	*	*	3659	0	0	
+
+H 24   5109	*	3371	*	2766	*	2787	*	*	5357	*	3294	*	5488	4920	5622	*	*	*	1394	24
+       0	*	*	*	*	*	*	3659	0	0	
+
+G 25   4725	*	*	*	*	185	*	*	*	*	*	*	*	*	*	3875	*	6096	*	*	25
+       0	*	*	*	*	*	*	3659	0	0	
+
+Q 26   2861	*	*	6246	*	*	6163	4236	4488	4568	6463	6170	*	2755	2909	5336	2399	2519	*	*	26
+       0	*	*	*	*	*	*	3659	0	0	
+
+L 27   *	*	*	*	2725	*	*	3831	*	454	4367	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3659	0	0	
+
+H 28   *	*	5883	*	5131	*	772	*	4622	5214	*	3910	*	5850	3126	5018	*	*	*	3796	28
+       0	*	*	*	*	*	*	3659	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	3659	0	0	
+
+L 30   *	*	*	*	1327	*	*	3144	*	1367	*	*	*	5109	*	6226	*	4107	*	*	30
+       0	*	*	*	*	*	*	3659	0	0	
+
+P 31   4669	*	5546	*	*	*	5920	*	*	*	*	*	728	4940	3745	2786	4407	5650	*	*	31
+       0	*	*	*	*	*	*	3729	0	0	
+
+Q 32   5546	*	4655	2849	*	4682	2945	*	4963	3835	*	3838	5478	1764	3770	3855	*	*	*	*	32
+       0	*	*	*	*	*	*	3729	0	0	
+
+T 33   3737	*	6110	5380	5395	3974	6236	3685	*	5195	6340	6068	4079	2579	6233	5650	2346	2599	*	4967	33
+       33	*	5475	*	*	*	*	3886	0	0	
+
+F 34   *	*	*	*	1373	5360	*	5470	4941	5104	3010	*	*	4699	4033	5294	2432	5612	*	4313	34
+       412	5334	2162	0	*	0	*	3846	1024	1016	
+
+L 35   *	5172	*	5299	4878	4934	2515	6244	5688	2175	4801	*	3425	2881	*	4017	3993	*	*	4015	35
+       135	*	3480	*	*	0	*	3414	0	1521	
+
+P 36   6180	*	3093	2857	4748	2933	*	5304	4594	*	*	4216	1927	3233	5290	4397	*	*	*	*	36
+       0	*	*	*	*	0	*	3771	0	1107	
+
+G 37   4745	*	2651	*	*	1399	*	*	6414	*	*	2209	*	*	3461	5086	*	3715	*	*	37
+       0	*	*	*	*	*	*	3821	0	0	
+
+C 38   *	114	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3715	*	*	38
+       0	*	*	*	*	*	*	3821	0	0	
+
+D 39   3864	*	847	2910	*	2272	*	*	*	*	*	*	*	*	*	*	*	4825	*	*	39
+       0	*	*	0	*	*	*	3545	0	0	
+
+//

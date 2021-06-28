@@ -1,0 +1,246 @@
+HHsearch 1.5
+NAME  416
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 21:27:34 2016
+LENG  68 match states, 68 columns in multiple alignment
+FILT  114 out of 141 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CEEEEEEECCCCEEEEEECCCCCCCHHHHCCCCCCEEEEEEECCEEEEEEECEEEEEECCCEEECCCC
+>ss_conf PSIPRED confidence values
+96999982079199986247666522342047784999982054366898012899951467951889
+>Consensus
+dyivIkAxexGVxViGlTRGxdTkfhHtEkLDkGEVmiaQFTehtSAiKIRGkAxixTxxGxixsxxx
+>416
+DFVVIKAVEDGVNVIGLTRGTDTKFHHSEKLDKGEVIIAQFTEHTSAIKVRGEALIQTAYGEMKSEKK
+>tr|R6NGJ6|R6NGJ6_9FIRM Tryptophan RNA-binding attenuator protein OS=Firmicutes bacterium CAG:41 GN=BN647_01682 PE=4 SV=1
+EYIVVKALENGVNIIGLTSGKDTKFHHTEKLDKGEVFLAQFTDVTTAIKINGAAEIYTKHGKLMSDAR
+>tr|A0A0D7X126|A0A0D7X126_9BACL Transcription attenuation protein MtrB OS=Paenibacillus terrae GN=QD47_14325 PE=4 SV=1
+EYVVIKAKSNGCQVFGLTRGQDTRLHHSEKLDKGEVLIVQFTDHTSAIKIRGKAVVMTKHGVVDTED-
+>tr|B1I3G5|B1I3G5_DESAP Tryptophan RNA-binding attenuator protein OS=Desulforudis audaxviator (strain MP104C) GN=Daud_1051 PE=4 SV=1
+EYVIIKALENGVTIMGLTRGRETKFHHTEKLDRGEIMVAQFTEHTAAIKIRGRAEVYTRHGMICTENH
+>tr|R5AM13|R5AM13_9FIRM Tryptophan RNA-binding attenuator protein OS=Firmicutes bacterium CAG:102 GN=BN453_01272 PE=4 SV=1
+SYICVKALEKGVNIIGVTRGEVTKIHHTEKLDQGEVLIAQFTENTSAMKIRGKAEVYTQFGMIRAGEV
+>tr|A0A073IP68|A0A073IP68_9BACT Transcription attenuation protein MtrB OS=Synergistes jonesii GN=EH55_11335 PE=4 SV=1
+EYIVVKALENGVTVTGVTRGAENKFLHTEKLEEGEVWLAQFTEHISAMKIRGRAKLLTSHGEIESGKA
+>tr|J9HLS7|J9HLS7_9BACL Uncharacterized protein OS=Alicyclobacillus hesperidum URH17-3-68 GN=URH17368_2158 PE=4 SV=1
+DYFVIRALENGVQVIGMTRGAQTRFHHSEKLDKNEVMIAQFTEHTSAMKIRGKAVLYTSYGQIRTDG-
+>tr|E4RJ17|E4RJ17_HALHG Tryptophan RNA-binding attenuator protein OS=Halanaerobium hydrogeniformans GN=Halsa_1819 PE=4 SV=1
+DFIIIKALEDGVTIIGLTRGKDTRFNHTEKLDKGEILAAQFTENVSAMKIRGKAELLSKHGKIEADS-
+>tr|R6WXI8|R6WXI8_9CLOT Tryptophan RNA-binding attenuator protein OS=Clostridium sp. CAG:349 GN=BN619_00936 PE=4 SV=1
+DYIVVKALSEGVQVIGLTRGGETRSHHTEMLDAGEVLVAQFTTKTSAIKIRGDAEILTKHGAVRSNK-
+>tr|U2QBG5|U2QBG5_9BACL Transcription attenuation protein MtrB family protein OS=Gemella bergeriae ATCC 700627 GN=HMPREF1983_00291 PE=4 SV=1
+DYIIIRAEVDNVKVITK--KINN-EESLEILNKGEVIILNIFDNIKNFKIKGRARIVSTLDQVIS---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	463	2112	*	*	*	*	*	*	*	6994	*	6375	*	6009	7020	*	*	*	1
+       0	*	*	*	*	*	*	2333	0	0	
+
+F 2    *	*	*	*	2079	*	6557	*	*	*	*	*	*	*	*	6803	*	*	*	427	2
+       0	*	*	*	*	*	*	2336	0	0	
+
+V 3    *	*	*	*	2922	*	*	838	*	6155	*	*	*	*	*	*	*	1797	7155	*	3
+       0	*	*	*	*	*	*	2336	0	0	
+
+V 4    4313	4775	*	*	*	*	*	2054	*	6428	6852	*	*	*	*	*	7243	632	*	*	4
+       0	*	*	*	*	*	*	2336	0	0	
+
+I 5    *	*	*	*	*	*	*	539	*	*	*	*	*	*	*	*	*	1681	*	*	5
+       0	*	*	*	*	*	*	2336	0	0	
+
+K 6    *	*	*	5458	*	*	6840	*	384	*	*	*	*	5511	2471	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2336	0	0	
+
+A 7    20	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6193	*	*	*	*	7
+       0	*	*	*	*	*	*	2336	0	0	
+
+V 8    *	6005	*	2430	*	6214	7333	4998	2337	1080	4946	*	*	5408	*	*	*	5563	*	*	8
+       0	*	*	*	*	*	*	2336	0	0	
+
+E 9    4967	*	3030	558	*	*	*	*	*	*	*	*	*	5311	*	4782	*	3252	*	*	9
+       0	*	*	*	*	*	*	2336	0	0	
+
+D 10   *	*	1179	5754	*	*	7197	*	5256	*	*	1128	*	4563	*	7192	*	*	*	*	10
+       0	*	*	*	*	*	*	2336	0	0	
+
+G 11   *	*	*	*	*	190	*	*	*	*	*	3252	*	*	*	5739	*	*	*	*	11
+       0	*	*	*	*	*	*	2336	0	0	
+
+V 12   *	6237	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19	*	*	12
+       0	*	*	*	*	*	*	2336	0	0	
+
+N 13   7263	*	*	*	*	*	4434	*	3252	*	5556	1808	*	2458	*	3836	1852	7296	*	*	13
+       0	*	*	*	*	*	*	2336	0	0	
+
+V 14   *	*	*	*	*	*	*	1783	*	5096	*	*	*	*	*	*	*	556	*	*	14
+       0	*	*	*	*	*	*	2336	0	0	
+
+I 15   *	*	*	*	4333	*	*	274	*	*	5027	6331	*	*	*	4932	5578	6863	*	5783	15
+       0	*	*	*	*	*	*	2336	0	0	
+
+G 16   *	*	*	*	*	160	*	*	*	*	*	*	*	*	*	*	3252	*	*	*	16
+       0	*	*	*	*	*	*	2336	0	0	
+
+L 17   *	*	*	*	*	*	*	*	3252	322	4379	*	*	*	*	*	*	4408	*	*	17
+       160	*	3252	*	*	*	*	2336	0	0	
+
+T 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4864	50	*	*	*	18
+       0	*	*	*	*	*	0	2091	0	1141	
+
+R 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	36	5338	*	*	*	*	19
+       0	*	*	*	*	0	*	2091	0	1141	
+
+G 20   *	*	*	*	*	160	*	*	3252	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2336	0	0	
+
+T 21   4138	*	*	3456	*	5374	6111	3189	2305	7385	*	5115	6331	2985	3776	3503	2585	*	*	*	21
+       0	*	*	*	*	*	*	2336	0	0	
+
+D 22   *	*	692	2719	*	*	*	*	*	*	*	2998	*	4696	*	5345	6765	4976	*	*	22
+       0	*	*	*	*	*	*	2336	0	0	
+
+T 23   *	*	*	*	*	*	*	*	*	*	*	2990	*	*	*	*	194	*	*	*	23
+       160	*	3252	*	*	*	*	2336	0	0	
+
+K 24   *	*	*	*	*	*	*	*	863	*	*	*	*	*	1208	*	*	5857	*	*	24
+       0	*	*	*	*	0	*	2091	0	1141	
+
+F 25   *	*	*	3252	367	*	*	4582	*	4075	*	*	*	*	*	5754	*	*	*	*	25
+       0	*	*	*	*	*	*	2336	0	0	
+
+H 26   5842	*	*	3252	6545	6430	374	*	*	5578	*	4259	*	*	*	6550	*	*	*	*	26
+       0	*	*	*	*	*	*	2336	0	0	
+
+H 27   *	*	*	*	*	*	160	*	*	*	*	*	*	*	*	3252	*	*	*	*	27
+       0	*	*	*	*	*	*	2336	0	0	
+
+S 28   4056	*	*	*	*	*	*	6913	*	3252	*	*	*	*	*	1512	1071	*	*	*	28
+       0	*	*	*	*	*	*	2336	0	0	
+
+E 29   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	2336	0	0	
+
+K 30   *	*	*	*	*	*	*	3252	280	*	4760	*	*	*	4849	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2336	0	0	
+
+L 31   *	*	*	*	*	*	*	5556	*	31	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2336	0	0	
+
+D 32   *	*	194	5578	*	*	*	*	*	*	*	3252	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2336	0	0	
+
+K 33   3468	*	5143	4406	*	*	*	*	609	*	*	*	*	4305	3495	5407	6014	*	*	*	33
+       0	*	*	*	*	*	*	2336	0	0	
+
+G 34   *	*	6577	*	*	126	*	*	*	*	*	4043	*	*	*	6331	*	*	*	*	34
+       0	*	*	*	*	*	*	2336	0	0	
+
+E 35   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2336	0	0	
+
+V 36   *	*	*	*	*	*	*	2964	*	4958	6955	*	*	*	*	*	*	266	*	*	36
+       0	*	*	*	*	*	*	2336	0	0	
+
+I 37   *	*	*	*	5417	*	*	2871	*	1896	1046	*	*	*	*	*	*	5556	3928	*	37
+       0	*	*	*	*	*	*	2336	0	0	
+
+I 38   6621	*	*	*	5890	*	*	443	*	3189	*	*	*	*	*	*	*	2970	*	*	38
+       0	*	*	*	*	*	*	2336	0	0	
+
+A 39   414	6970	*	*	*	6091	*	*	*	3014	*	*	*	*	*	5252	*	3701	*	*	39
+       0	*	*	*	*	*	*	2336	0	0	
+
+Q 40   *	*	*	*	*	*	*	*	*	*	*	3252	*	160	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2336	0	0	
+
+F 41   *	*	*	*	160	*	*	3252	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2336	0	0	
+
+T 42   *	*	*	*	3252	*	*	*	*	*	*	*	*	*	*	*	160	*	*	*	42
+       0	*	*	*	*	*	*	2336	0	0	
+
+E 43   *	*	2092	509	*	*	*	*	6557	*	*	6340	*	7228	6855	7381	5754	*	*	*	43
+       0	*	*	*	*	*	*	2336	0	0	
+
+H 44   *	*	7245	*	6550	*	460	*	5754	*	*	2354	*	6443	*	*	*	5056	*	*	44
+       0	*	*	*	*	*	*	2336	0	0	
+
+T 45   *	*	*	*	*	*	*	2821	*	*	*	*	*	*	*	*	277	4905	*	*	45
+       0	*	*	*	*	*	*	2336	0	0	
+
+S 46   5807	*	*	*	*	6763	*	*	3252	*	*	*	*	*	*	244	5417	*	*	*	46
+       0	*	*	*	*	*	*	2336	0	0	
+
+A 47   213	*	*	*	*	6198	*	*	*	*	5766	3252	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	2336	0	0	
+
+I 48   *	*	*	*	3252	*	*	806	*	*	2395	*	*	*	*	*	*	2914	*	*	48
+       0	*	*	*	*	*	*	2336	0	0	
+
+K 49   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2336	0	0	
+
+V 50   *	*	*	*	*	*	*	442	*	*	*	*	*	*	*	*	*	1922	*	*	50
+       0	*	*	*	*	*	*	2336	0	0	
+
+R 51   *	*	*	*	*	*	6545	*	2982	*	*	5417	*	*	253	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2336	0	0	
+
+G 52   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	52
+       0	*	*	*	*	*	*	2336	0	0	
+
+E 53   4907	*	4626	4500	*	*	5239	*	894	*	*	3950	*	6428	2095	7188	*	*	*	*	53
+       0	*	*	*	*	*	*	2336	0	0	
+
+A 54   64	6218	*	*	*	*	*	*	*	*	*	*	*	*	*	5912	*	6193	*	*	54
+       0	*	*	*	*	*	*	2336	0	0	
+
+L 55   *	*	6800	1803	5964	*	*	4968	3039	4825	*	*	*	3881	2791	4757	3200	2878	*	7526	55
+       0	*	*	*	*	*	*	2336	0	0	
+
+I 56   *	*	*	*	*	*	*	558	*	3525	6633	*	*	*	*	*	*	2159	*	*	56
+       0	*	*	*	*	*	*	2336	0	0	
+
+Q 57   5342	*	*	*	5427	*	4490	4226	*	2016	2881	*	*	2960	6428	*	*	3173	6346	2266	57
+       0	*	*	*	*	*	*	2336	0	0	
+
+T 58   *	6214	*	*	*	*	5668	*	*	*	*	*	*	*	*	2332	380	*	*	*	58
+       0	*	*	*	*	*	*	2336	0	0	
+
+A 59   3160	7634	*	6800	*	4912	5696	*	1461	*	*	7308	5094	5845	3124	2612	3041	7518	*	*	59
+       0	*	*	*	*	*	*	2336	0	0	
+
+Y 60   *	*	*	*	3182	*	1087	4614	*	3252	6596	5428	*	*	*	*	*	4776	*	2298	60
+       0	*	*	*	*	*	*	2336	0	0	
+
+G 61   6593	*	3252	*	*	177	*	*	*	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	2336	0	0	
+
+E 62   5120	*	6369	2037	*	*	*	3307	3362	6571	4098	6125	*	2848	5086	4964	2752	3553	*	*	62
+       0	*	*	*	*	*	*	2336	0	0	
+
+M 63   6800	*	*	*	7059	*	*	1409	*	2756	3837	*	*	*	*	6383	6852	1441	*	*	63
+       0	*	*	*	*	*	*	2336	0	0	
+
+K 64   6193	7055	3025	1801	5912	*	5495	3055	4694	7023	5417	4626	*	4516	3236	4886	3912	5704	*	5037	64
+       0	*	*	*	*	*	*	2336	0	0	
+
+S 65   4359	6214	*	*	*	6430	*	*	*	*	*	5238	5511	*	*	740	1841	*	*	*	65
+       0	*	*	*	*	*	*	2336	0	0	
+
+E 66   *	*	2167	1511	6448	1741	*	*	6267	5566	*	5600	*	6860	*	5895	4803	*	*	*	66
+       0	*	*	*	*	*	*	2091	0	0	
+
+K 67   3291	*	3101	2360	*	3955	*	5645	2806	7225	*	4650	5963	5135	5239	2761	5042	4158	*	7026	67
+       0	*	*	*	*	*	*	2075	0	0	
+
+K 68   4429	*	3273	2961	*	4628	5173	*	1487	*	*	5550	*	5705	3117	4648	4378	4238	*	*	68
+       0	*	*	0	*	*	*	2006	0	0	
+
+//

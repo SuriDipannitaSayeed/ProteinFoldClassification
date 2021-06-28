@@ -1,0 +1,201 @@
+HHsearch 1.5
+NAME  1SKZ_2
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Mon Sep 28 21:30:07 2015
+LENG  53 match states, 53 columns in multiple alignment
+FILT  24 out of 26 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.8 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCEEECCCCCCCCCCCCEEEEECCCCCEECCCCCCCEECCC
+>ss_conf PSIPRED confidence values
+97655785278523855248973589876687979988549889986317179
+>Consensus
+xxxxCxxxxCxegqxCxxixxxCxCxxxvxCrmxCpxGfkxDxnGCexCxCxx
+>1SKZ_2
+MKATCDISECPEGMMCSRLTNKCDCKIDINCRKTCPNGLKRDKLGCEYCECRP
+>sp|P80302|ANTA_HIRME Hirustasin OX=6421 OS=Hirudo medicinalis (Medicinal leech). GN= PE=1 SV=1
+--NTCGGETCSAAQVCL--KGKCVCN-EVHCRIRCKYGLKKDENGCEYpCSCA-
+>sp|P15358|ANTA_HAEOF Blood coagulation factor Xa/proclotting enzyme inhibitor OX=6410 OS=Haementeria officinalis (Mexican leech). GN= PE=1 SV=1
+----CEEAGCPEGSACNIITDRCTCS-GVRCRMHCPHGFQRSRYGCEFCKCR-
+>tr|D2V076|D2V076_NAEGR Putative uncharacterized protein OX=5762 OS=Naegleria gruberi (Amoeba). GN=NAEGRDRAFT_78011 PE=4 SV=1
+-----------------------VCN-KRMCRMYCPNGFKVNELGCPVCACKP
+>tr|K1QQU7|K1QQU7_CRAGI Iron/zinc purple acid phosphatase-like protein OX=29159 OS=Crassostrea gigas (Pacific oyster) (Crassostrea angulata). GN= PE=4 SV=1
+-------VDCPSGYECR--GNGCghecyrpanyvvpeGCT-PVRCRMHCPLGYKVDESGCDICECD-
+>tr|A9UVL9|A9UVL9_MONBE Predicted protein OX=81824 OS=Monosiga brevicollis (Choanoflagellate). GN=31826 PE=4 SV=1
+------YGTCSWVHDCE--QP--ICP-PVSCRLHCEHGFQVDENGCEICACV-
+>tr|Q5D2M8|Q5D2M8_9ANNE Eisenstasin II OX=168636 OS=Eisenia andrei. GN= PE=2 SV=1
+-----------------------ACT-QVQCTMECPDGFLKDHRGCEICRCK-
+>tr|Q6QJ04|Q6QJ04_9ANNE Cys-rich cocoon protein OX=60934 OS=Theromyzon rude. GN= PE=2 SV=1
+---PCEEAICPDGEVCKPIEVECfaapcyndaqcvvECP-LKKCLLFCESGYQLDVNGCETCLC--
+>tr|Q6QJ04|Q6QJ04_9ANNE Cys-rich cocoon protein OX=60934 OS=Theromyzon rude. GN= PE=2 SV=1
+--NPCEGTLCEEGQVCKVVEAQCmkdpcypvaecvyDCP-QVRCSTVCQSGFRVDGNGCQSCNC--
+>tr|H3I6Z9|H3I6Z9_STRPU Uncharacterized protein OX=7668 OS=Strongylocentrotus purpuratus (Purple sea urchin). GN= PE=4 SV=1
+------DGDCSTNQKCC--SNGCghacvtvvvdepsPCP-DMLCDMFCEFGFVRDGNGCDTCICN-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+K 2    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1000	0	0	
+
+A 3    1782	*	*	*	*	2211	*	*	*	*	*	1020	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1992	0	0	
+
+T 4    *	*	*	*	*	*	*	*	*	2586	*	*	1253	*	*	*	1272	*	*	*	4
+       0	*	*	*	*	*	*	2243	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2579	0	0	
+
+D 6    *	*	2656	1218	*	1281	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2579	0	0	
+
+I 7    *	*	3217	1728	*	1819	*	2910	*	*	*	*	3568	*	*	*	*	*	*	3476	7
+       0	*	*	*	*	*	*	2899	0	0	
+
+S 8    2335	*	*	3758	*	2127	*	*	2948	*	*	*	*	*	*	3121	3238	2752	*	*	8
+       0	*	*	*	*	*	*	3000	0	0	
+
+E 9    *	*	2098	3121	*	3321	*	3349	*	3238	*	*	*	*	*	*	1526	*	*	*	9
+       0	*	*	*	*	*	*	3000	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3000	0	0	
+
+P 11   *	*	3647	3238	*	*	*	*	*	*	*	*	1357	*	*	1238	*	*	*	*	11
+       0	*	*	*	*	*	*	3000	0	0	
+
+E 12   3758	*	3349	1089	*	3810	*	*	*	*	*	*	4051	*	*	3696	3706	*	3787	*	12
+       0	*	*	*	*	*	*	3000	0	0	
+
+G 13   1863	*	*	*	*	1011	*	*	*	*	*	2676	*	*	*	*	*	3787	*	*	13
+       0	*	*	*	*	*	*	3000	0	0	
+
+M 14   *	*	*	3349	*	*	3787	*	*	*	3121	*	*	896	*	3321	*	*	*	3696	14
+       0	*	*	*	*	*	*	3000	0	0	
+
+M 15   3321	*	3787	3696	*	*	*	*	2676	*	2424	*	*	*	*	*	*	1295	*	*	15
+       0	*	*	*	*	*	*	3000	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	3000	0	0	
+
+S 17   *	2676	*	2799	*	*	*	*	1871	2897	*	3321	*	*	3696	3121	*	*	*	*	17
+       1255	*	784	*	*	*	*	3000	0	0	
+
+R 18   *	*	*	*	*	*	*	2084	*	*	*	*	2063	*	1845	*	*	2021	*	*	18
+       0	*	*	*	*	*	0	2125	0	1609	
+
+L 19   *	*	*	*	*	*	*	1073	*	1845	*	*	*	*	*	*	*	2021	*	*	19
+       0	*	*	*	*	0	*	2125	0	1609	
+
+T 20   *	*	3851	2293	*	3696	*	*	3758	*	*	4051	*	3787	*	3706	1762	3810	*	*	20
+       0	*	*	*	*	*	*	3000	0	0	
+
+N 21   3238	*	2545	*	*	2804	*	*	*	*	*	1290	3787	*	*	*	*	3349	*	*	21
+       108	*	3787	*	*	*	*	3000	0	0	
+
+K 22   *	*	*	2531	*	1968	*	*	1505	*	*	*	*	3170	3213	*	*	*	*	*	22
+       0	*	*	*	*	*	0	2938	0	1013	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       928	1076	*	3663	119	0	*	2938	1426	1013	
+
+D 24   4163	*	2313	3971	*	4505	*	4685	3241	*	*	*	3282	*	*	*	3493	1742	*	*	24
+       0	*	*	*	*	*	*	3067	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2974	0	0	
+
+K 26   *	*	*	4331	*	*	*	*	3564	*	*	2206	1656	*	4612	2951	3110	4452	*	*	26
+       3564	*	127	*	*	*	*	2974	0	0	
+
+I 27   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	0	*	1000	0	2418	
+
+D 28   3793	*	1920	3732	*	4422	*	4549	3721	3657	*	*	2729	2751	4489	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2974	0	0	
+
+I 29   3599	*	*	*	*	4549	*	2789	3657	4377	3685	*	*	*	4508	*	*	1056	*	*	29
+       0	*	*	*	*	*	*	2974	0	0	
+
+N 30   *	*	*	*	4562	*	3499	*	3136	3961	3471	3591	*	2406	1975	5039	4489	*	*	*	30
+       0	*	*	*	*	*	*	2974	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2974	0	0	
+
+R 32   *	*	3961	*	*	*	*	*	4377	4383	3716	*	*	*	879	4118	3057	4562	*	*	32
+       0	*	*	*	*	*	*	2974	0	0	
+
+K 33   *	*	*	*	*	*	*	3209	2992	2742	969	*	*	*	*	*	4118	4377	*	*	33
+       0	*	*	*	*	*	*	2974	0	0	
+
+T 34   *	*	*	4483	2178	*	2782	*	4377	*	*	3771	*	*	4633	*	3591	4118	4435	2056	34
+       0	*	*	*	*	*	*	2974	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2974	0	0	
+
+P 36   4396	*	*	1907	*	*	*	*	3162	*	*	*	953	4118	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2974	0	0	
+
+N 37   *	*	4483	*	3893	*	2998	*	*	3173	*	1390	*	*	5016	3245	*	*	*	2899	37
+       0	*	*	*	*	*	*	2974	0	0	
+
+G 38   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2974	0	0	
+
+L 39   *	*	*	*	570	*	*	*	*	3020	*	*	*	*	*	*	*	*	3522	3105	39
+       0	*	*	*	*	*	*	2974	0	0	
+
+K 40   *	*	4396	4489	*	*	*	*	1189	4483	*	*	*	2137	3434	*	4718	3904	*	*	40
+       0	*	*	*	*	*	*	2974	0	0	
+
+R 41   *	*	*	*	*	*	*	4661	1982	4383	*	*	*	3678	1734	*	3548	2357	*	*	41
+       0	*	*	*	*	*	*	2974	0	0	
+
+D 42   *	*	194	*	*	*	*	*	*	*	*	3664	*	*	*	4422	*	*	*	*	42
+       0	*	*	*	*	*	*	2974	0	0	
+
+K 43   4718	*	4377	1384	*	3427	4483	*	3591	*	*	*	4562	*	2987	3415	*	4383	*	*	43
+       0	*	*	*	*	*	*	2974	0	0	
+
+L 44   *	*	4435	*	*	*	4489	*	*	2978	*	798	*	*	2975	4906	*	*	*	4422	44
+       0	*	*	*	*	*	*	2974	0	0	
+
+G 45   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	2974	0	0	
+
+C 46   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	46
+       0	*	*	*	*	*	*	2974	0	0	
+
+E 47   *	*	2806	760	*	*	*	*	4995	*	*	4435	3498	4118	*	*	4549	*	*	*	47
+       0	*	*	*	*	*	*	2974	0	0	
+
+Y 48   *	*	*	*	3484	*	*	2412	4006	4435	3872	*	*	*	4562	3387	2618	4508	*	2313	48
+       320	2329	*	0	*	*	*	2974	1322	0	
+
+C 49   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	2974	0	0	
+
+E 50   3749	*	*	1692	*	*	*	3581	2348	4383	*	4118	*	*	4483	4633	2781	*	*	*	50
+       0	*	*	*	*	*	*	2974	0	0	
+
+C 51   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	51
+       0	*	*	*	*	*	*	2974	0	0	
+
+R 52   2015	*	4386	*	*	*	*	*	2233	4007	*	2265	*	*	2528	*	*	4370	*	*	52
+       0	*	*	*	*	*	*	2919	0	0	
+
+P 53   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	53
+       0	*	*	0	*	*	*	1414	0	0	
+
+//

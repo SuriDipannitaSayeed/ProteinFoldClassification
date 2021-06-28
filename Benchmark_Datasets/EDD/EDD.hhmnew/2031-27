@@ -1,0 +1,120 @@
+HHsearch 1.5
+NAME  2031
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 12:57:56 2016
+LENG  26 match states, 26 columns in multiple alignment
+FILT  124 out of 176 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.9 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCHHHCCCCCCC
+>ss_conf PSIPRED confidence values
+95242368887797802203354569
+>Consensus
+xCxxxCsxxgCWGpgpxxCxxCxxxx
+>2031
+VCHALCSPEGCWGPEPRDCVSCXXXX
+>tr|M4H214|M4H214_DICLA Epidermal growth factor receptor a (Fragment) OS=Dicentrarchus labrax GN=egfra PE=2 SV=1
+QCDSSCFNGSCWASGAQNC---XXXX
+>tr|A0A0N4YSG1|A0A0N4YSG1_NIPBR Uncharacterized protein OS=Nippostrongylus brasiliensis PE=4 SV=1
+LRIV----LRHFHDSTMLRTRSXXXX
+>tr|L9JXE3|L9JXE3_TUPCH Receptor tyrosine-protein kinase erbB-2 OS=Tupaia chinensis GN=TREES_T100004473 PE=4 SV=1
+SvtCsLSASTRECPWDPGSSFLGLVXXXX
+>tr|A0A091EHF7|A0A091EHF7_FUKDA Receptor tyrosine-protein kinase erbB-2 OS=Fukomys damarensis GN=H920_03593 PE=3 SV=1
+SRVRLHRNArlcfvhtVPWDQlfrNPHQAL--XXXX
+>tr|W5LI31|W5LI31_ASTMX Uncharacterized protein OS=Astyanax mexicanus GN=ERBB4 (3 of 3) PE=3 SV=1
+IMQPVCSISLMWQPDTGMCCWCXXXX
+>tr|E4X3Y9|E4X3Y9_OIKDI Uncharacterized protein OS=Oikopleura dioica GN=GSOID_T00001099001 PE=3 SV=1
+STRTECTSDGCWSNDASGCVRCXXXX
+>tr|W5M7P2|W5M7P2_LEPOC Receptor protein-tyrosine kinase OS=Lepisosteus oculatus PE=4 SV=1
+SLSSLSSLSSTSSQGHSLFASSXXXX
+>tr|A0A0K0JVN1|A0A0K0JVN1_BRUMA Receptor protein-tyrosine kinase OS=Brugia malayi GN=Bm8367 PE=4 SV=1
+ECSEECLSCSGYGTSVkRHKCTCXXXX
+>tr|B3RSI8|B3RSI8_TRIAD Putative uncharacterized protein OS=Trichoplax adhaerens GN=TRIADDRAFT_54612 PE=3 SV=1
+SCVSSCPEstyqhsfngntkclkcssNCAACANETYCISCXXXX
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    7088	*	5675	4877	6058	5970	*	3345	*	3538	5363	6154	3811	5862	4526	2161	3458	2067	*	*	1
+       76	4288	*	1000	1000	*	*	5697	1212	0	
+
+C 2    *	374	*	*	*	*	*	*	*	4297	4587	*	5972	*	3381	*	5395	*	*	*	2
+       76	4289	*	0	*	*	*	5696	1212	0	
+
+H 3    *	*	1942	*	5007	*	2181	4328	*	4289	*	4405	*	4587	4655	2753	*	3692	*	4920	3
+       0	*	*	*	*	*	*	5696	0	0	
+
+A 4    4936	*	5092	3134	*	6159	4828	*	4815	6292	7100	7158	1793	6144	4004	2144	4614	3802	*	6878	4
+       74	*	4328	*	*	*	*	5696	0	0	
+
+L 5    3783	*	*	2322	6640	*	*	*	5541	1882	4840	4803	*	2495	6135	3469	5126	4529	*	*	5
+       0	*	*	*	*	*	0	5356	0	1223	
+
+C 6    *	257	*	*	*	*	4260	*	*	*	*	*	*	*	*	3171	*	*	*	*	6
+       10	*	7163	*	*	*	0	5356	0	1223	
+
+S 7    4108	*	3492	6829	5896	4386	7041	6758	4809	3787	*	3480	4783	*	4260	1558	2867	*	*	*	7
+       136	5779	3796	0	*	*	0	5348	1049	1258	
+
+P 8    4451	*	3225	3379	*	6025	4614	4508	3834	3779	5934	3004	4326	4019	4144	2809	5946	5035	*	6704	8
+       215	3179	5169	2527	275	0	*	5309	1433	1599	
+
+E 9    3827	4863	2875	2817	4976	3040	6220	5717	6063	4205	*	3419	*	4421	4928	2825	*	5334	*	5438	9
+       78	4252	*	2663	248	0	*	5628	1226	1080	
+
+G 10   *	3682	6275	6904	*	978	4754	*	5080	4343	*	5403	*	6975	3853	2935	*	4446	*	*	10
+       0	*	*	*	*	*	*	5679	0	0	
+
+C 11   5210	510	*	*	*	4884	4352	*	*	*	4615	*	3369	*	*	*	4309	*	*	*	11
+       0	*	*	*	*	*	*	5679	0	0	
+
+W 12   4926	*	5159	5352	4352	*	*	*	*	*	5572	*	*	*	*	4309	5403	*	479	4237	12
+       0	*	*	*	*	*	*	5679	0	0	
+
+G 13   5978	5210	3261	*	*	554	4352	*	*	*	*	*	*	4615	6951	3760	*	*	*	*	13
+       0	*	*	*	*	*	*	5679	0	0	
+
+P 14   4343	*	4160	6621	7094	6848	*	6739	4058	4610	*	5421	976	3376	5443	4536	4884	5045	*	*	14
+       68	4446	*	1585	585	*	*	5679	1197	0	
+
+E 15   4979	*	3728	5007	*	742	*	*	7126	*	*	3602	*	*	4411	3109	6457	*	*	*	15
+       0	*	*	*	*	*	*	5679	0	0	
+
+P 16   3040	*	6192	4557	*	*	4309	7159	6382	*	6953	5274	1084	6869	*	3402	3181	4884	*	*	16
+       76	4884	5852	0	*	*	*	5679	1128	0	
+
+R 17   5043	*	3146	3834	6129	4046	3779	*	5391	*	4346	3363	*	4549	4444	2121	2735	*	*	*	17
+       0	*	*	*	*	*	0	5650	0	1057	
+
+D 18   *	*	3934	4414	4281	5406	3372	*	5273	3317	3144	3625	*	1578	6472	5926	*	*	*	4918	18
+       0	*	*	*	*	*	0	5650	0	1057	
+
+C 19   4431	381	*	*	4289	*	*	*	4871	4281	*	*	*	*	4346	*	*	*	*	*	19
+       23	*	5968	*	*	*	0	5650	0	1057	
+
+V 20   3815	3708	6704	*	4244	4272	7173	3018	*	2039	6688	6130	*	4444	5179	*	3990	2392	*	6195	20
+       80	*	4207	*	*	*	0	5616	0	1141	
+
+S 21   4416	*	5415	4023	6905	4426	4975	6698	3686	4020	*	5008	*	*	3054	1589	3232	*	4564	*	21
+       11	*	7080	*	*	*	0	5463	0	1408	
+
+C 22   *	395	*	*	*	5307	*	*	*	5366	*	*	*	*	*	2962	*	4019	*	*	22
+       0	*	*	*	*	0	*	5462	0	1440	
+
+X 23   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	23
+       *	*	*	*	*	*	*	1000	0	0	
+
+X 24   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	24
+       *	*	*	*	*	*	*	1000	0	0	
+
+X 25   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	25
+       *	*	*	*	*	*	*	1000	0	0	
+
+X 26   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	26
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

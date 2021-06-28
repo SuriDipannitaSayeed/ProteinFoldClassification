@@ -1,0 +1,186 @@
+HHsearch 1.5
+NAME  1OMA
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Mon Sep 28 22:04:40 2015
+LENG  48 match states, 48 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.7 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCHHHHHHCCCCCCCCCCCCCEEEEECCCCEEECCCCCCCCCCCC
+>ss_conf PSIPRED confidence values
+963216688654499997618987377613760447576311242349
+>Consensus
+xxxciaxxYkrCxxxxxpCCxnRpCxCsxxxtnCxCKkxLxxxxxxxx
+>1OMA
+EDNCIAEDYGKCTWGGTKCCRGRPCRCSMIGTNCECTPRLIMEGLSFA
+>sp|B6DD52|TXG01_LYCSI Toxin-like structure LSTX-P1 OX=434756 OS=Lycosa singoriensis (Wolf spider) (Aranea singoriensis). GN= PE=2 SV=1
+-----AKEYQWCDWNTRPCCDNISCICSWIGTNCECKKGII-------
+>sp|B6DD54|TXH03_LYCSI Toxin-like structure LSTX-P3 OX=434756 OS=Lycosa singoriensis (Wolf spider) (Aranea singoriensis). GN= PE=2 SV=1
+-----ARLYERCSMTRRPCCNNVPYVCSLLGTYCECKKGLI-------
+>sp|B6DD58|TXJ07_LYCSI Toxin-like structure LSTX-P7 OX=434756 OS=Lycosa singoriensis (Wolf spider) (Aranea singoriensis). GN= PE=2 SV=1
+-----SGAYKRCSSSQR-CCEGRPCVCSAINSNCKCRKTYT-------
+>sp|B6DD55|TXI04_LYCSI Toxin-like structure LSTX-P4 OX=434756 OS=Lycosa singoriensis (Wolf spider) (Aranea singoriensis). GN= PE=2 SV=1
+-----IKLNQECVQNKTPCCNNRPCLCYMRFNICLCEKPLG-------
+>sp|B3EWT2|TXC17_CUPSA Toxin CSTX-17 OX=6928 OS=Cupiennius salei (Wandering spider). GN= PE=1 SV=1
+---CIPK-HKRCTWSGPKCCNNISCHCNISGTLCKCRPGLF-------
+>sp|B3EWT3|TXC18_CUPSA Toxin CSTX-18 OX=6928 OS=Cupiennius salei (Wandering spider). GN= PE=1 SV=1
+--------RGRCLPGGRKCCNGRPCECFA--KICSCKPKLIG------
+>sp|P0C2S6|TX33A_PHONI Neurotoxin Pn3-3A OX=6918 OS=Phoneutria nigriventer (Brazilian armed spider) (Ctenus nigriventer). GN= PE=2 SV=1
+-----ADAYKSCNHP--rTCCDgyngyKRACICSG--SNCKCKKSLR-------
+>sp|O76201|TX32_PHONI PNTx3-2 OX=6918 OS=Phoneutria nigriventer (Brazilian armed spider) (Ctenus nigriventer). GN= PE=1 SV=1
+-----AGLYKKCGKGASPCCEDRPCKCDLAMGNCICKKKFI-------
+>sp|P85269|TXFU5_CTEON Neurotoxin Oc FU-5 OX=406443 OS=Ctenus ornatus (Brazilian spider) (Oligoctenus ornatus). GN= PE=1 SV=1
+-----VPVYKECWYPQKPCCEDRVCQCSFGMTNCKCKARL--------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+D 2    *	*	1000	*	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1211	0	0	
+
+N 3    *	*	*	*	*	*	*	*	1000	*	*	1000	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1211	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1526	0	0	
+
+I 5    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1526	0	0	
+
+A 6    575	*	*	*	*	*	*	3212	*	*	*	*	3598	*	*	3817	*	3898	*	*	6
+       0	*	*	*	*	*	*	3155	0	0	
+
+E 7    3675	*	2398	3936	*	2386	*	*	1640	*	*	*	3898	*	3515	*	*	*	*	*	7
+       124	*	3598	*	*	*	*	3155	0	0	
+
+D 8    2272	*	2827	3613	*	*	*	*	*	1558	*	*	*	*	*	*	*	2116	*	*	8
+       0	*	*	*	*	0	*	3056	0	1013	
+
+Y 9    *	*	*	*	*	*	3726	*	*	*	*	3364	*	*	3926	*	*	*	*	393	9
+       0	*	*	*	*	*	*	3231	0	0	
+
+G 10   *	*	*	2660	*	2478	*	*	1007	*	*	*	*	2600	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3231	0	0	
+
+K 11   *	*	*	2130	*	*	*	*	2543	*	*	*	*	*	1255	3145	*	*	3883	*	11
+       0	*	*	*	*	*	*	3231	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3231	0	0	
+
+T 13   *	*	3055	*	*	2422	*	*	4200	3926	*	4045	*	*	*	2746	2891	3364	2928	*	13
+       0	*	*	*	*	*	*	3231	0	0	
+
+W 14   *	*	*	*	*	*	4045	*	2422	*	3575	*	3926	3364	*	3088	*	*	1960	2928	14
+       0	*	*	*	*	*	*	3231	0	0	
+
+G 15   *	*	*	*	*	1450	*	*	*	4252	*	2600	2381	*	*	2829	3575	*	*	*	15
+       173	*	3145	*	*	*	*	3231	0	0	
+
+G 16   4067	*	*	3655	*	1828	*	*	3268	*	*	*	*	2700	3497	*	3656	3867	*	3554	16
+       0	*	*	*	*	*	0	3180	0	1054	
+
+T 17   *	*	*	*	*	*	*	*	2088	*	*	3867	3545	*	1637	4067	2125	*	*	*	17
+       125	*	3588	0	*	0	*	3180	1000	1054	
+
+K 18   *	*	*	*	*	*	*	*	1869	*	*	*	940	*	3683	*	2976	*	*	*	18
+       0	*	*	*	*	0	*	3192	0	1000	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3231	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3231	0	0	
+
+R 21   *	*	2962	1661	*	*	*	*	3905	*	*	1416	*	*	3137	*	*	*	*	*	21
+       90	4045	*	2322	322	*	*	3231	1000	0	
+
+G 22   *	*	2421	3751	*	2031	*	*	4045	*	*	1205	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3231	0	0	
+
+R 23   *	*	*	*	*	*	*	2802	*	*	*	*	*	*	372	*	*	3575	*	*	23
+       0	*	*	*	*	*	*	3231	0	0	
+
+P 24   2973	*	*	*	*	4200	*	*	*	*	*	*	842	*	*	2802	4252	3952	*	*	24
+       0	*	*	*	*	*	*	3231	0	0	
+
+C 25   *	126	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3575	25
+       0	*	*	*	*	*	*	3231	0	0	
+
+R 26   *	*	*	3926	*	*	3726	2452	2422	3364	4252	*	*	2928	4076	*	*	2746	*	*	26
+       0	*	*	*	*	*	*	3231	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3231	0	0	
+
+S 28   *	*	3155	*	3926	*	*	*	*	*	*	2739	*	*	*	976	3905	*	*	3364	28
+       0	*	*	*	*	*	*	3231	0	0	
+
+M 29   2933	*	*	*	3952	4045	*	2292	*	1927	2259	*	*	*	*	*	*	*	3883	*	29
+       195	*	2984	*	*	*	*	3231	0	0	
+
+I 30   2945	*	*	*	*	2746	*	1800	*	3465	3970	*	*	*	3163	3552	*	3598	*	*	30
+       0	*	*	*	*	*	0	3097	0	1096	
+
+G 31   *	*	*	*	3163	1158	*	*	*	*	1468	3667	*	*	*	*	*	*	*	*	31
+       116	*	3694	*	*	0	*	3097	0	1096	
+
+T 32   *	*	3665	*	*	3059	*	*	3857	*	*	3299	*	*	*	2875	1017	*	*	*	32
+       0	*	*	*	*	0	*	3181	0	1000	
+
+N 33   *	*	*	*	*	*	*	2618	*	3726	*	711	*	*	*	*	3905	*	*	3575	33
+       0	*	*	*	*	*	*	3231	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	3231	0	0	
+
+E 35   *	*	*	1914	*	*	*	3155	1588	3364	*	*	*	*	*	3926	2980	*	*	*	35
+       0	*	*	*	*	*	*	3231	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3231	0	0	
+
+T 37   *	*	*	3364	*	*	*	*	621	*	*	*	*	*	2372	*	4076	*	*	*	37
+       0	*	*	*	*	*	*	3231	0	0	
+
+P 38   2928	*	*	*	*	*	*	*	705	*	*	*	1971	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	3231	0	0	
+
+R 39   *	*	*	*	3642	2065	*	*	2437	*	*	*	3329	*	2443	3845	2803	*	*	*	39
+       0	*	*	*	*	*	*	3262	0	0	
+
+L 40   *	*	*	*	3089	*	*	2724	*	605	*	*	*	*	*	*	*	*	*	3765	40
+       0	*	*	*	*	*	*	3262	0	0	
+
+I 41   *	*	*	*	3533	2373	*	1258	*	*	*	*	*	*	3751	3557	3657	3964	*	*	41
+       0	*	*	*	*	*	*	3232	0	0	
+
+M 42   *	*	*	*	*	1502	*	*	*	*	628	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1466	0	0	
+
+E 43   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1211	0	0	
+
+G 44   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1211	0	0	
+
+L 45   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1211	0	0	
+
+S 46   *	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	46
+       0	*	*	*	*	*	*	1211	0	0	
+
+F 47   *	*	*	*	1000	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1211	0	0	
+
+A 48   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	0	*	*	*	1211	0	0	
+
+//

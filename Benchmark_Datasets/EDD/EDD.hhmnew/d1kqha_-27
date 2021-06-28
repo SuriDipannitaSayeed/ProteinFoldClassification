@@ -1,0 +1,154 @@
+HHsearch 1.5
+NAME  2009
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 12:56:08 2016
+LENG  38 match states, 38 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCCCEECCCCCCCEEECCCCC
+>ss_conf PSIPRED confidence values
+95355670045468855577067047888627626889
+>Consensus
+xCxxexxxCadwsgpxCCxgxyCsCrxxpxCxCrxnxx
+>2009
+KCLAEAADCSPWSGDSCCKPYLCSCIFFYPCSCRPKGW
+>sp|P83258|TXDP3_PIRLC Delta-amaurobitoxin-Pl1c OS=Pireneitega luctuosa PE=1 SV=1
+-CLNEGDWCADWSGPSCCGEMWCSCPGFGKCRCKK---
+>sp|P83256|T3D1A_PIRLC Delta-amaurobitoxin-Pl1a OS=Pireneitega luctuosa PE=1 SV=1
+-CLGEGEKCADWSGPSCCDGFYCSCRSMPYCRCRNN--
+>sp|Q5Y4V3|T4G1F_AGEOR U3-agatoxin-Ao1f OS=Agelena orientalis PE=1 SV=1
+-CVGESQQCADWSGPYCCKGYYCTCRYFPKCICVNDN-
+>sp|Q5Y4V8|T2G3A_AGEOR U3-agatoxin-Ao1a OS=Agelena orientalis PE=1 SV=1
+-CAAKNKRCADWAGPWCCEGLYCSCRSYPGCMCRPNS-
+>sp|Q5Y4V7|T3G1B_AGEOR U3-agatoxin-Ao1b OS=Agelena orientalis PE=2 SV=1
+-CVGDGQRCADWAGPYCCSGYYCSCRSMPYCRCRSDS-
+>sp|P83562|TXMG6_MACGS U7-hextatoxin-Mg1a OS=Macrothele gigas PE=1 SV=2
+-------SCDPYSsdAPRCCGSQICQCIFFVPCYCKY---
+>sp|P15967|TXC1_HOLCU Mu-agatoxin-Hc1a OS=Hololena curta PE=1 SV=1
+SCVGEYGRCRSAYED-CCDGYYCNCSQPPYCLCRNNN-
+>sp|P11057|T5G1A_AGEAP Mu-agatoxin-Aa1a OS=Agelenopsis aperta PE=1 SV=1
+ECVPENGHCRDWYDE-CCEGFYCSCRQPPKCICRNNN-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	1728	*	*	*	*	1335	*	*	*	*	*	*	1728	*	*	*	*	1
+       0	*	*	*	*	*	*	1783	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2302	0	0	
+
+L 3    2675	*	*	*	*	*	*	*	*	1583	*	*	*	*	*	*	*	973	*	*	3
+       0	*	*	*	*	*	*	2302	0	0	
+
+A 4    2132	*	*	*	*	1025	*	*	*	*	*	2977	3633	*	*	*	3784	*	*	*	4
+       0	*	*	*	*	*	*	2302	0	0	
+
+E 5    *	*	3025	473	*	*	*	*	2675	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2302	0	0	
+
+A 6    2793	*	*	*	*	1678	*	*	*	*	*	1427	*	*	*	3835	*	*	*	3302	6
+       0	*	*	*	*	*	*	2302	0	0	
+
+A 7    2793	*	2977	3998	*	2028	*	*	3574	*	*	*	*	1570	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2302	0	0	
+
+D 8    *	*	3212	*	*	*	3737	*	4125	*	*	*	*	2995	1307	3032	*	*	3213	*	8
+       0	*	*	*	*	*	*	2513	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2513	0	0	
+
+S 10   869	*	3032	*	*	*	*	*	*	*	*	*	*	*	2168	3212	*	*	*	*	10
+       0	*	*	*	*	*	*	2513	0	0	
+
+P 11   *	*	838	*	*	*	*	*	*	*	*	*	2119	*	*	2248	*	*	*	*	11
+       0	*	*	*	*	*	*	2513	0	0	
+
+W 12   3479	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	344	3032	12
+       0	*	*	*	*	*	*	2513	0	0	
+
+S 13   1905	*	*	*	*	*	*	*	*	*	*	*	*	*	*	970	*	*	*	2168	13
+       188	3032	*	1000	1000	*	*	2513	1069	0	
+
+G 14   3032	*	3737	3479	*	610	*	*	*	*	*	4113	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2513	0	0	
+
+D 15   *	*	1969	3737	*	*	*	*	*	*	*	*	579	*	*	*	*	*	*	*	15
+       363	*	2168	*	*	*	*	2513	0	0	
+
+S 16   *	*	*	*	*	*	3572	*	*	*	*	*	*	*	2726	1537	*	*	3343	1636	16
+       0	*	*	*	*	0	*	2314	0	1218	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2513	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2513	0	0	
+
+K 19   *	*	1619	2712	*	2119	*	*	2554	*	*	*	*	*	*	3043	*	*	*	*	19
+       0	*	*	*	*	*	*	2513	0	0	
+
+P 20   *	*	*	3213	*	595	*	*	*	*	*	*	3212	*	*	3032	*	*	*	*	20
+       0	*	*	*	*	*	*	2513	0	0	
+
+Y 21   *	*	*	*	1954	*	*	*	*	3687	3213	*	*	3032	*	*	*	*	*	1204	21
+       0	*	*	*	*	*	*	2513	0	0	
+
+L 22   *	*	*	*	*	*	*	3032	*	3212	*	*	*	*	*	*	*	*	3213	595	22
+       0	*	*	*	*	*	*	2513	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2513	0	0	
+
+S 24   *	*	*	*	*	*	*	*	*	*	*	3479	*	3032	*	594	2995	*	*	*	24
+       0	*	*	*	*	*	*	2513	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2513	0	0	
+
+I 26   *	*	*	*	*	*	*	2119	*	*	*	*	3213	*	805	3479	*	*	*	*	26
+       0	*	*	*	*	*	*	2513	0	0	
+
+F 27   *	*	*	*	2119	3213	*	*	*	*	*	*	*	2168	*	1671	*	*	*	2995	27
+       0	*	*	*	*	*	*	2513	0	0	
+
+F 28   *	*	*	*	1110	*	*	*	*	*	2570	*	2168	*	*	*	*	*	*	2779	28
+       0	*	*	*	*	*	*	2513	0	0	
+
+Y 29   *	*	*	*	*	3213	*	*	*	*	*	*	595	*	*	*	*	3032	*	3212	29
+       0	*	*	*	*	*	*	2513	0	0	
+
+P 30   *	*	*	*	*	2779	*	*	1698	*	*	*	2119	*	*	*	*	*	*	1663	30
+       0	*	*	*	*	*	*	2513	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2513	0	0	
+
+S 32   *	*	*	*	*	*	*	1954	*	3479	2779	*	*	*	1856	3212	*	*	*	3032	32
+       0	*	*	*	*	*	*	2513	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2513	0	0	
+
+R 34   *	*	*	*	*	*	*	*	2119	*	*	*	*	*	634	*	*	2995	*	*	34
+       0	*	*	*	*	*	*	2513	0	0	
+
+P 35   *	*	*	*	*	*	*	*	3213	*	*	1127	1979	*	*	4099	*	*	*	3032	35
+       0	*	*	*	*	*	*	2513	0	0	
+
+K 36   *	*	2062	*	*	*	*	*	2527	*	*	768	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2137	0	0	
+
+G 37   *	*	*	*	*	2290	*	*	*	*	*	895	*	*	*	1955	*	*	*	*	37
+       0	*	*	*	*	*	*	2160	0	0	
+
+W 38   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	38
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

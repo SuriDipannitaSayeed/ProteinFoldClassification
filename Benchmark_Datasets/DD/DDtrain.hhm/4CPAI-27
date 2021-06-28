@@ -1,0 +1,154 @@
+HHsearch 1.5
+NAME  299
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 06:41:41 2016
+LENG  38 match states, 38 columns in multiple alignment
+FILT  17 out of 19 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCCCEEHHHHHHHHHCCCCCC
+>ss_conf PSIPRED confidence values
+95445646775667454676465799887765136789
+>Consensus
+xxxxdxtCgkxCxtxsDCsxgxxCsxCxxxaxtcgpxx
+>299
+ZZHADPICNKPCKTHDDCSGAWFCQACWNSARTCGPYV
+>tr|E3W9P4|E3W9P4_TOBAC Putative metallocarboxypeptidase inhibitor OS=Nicotiana tabacum GN=NtMCPIa PE=2 SV=1
+-EQYDATCGKPCNTRDDCSKGWLCSECYNFRKTCGPLI
+>tr|K4CBJ6|K4CBJ6_SOLLC Uncharacterized protein OS=Solanum lycopersicum GN=Solyc07g007260.2 PE=4 SV=1
+--QVDPVCYKPCKTHDDCSGALYCEACRRAAGSCGPWR
+>tr|M1A255|M1A255_SOLTU Uncharacterized protein OS=Solanum tuberosum GN=PGSC0003DMG400005067 PE=4 SV=1
+-----STCGKRCNTRSECQEGFICSNCVTFANL-----
+>tr|K4BFC2|K4BFC2_SOLLC Uncharacterized protein OS=Solanum lycopersicum GN=Solyc03g031500.1 PE=4 SV=1
+-----TTCGRRCKVHSDCEDGVICSTCLILGST-----
+>tr|K4BFC1|K4BFC1_SOLLC Uncharacterized protein OS=Solanum lycopersicum GN=Solyc03g031490.2 PE=4 SV=1
+-----TTCGHRCKGRSDCKEGFFCSTCLKIGSA-----
+>tr|K4BFC3|K4BFC3_SOLLC Uncharacterized protein OS=Solanum lycopersicum GN=Solyc03g031510.2 PE=4 SV=1
+-----STCGSACKSRSDCKEGVICSNCVSLGAL-----
+>tr|K4AW10|K4AW10_SOLLC Uncharacterized protein OS=Solanum lycopersicum GN=Solyc01g058000.2 PE=4 SV=1
+-----ITCLKRCYKQSDCSDGWLCRDCANDA-------
+>tr|Q9SXP0|Q9SXP0_HYONI HR7 protein OS=Hyoscyamus niger GN=HR7 PE=2 SV=1
+-----VTCFKYCNVESDCSDGWLCYNCVPSA-------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Z 1    *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+Z 2    *	*	*	698	*	*	*	*	*	*	*	*	*	1382	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1615	0	0	
+
+H 3    *	*	1921	*	*	*	2996	*	*	*	*	*	*	712	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1744	0	0	
+
+A 4    2022	*	*	3008	*	*	*	*	*	*	*	*	*	2802	*	*	*	2769	*	1559	4
+       0	*	*	*	*	*	*	1744	0	0	
+
+D 5    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1744	0	0	
+
+P 6    3880	*	*	*	*	*	*	3907	*	*	*	*	1613	*	*	2513	2467	2455	*	*	6
+       0	*	*	*	*	*	*	2734	0	0	
+
+I 7    *	*	*	*	*	*	*	2755	*	*	*	*	*	*	*	*	571	2483	*	*	7
+       0	*	*	*	*	*	*	2734	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2734	0	0	
+
+N 9    *	*	*	*	3720	923	4058	*	*	3002	*	2755	*	*	*	*	*	*	*	3971	9
+       0	*	*	*	*	*	*	2734	0	0	
+
+K 10   *	*	*	*	*	*	3360	*	502	*	3903	*	*	*	3943	3951	*	*	*	*	10
+       0	*	*	*	*	*	*	2734	0	0	
+
+P 11   2927	*	*	*	*	*	*	*	*	*	*	*	1341	*	1330	*	*	*	*	3720	11
+       0	*	*	*	*	*	*	2734	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2734	0	0	
+
+K 13   *	*	*	*	*	*	*	*	1188	*	*	1975	*	*	*	2979	4183	*	*	3002	13
+       0	*	*	*	*	*	*	2734	0	0	
+
+T 14   *	*	4339	*	*	2606	*	*	3907	*	*	*	*	*	*	3951	1133	2329	*	*	14
+       0	*	*	*	*	*	*	2734	0	0	
+
+H 15   *	*	*	3720	*	*	1395	*	*	*	*	*	*	2436	1478	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2734	0	0	
+
+D 16   *	*	1341	*	*	*	*	*	*	*	*	*	*	*	*	725	*	*	*	*	16
+       0	*	*	*	*	*	*	2734	0	0	
+
+D 17   *	*	91	4032	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2734	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2734	0	0	
+
+S 19   *	*	*	3943	*	*	*	*	2127	*	*	4105	*	3177	*	896	*	*	*	*	19
+       0	*	*	*	*	*	*	2734	0	0	
+
+G 20   *	*	1912	1342	*	1879	*	*	3880	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2734	0	0	
+
+A 21   1905	*	*	*	*	448	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2734	0	0	
+
+W 22   *	*	*	*	1864	*	*	*	*	3090	*	*	*	*	*	*	4058	2947	1258	*	22
+       0	*	*	*	*	*	*	2734	0	0	
+
+F 23   *	*	*	*	2249	*	*	1793	*	1433	3903	*	*	*	*	*	*	*	*	3971	23
+       0	*	*	*	*	*	*	2734	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2734	0	0	
+
+Q 25   *	*	*	3090	*	*	*	*	*	*	*	*	*	2255	3907	915	*	*	*	3720	25
+       0	*	*	*	*	*	*	2734	0	0	
+
+A 26   1613	*	2384	3880	*	*	*	*	*	*	*	1994	*	*	*	*	2622	*	*	*	26
+       0	*	*	*	*	*	*	2734	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2734	0	0	
+
+W 28   3002	*	*	*	*	*	*	*	*	2622	*	*	*	*	3090	*	*	1653	2255	3880	28
+       0	*	*	*	*	*	*	2734	0	0	
+
+N 29   *	*	*	*	*	*	*	3943	2606	*	*	1759	3720	*	2494	3951	2668	*	*	*	29
+       0	*	*	*	*	*	*	2734	0	0	
+
+S 30   2606	*	3002	*	1768	*	*	3360	*	2947	*	*	*	*	*	3017	*	3903	*	*	30
+       0	*	*	*	*	*	*	2734	0	0	
+
+A 31   906	*	*	*	*	1542	*	*	*	*	*	*	*	*	3024	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2734	0	0	
+
+R 32   3669	*	*	*	*	2170	*	*	3614	*	*	2883	*	3879	3085	2241	3564	*	*	*	32
+       0	*	*	*	*	*	*	2633	0	0	
+
+T 33   2991	*	*	*	*	*	*	*	*	1743	*	*	*	*	*	3619	1017	*	*	*	33
+       0	*	*	*	*	*	*	2633	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1744	0	0	
+
+G 35   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1744	0	0	
+
+P 36   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1744	0	0	
+
+Y 37   *	*	*	*	2802	*	*	*	*	2322	*	*	*	*	*	*	*	*	1884	1375	37
+       0	*	*	*	*	*	*	1744	0	0	
+
+V 38   *	*	*	*	*	*	*	2322	*	*	*	*	*	*	1884	*	*	919	*	*	38
+       0	*	*	0	*	*	*	1744	0	0	
+
+//

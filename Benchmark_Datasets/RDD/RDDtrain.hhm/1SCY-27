@@ -1,0 +1,135 @@
+HHsearch 1.5
+NAME  1SCY
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Mon Sep 28 22:06:26 2015
+LENG  31 match states, 31 columns in multiple alignment
+FILT  94 out of 96 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.2 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCHHCCHHHHHCCCCCEEECCCCEECCC
+>ss_conf PSIPRED confidence values
+9646401387787579874157994165489
+>Consensus
+xxcxsxxCxxxCkxxgxxgKCiNgkCxCyxx
+>1SCY
+AFCNLRMCQLSCRSLGLLGKCIGDKCECVKH
+>sp|O46028|KA101_CENNO gtIX OX=6878 OS=Centruroides noxius (Mexican scorpion). GN= PE=1 SV=1
+AVCVYRTCDKDCKRRGYrSGKCINNACKCYPY
+>sp|P0DJO5|KA15S_CHATC Potassium channel toxin alpha-KTx Ctri9577 OX=1055734 OS=Chaerilus tricostatus (Scorpion). GN= PE=2 SV=1
+---SNnTRCRTYCIKvHKInSGKCMNSKCVCHP-
+>tr|B8XH39|B8XH39_BUTOS Putative potassium channel toxin Tx682 OX=539894 OS=Buthus occitanus israelis (Common yellow scorpion). GN= PE=4 SV=1
+---GGaDNCLQPCIDeYDTtKTKCINDRCNCYP-
+>tr|F1CJ83|F1CJ83_BUTJU U8-buthitoxin-Hj3a OX=6863 OS=Buthotus judaicus (Scorpion) (Hottentotta judaica). GN= PE=4 SV=1
+---FSIHCLLVCRKkFEYlQVKCVSGKCHCYP-
+>sp|P59938|KGX22_MESMA Neurotoxin Kk7 OX=34649 OS=Mesobuthus martensii (Manchurian scorpion) (Buthus martensii). GN= PE=2 SV=1
+---ASYQCFPVCKSrFGKtNGRCVNGLCDCF--
+>sp|P0CH12|KA125_LYCMC Toxin alpha-KTx10 OX=172552 OS=Lychas mucronatus (Chinese swimming scorpion). GN= PE=2 SV=1
+-KCSSSSsCYEPCRGvTGRaHGKCMNGRCTCYY-
+>sp|P0CI85|KTXD_LYCMC Putative neurotoxin-D OX=172552 OS=Lychas mucronatus (Chinese swimming scorpion). GN= PE=2 SV=1
+------DCVCKGKgKKNHRSMCINGKCYCL--
+>tr|Q9UAC6|Q9UAC6_MESMA Bmp-03 neurotoxin OX=34649 OS=Mesobuthus martensii (Manchurian scorpion) (Buthus martensii). GN= PE=4 SV=1
+------ECPMHCKGKNANPTCDDGVCNCN--
+>tr|B5U333|B5U333_HELVI Antibacterial protein OX=7102 OS=Heliothis virescens (Tobacco budworm moth). GN= PE=2 SV=1
+-DCNPTECDQRCRRLKFpGGACVNGRCKCDN-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    491	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2894	2700	*	*	1
+       0	*	*	*	*	*	*	1961	0	0	
+
+F 2    2873	*	2979	3941	3327	4265	*	4195	2036	4048	*	*	*	*	*	4061	*	3306	*	*	2
+       0	*	*	*	*	*	*	3052	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3070	0	0	
+
+N 4    3201	*	*	*	4437	1984	*	*	5642	5910	*	1884	*	5777	3847	3881	4477	4678	*	4471	4
+       0	*	*	*	*	*	*	4176	0	0	
+
+L 5    *	*	*	6361	*	3731	*	*	*	3458	*	5543	2752	*	5976	1088	3775	5871	*	3733	5
+       72	4359	*	0	*	*	*	4075	1090	0	
+
+R 6    *	*	5196	5605	*	4580	5308	4794	2108	5722	*	5700	4098	4019	2153	2579	4481	*	*	5514	6
+       0	*	*	*	*	*	*	4075	0	0	
+
+M 7    5125	5239	2234	2538	*	5225	4395	*	5221	*	6123	4004	5380	2285	3659	4926	4606	*	*	*	7
+       45	5034	*	0	*	*	*	4440	1108	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	4440	0	0	
+
+Q 9    4444	*	3642	5078	5754	6269	6158	5171	*	2786	*	*	3451	5026	3666	4880	5221	3372	3142	2694	9
+       0	*	*	*	*	*	*	4440	0	0	
+
+L 10   5622	4601	4417	2963	*	4158	*	4515	3206	3366	4996	5888	3040	3468	5218	3396	4331	5224	*	*	10
+       0	*	*	*	*	*	*	4440	0	0	
+
+S 11   4225	*	5404	*	5888	5239	3241	4668	3696	5052	6158	*	1622	*	6040	3197	6633	2987	*	5178	11
+       0	*	*	*	*	*	*	4440	0	0	
+
+C 12   *	61	*	*	*	4601	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	4440	0	0	
+
+R 13   4570	*	*	4284	5605	*	*	3531	1374	*	6774	*	*	4442	1715	5231	6150	6235	*	*	13
+       278	2747	5239	0	*	*	*	4440	1460	0	
+
+S 14   3901	*	3252	4298	*	4362	*	6166	1628	*	*	*	*	3553	2633	3083	5231	*	*	*	14
+       528	1706	*	0	*	*	0	4401	2014	1092	
+
+L 15   3287	*	*	*	3620	5259	4730	4581	2665	2895	6215	5854	*	3968	4052	*	2585	3981	*	4897	15
+       205	2918	*	0	*	*	0	4401	1403	1092	
+
+G 16   *	6050	4794	5014	*	682	*	*	3331	5776	*	2624	*	*	*	*	*	*	*	6070	16
+       0	*	*	*	*	*	0	4401	0	1092	
+
+L 17   3858	2422	5909	*	3799	*	4593	4968	3920	3699	4294	5025	7154	5203	4252	4244	3791	4109	*	3504	17
+       2181	359	*	0	*	0	*	4405	3440	1092	
+
+L 18   3317	*	*	5460	4339	3775	4149	6707	4897	3442	*	2496	6071	3903	2489	3145	6300	*	*	*	18
+       0	*	*	*	*	*	*	4440	0	0	
+
+G 19   3048	*	*	*	*	632	*	6001	*	*	*	*	3987	*	*	3275	5550	5029	*	*	19
+       135	3481	*	0	*	*	*	4440	1282	0	
+
+K 20   5144	*	*	*	*	*	*	*	276	*	4601	*	*	*	4952	*	4996	4599	*	*	20
+       0	*	*	*	*	*	*	4440	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	4440	0	0	
+
+I 22   *	*	4119	6158	*	*	*	1366	6355	*	1671	*	*	4279	*	6030	6300	3080	*	5916	22
+       0	*	*	*	*	*	*	4440	0	0	
+
+G 23   *	*	4996	*	*	3271	*	*	*	*	*	261	*	*	*	5029	*	*	*	*	23
+       0	*	*	*	*	*	*	4440	0	0	
+
+D 24   *	*	3270	5922	*	1100	*	*	3027	*	*	3856	*	*	2836	3939	*	5935	*	*	24
+       0	*	*	*	*	*	*	4440	0	0	
+
+K 25   4520	*	*	5079	*	*	6411	*	849	5754	6269	6882	*	4701	2731	4119	5155	4466	*	*	25
+       0	*	*	*	*	*	*	4440	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	4440	0	0	
+
+E 27   *	*	4145	5026	5916	*	3121	5431	1610	6030	*	3821	*	6172	3222	*	3940	3317	*	4109	27
+       0	*	*	*	*	*	*	4440	0	0	
+
+C 28   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	4443	0	0	
+
+V 29   *	*	4124	4592	3972	*	5716	*	*	4595	6622	4398	*	6905	*	4735	4290	4039	*	832	29
+       0	*	*	*	*	*	*	4441	0	0	
+
+K 30   *	*	*	*	*	2663	*	*	3752	5916	*	3046	1294	5108	4755	3857	6185	5028	*	4546	30
+       316	2345	*	0	*	*	*	4051	1106	0	
+
+H 31   *	*	*	*	*	3556	2576	*	2058	*	*	*	*	*	*	2203	*	*	4473	2030	31
+       0	*	*	0	*	*	*	2890	0	0	
+
+//

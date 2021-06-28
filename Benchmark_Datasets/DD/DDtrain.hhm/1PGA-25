@@ -1,0 +1,210 @@
+HHsearch 1.5
+NAME  279
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 06:39:53 2016
+LENG  56 match states, 56 columns in multiple alignment
+FILT  22 out of 24 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.5 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCEEEEECCCCCCCCCEECCCCHHHHHHHHHHHHCCCCCCCEEECCCCCCCCCCCC
+>ss_conf PSIPRED confidence values
+94020012556565310003578899999998711477652112030001011369
+>Consensus
+xxyxxxxnxxxxxgxttxkaxsxxxAxxyFxxxxxxnxvdgvwxydxxtxtFtaxe
+>279
+MTYKLILNGKTLKGETTTEAVDAATAEKVFKQYANDNGVDGEWTYDDATKTFTVTE
+>tr|F9P4J6|F9P4J6_STRCV Immunoglobulin G-binding protein G OS=Streptococcus constellatus subsp. pharyngis SK1060 = CCUG 46377 GN=spg PE=4 SV=1
+------------------------LALREFDKYGVSdyykklvnsaKTVEGVAALKDL----ILNS
+>tr|A0A0D1A4I0|A0A0D1A4I0_STRSZ Zag_2 protein OS=Streptococcus equi subsp. zooepidemicus Sz4is GN=zag_2 PE=4 SV=1
+-SYKLVIKGATFSGETATKAVDAAVAEQTFRDYANKNGVDGVWAYDAATKTFTVTE
+>tr|F9P4J6|F9P4J6_STRCV Immunoglobulin G-binding protein G OS=Streptococcus constellatus subsp. pharyngis SK1060 = CCUG 46377 GN=spg PE=4 SV=1
+-GLSGFLKSQTPAE-DTIKSLELseakTLALREFDKYGVSDyykklvnsakTVAGVKKLqaqvvesakkarvseaTDGLSGFLKSQ
+>tr|G5JZF8|G5JZF8_9STRE Immunoglobulin G-binding protein G OS=Streptococcus ictaluri 707-05 GN=spg PE=4 SV=1
+-ALAAA--KEAAKAELA----AAGVSDFYINKIDGANTVEGVKALKDAILAALAkP-
+>tr|A0A0E2UEP6|A0A0E2UEP6_9STRE Immunoglobulin G-binding protein G OS=Streptococcus parauberis GN=SS13_contig00003-0127 PE=4 SV=1
+-H--------------------------LKELVENAKTVEDIRTLMAEATPSLEaT-
+>tr|E4KPW8|E4KPW8_9LACT B domain protein OS=Eremococcus coleocola ACS-139-V-Col8 GN=HMPREF9257_1607 PE=4 SV=1
+-TYKLVVNSEDAqiTSEYTA--SSVELAGQYFRDYVNNNGLgDLEWSYDPATYTFTATD
+>tr|K9EBI3|K9EBI3_9LACT Uncharacterized protein (Fragment) OS=Alloiococcus otitis ATCC 51267 GN=HMPREF9698_00508 PE=4 SV=1
+--YYFAQQTKGKNGATTVKAKSAEEAEKYFRNWANENDLgDLEWSYDEDSKTFTARE
+>tr|K9EXL1|K9EXL1_9LACT Uncharacterized protein (Fragment) OS=Alloiococcus otitis ATCC 51267 GN=HMPREF9698_00510 PE=4 SV=1
+----FGQRTQNQNGATTVKASSPREALEYFQNFLSERGLdagDFNWHYESEDRVFTASE
+>tr|K9EBV2|K9EBV2_9LACT Uncharacterized protein OS=Alloiococcus otitis ATCC 51267 GN=HMPREF9698_00205 PE=4 SV=1
+------INS-TTKGSTSFKSPSIGEAKKYFDQYAKESGLgDLVWTFDPDSRTFTA--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    *	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+T 2    2606	*	*	*	*	2389	4069	*	*	*	*	*	*	*	*	3531	1004	*	*	*	2
+       89	*	4069	*	*	*	*	2936	0	0	
+
+Y 3    *	*	*	*	*	*	*	*	*	1565	*	*	*	*	*	*	*	*	*	595	3
+       0	*	*	*	*	*	0	3122	0	1098	
+
+K 4    2655	*	*	*	*	*	*	*	1217	*	*	*	*	*	3604	2480	*	*	*	2742	4
+       0	*	*	*	*	*	0	3122	0	1098	
+
+L 5    2741	*	*	*	2649	2674	*	*	*	1362	*	*	*	*	*	*	*	*	*	2784	5
+       0	*	*	*	*	*	0	3339	0	1098	
+
+I 6    1891	*	*	*	2705	3641	*	3061	*	*	*	*	*	*	*	*	3017	1980	*	*	6
+       230	*	2761	*	*	*	0	3359	0	1098	
+
+L 7    *	*	*	*	*	*	*	2081	*	1870	*	*	4617	1445	*	*	*	3606	*	*	7
+       0	*	*	*	*	*	0	3031	0	1344	
+
+N 8    *	*	*	*	*	*	*	*	1842	*	*	820	*	4738	3093	*	*	*	*	*	8
+       0	*	*	*	*	936	1067	3031	0	1344	
+
+G 9    *	*	*	*	*	2076	*	*	2925	*	*	*	*	*	*	1894	1466	*	*	*	9
+       106	*	3815	*	*	*	0	3360	0	1098	
+
+K 10   4268	*	*	2236	*	*	*	*	1540	*	*	4584	*	2001	4531	*	*	4130	*	*	10
+       0	*	*	*	*	1258	781	3319	0	1260	
+
+T 11   2925	*	3874	*	*	1731	*	*	*	*	*	4039	*	*	*	*	1191	*	*	*	11
+       0	*	*	*	*	*	0	3360	0	1098	
+
+L 12   2323	*	*	*	3291	*	*	*	2169	2888	*	*	2946	2839	*	*	3815	*	*	*	12
+       102	3874	*	1000	1000	*	0	3360	1038	1098	
+
+K 13   2946	*	*	*	*	*	*	*	1566	*	*	1466	*	*	*	3291	3874	*	*	*	13
+       0	*	*	*	*	*	0	3360	0	1098	
+
+G 14   2925	*	*	2946	*	577	*	*	*	*	*	*	*	*	*	3874	*	*	*	*	14
+       201	*	2946	*	*	*	0	3360	0	1098	
+
+E 15   1302	*	*	972	*	*	*	*	*	*	*	*	*	*	*	3563	*	*	*	*	15
+       0	*	*	*	*	839	1181	3000	0	1382	
+
+T 16   *	*	2946	*	*	*	*	*	*	2925	*	*	*	*	*	*	577	*	*	3874	16
+       0	*	*	*	*	*	0	3360	0	1098	
+
+T 17   2096	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3815	525	*	*	*	17
+       204	*	2925	*	*	*	0	3360	0	1098	
+
+T 18   3606	*	*	*	3676	*	*	2629	*	*	*	*	*	*	*	*	1889	1294	*	*	18
+       124	*	3606	*	*	*	0	3031	0	1344	
+
+E 19   *	*	*	3063	*	*	*	*	184	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	0	2936	0	1507	
+
+A 20   442	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1922	*	*	*	*	20
+       0	*	*	*	*	1938	436	2936	0	1507	
+
+V 21   *	*	*	*	*	4459	*	*	4738	2629	*	*	3676	*	*	1472	4425	1889	*	*	21
+       0	*	*	*	*	936	1067	3031	0	1344	
+
+D 22   2925	*	2076	2946	*	*	*	*	*	*	*	4638	*	*	*	1117	*	*	*	*	22
+       0	*	*	*	*	*	0	3360	0	1098	
+
+A 23   1187	*	*	*	*	*	*	3815	*	2594	*	*	2223	*	*	*	*	3186	*	*	23
+       201	2946	*	2000	415	*	0	3360	1158	1098	
+
+A 24   2308	*	*	1467	*	2302	*	*	*	*	*	*	*	*	3268	*	2946	*	*	*	24
+       0	*	*	*	*	*	0	3360	0	1098	
+
+T 25   *	*	*	1382	*	*	*	*	*	2130	*	*	*	4801	*	*	2450	2566	*	*	25
+       0	*	*	*	*	*	0	3397	0	1098	
+
+A 26   281	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2497	*	*	*	*	26
+       0	*	*	*	*	*	0	3606	0	1098	
+
+E 27   *	*	2497	1937	*	4497	*	*	3098	1560	*	*	*	*	4023	*	*	*	*	*	27
+       0	*	*	*	*	*	0	3606	0	1098	
+
+K 28   4674	*	*	2201	2497	*	*	*	2215	*	*	*	*	2942	2651	4023	*	*	*	*	28
+       0	*	*	*	*	0	*	3606	0	1098	
+
+V 29   5224	*	*	2582	4167	*	*	*	*	3300	*	*	*	*	*	*	3673	5224	*	878	29
+       83	4167	*	0	*	*	*	3946	1030	0	
+
+F 30   *	*	*	*	422	*	*	2714	3300	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3946	0	0	
+
+K 31   *	*	2479	2884	*	*	*	*	3178	*	*	2714	4167	2347	2556	*	*	*	*	*	31
+       0	*	*	*	*	*	*	3946	0	0	
+
+Q 32   4756	*	3745	4878	*	*	*	4167	1767	3300	*	2051	*	2626	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	3946	0	0	
+
+Y 33   *	*	*	*	2343	*	*	2714	*	4167	*	*	*	*	*	*	*	3300	3118	1403	33
+       0	*	*	*	*	*	*	3946	0	0	
+
+A 34   1388	*	2714	2670	*	2821	*	*	*	3409	*	*	*	*	*	*	*	3779	*	*	34
+       0	*	*	*	*	*	*	3946	0	0	
+
+N 35   *	*	*	4817	*	2714	*	*	3303	*	*	1247	*	*	*	3028	5296	2821	*	*	35
+       0	*	*	*	*	*	*	3946	0	0	
+
+D 36   1840	*	3341	1514	*	*	*	*	4911	*	*	4597	*	*	*	2342	*	*	*	*	36
+       87	4092	*	3322	152	*	*	3946	1010	0	
+
+N 37   *	*	3592	*	*	*	4817	*	2643	*	*	809	*	*	4130	3418	*	*	*	*	37
+       125	3592	*	3322	152	*	*	3946	1158	0	
+
+G 38   *	*	3044	*	*	1225	*	*	*	*	*	*	*	*	*	4167	1339	*	*	*	38
+       0	*	*	*	*	*	*	3946	0	0	
+
+V 39   *	*	*	*	*	*	*	4469	*	1353	*	*	*	*	*	*	*	828	*	*	39
+       717	1353	*	496	1782	*	*	3946	1982	0	
+
+D 40   3592	*	1183	1412	*	*	*	*	*	*	*	*	4167	*	*	*	4469	*	*	*	40
+       0	*	*	*	*	*	*	3946	0	0	
+
+G 41   *	*	3300	*	3409	980	*	*	*	1749	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	3946	0	0	
+
+E 42   *	*	2871	2039	*	*	*	3211	*	*	*	3363	*	*	*	*	*	1270	*	*	42
+       0	*	*	*	*	*	*	3801	0	0	
+
+W 43   4013	*	*	*	*	*	*	*	2572	*	*	3682	*	*	3211	*	*	*	776	*	43
+       0	*	*	*	*	*	*	3801	0	0	
+
+T 44   1583	*	*	*	4689	*	4098	*	3513	*	*	*	*	*	*	2088	2022	*	*	*	44
+       0	*	*	*	*	*	*	3801	0	0	
+
+Y 45   *	*	*	*	4573	*	*	*	*	1265	*	*	*	*	*	*	*	*	*	884	45
+       132	3513	*	4000	93	*	*	3801	1158	0	
+
+D 46   *	*	1038	4098	*	*	*	*	2182	*	3211	4689	*	*	*	*	3513	*	*	*	46
+       0	*	*	*	*	*	*	3801	0	0	
+
+D 47   2804	*	1344	2114	*	*	*	*	*	*	*	*	3543	*	*	3363	4354	*	*	*	47
+       0	*	*	*	*	*	*	3801	0	0	
+
+A 48   1426	*	2577	1829	*	3513	*	*	*	4013	*	*	*	*	*	5096	*	*	*	*	48
+       92	*	4013	*	*	*	*	3801	0	0	
+
+T 49   3781	*	4176	*	*	*	*	3505	*	3120	*	*	*	*	*	2206	1145	*	*	*	49
+       0	*	*	*	*	*	0	3520	0	1010	
+
+K 50   *	*	*	*	*	*	*	*	1319	2793	*	*	*	*	2310	3120	3781	*	*	3934	50
+       0	*	*	*	*	*	0	3520	0	1010	
+
+T 51   2445	*	*	*	*	3120	*	*	*	*	*	*	3781	*	*	4705	903	4176	*	*	51
+       0	*	*	*	*	*	0	3520	0	1010	
+
+F 52   3505	*	*	*	353	*	*	*	*	*	*	*	*	*	*	2955	*	*	*	*	52
+       84	4151	*	2000	415	0	*	3520	1021	1010	
+
+T 53   3682	*	*	*	*	*	*	4013	*	1857	*	*	*	*	*	*	776	*	*	*	53
+       0	*	*	*	*	*	*	3801	0	0	
+
+V 54   1110	*	*	3211	*	4996	*	*	3513	2838	*	*	*	*	*	*	*	2556	*	*	54
+       316	2345	*	0	*	*	*	3801	1344	0	
+
+T 55   *	*	3694	*	*	*	4645	4886	*	*	*	3825	3655	*	2563	2355	1581	*	*	*	55
+       0	*	*	*	*	*	*	3733	0	0	
+
+E 56   *	*	4103	446	*	*	*	*	*	*	*	*	*	3038	*	3539	*	*	*	*	56
+       0	*	*	0	*	*	*	3324	0	0	
+
+//

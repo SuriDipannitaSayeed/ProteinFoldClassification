@@ -1,0 +1,148 @@
+HHsearch 1.5
+NAME  957
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 20:55:56 2016
+LENG  36 match states, 36 columns in multiple alignment
+FILT  19 out of 21 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCHHHHHHHHHHHCCEEEEEEEECCCEEEEEEECC
+>ss_conf PSIPRED confidence values
+963788998777650767655664698069997059
+>Consensus
+aCdxxsCWaxCqaxhxiyFRrAyCdGxxCxCvfxxg
+>957
+ACNFQSCWATCQAQHSIYFRRAFCDRSQCKCVFVRG
+>tr|Q5SDJ1|Q5SDJ1_9NEOP Termicin OS=Nasutitermes exitiosus PE=2 SV=1
+ACNFQSCWAICKAHYGIYFRRAYCDGPNCQCVHLIQ
+>tr|Q5SDH7|Q5SDH7_9NEOP Termicin OS=Drepanotermes rubriceps PE=2 SV=1
+DCNTKACWALCQREHGIYFRRAVCEGSRCKCILVNG
+>tr|D2D002|D2D002_9NEOP Termicin OS=Macrotermes barneyi PE=2 SV=1
+DCDIDECWDDCEEEHGRYFRRAYCDGSVCKCVFNDE
+>tr|C9W4J9|C9W4J9_9NEOP Termicin OS=Reticulitermes chinensis PE=2 SV=1
+DCDQQSCWVTCQRKYTINFRNAFCDGSSCQCVFVTG
+>tr|A0A0M3STY1|A0A0M3STY1_9NEOP Termicin-like protein OS=Eupolyphaga sinensis PE=2 SV=1
+ACDFQQCWVTCQRQYSINFISARCNGDSCVCTFRT-
+>tr|D2D033|D2D033_9NEOP Termicin OS=Macrotermes barneyi PE=2 SV=1
+ACYMRQCWANCQAKHGRYFRRAYCEGPICRCVSNNG
+>tr|C9W4I0|C9W4I0_9NEOP Termicin OS=Reticulitermes chinensis PE=2 SV=1
+PWDFLSCWAGCQADHSINFRRAYCDGKRWVWVFDTG
+>tr|Q5SDI2|Q5SDI2_9NEOP Termicin OS=Nasutitermes walkeri PE=2 SV=1
+ACDFQSCWVLCQRQYNIYFRKAYCEKSRCICVYNYG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    776	*	1881	*	*	4215	*	*	*	*	*	*	3466	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2400	0	0	
+
+C 2    *	137	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3466	*	2
+       0	*	*	*	*	*	*	2400	0	0	
+
+N 3    *	*	919	4215	*	*	*	*	*	*	*	1612	*	*	*	*	*	*	*	3471	3
+       0	*	*	*	*	*	*	2400	0	0	
+
+F 4    *	*	*	*	852	*	*	3730	*	4590	2495	*	*	4308	4544	*	4097	*	*	*	4
+       0	*	*	*	*	*	*	2400	0	0	
+
+Q 5    *	*	3730	*	*	*	2962	*	4097	3466	*	3439	*	1092	4555	4527	*	*	*	*	5
+       0	*	*	*	*	*	*	2400	0	0	
+
+S 6    3303	*	*	2621	*	*	*	*	*	*	*	*	*	2652	4392	1072	4215	*	*	*	6
+       0	*	*	*	*	*	*	2400	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2400	0	0	
+
+W 8    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	8
+       0	*	*	*	*	*	*	2400	0	0	
+
+A 9    524	*	3730	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2125	*	*	9
+       0	*	*	*	*	*	*	2400	0	0	
+
+T 10   *	*	3730	*	*	2901	*	4246	4215	3055	*	2925	*	*	*	4544	1727	*	*	3520	10
+       0	*	*	*	*	*	*	2400	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2400	0	0	
+
+Q 12   *	*	*	3730	*	*	*	*	3292	*	*	*	4478	538	3487	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2400	0	0	
+
+A 13   751	*	*	3730	*	*	*	*	*	*	*	*	*	*	1597	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2400	0	0	
+
+Q 14   *	*	2901	2902	*	*	4246	*	2472	*	*	*	*	1146	4392	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2400	0	0	
+
+H 15   *	*	*	*	*	*	680	*	*	*	*	4341	3533	*	*	*	*	*	*	2058	15
+       0	*	*	*	*	*	*	2400	0	0	
+
+S 16   *	*	*	*	*	892	*	*	*	*	*	4015	*	4215	*	1761	4308	*	*	*	16
+       0	*	*	*	*	*	*	2400	0	0	
+
+I 17   *	*	*	*	*	*	*	503	*	*	*	*	*	*	1765	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2400	0	0	
+
+Y 18   *	4602	*	*	*	*	*	*	*	*	*	1947	*	*	*	*	*	*	*	516	18
+       0	*	*	*	*	*	*	2400	0	0	
+
+F 19   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2400	0	0	
+
+R 20   *	*	*	*	*	*	*	3097	*	*	*	*	*	*	179	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2400	0	0	
+
+R 21   *	*	*	*	*	*	*	*	4015	*	*	4308	*	*	299	3736	*	*	*	*	21
+       0	*	*	*	*	*	*	2400	0	0	
+
+A 22   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2400	0	0	
+
+F 23   *	*	*	*	1823	*	*	*	*	*	*	*	*	*	3736	*	*	4097	*	776	23
+       0	*	*	*	*	*	*	2400	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2400	0	0	
+
+D 25   *	*	881	1997	*	*	*	*	*	*	*	3736	*	2927	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2400	0	0	
+
+R 26   *	*	*	*	*	162	*	*	4015	*	*	*	*	*	4496	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2400	0	0	
+
+S 27   *	*	3736	*	*	*	*	*	3466	*	*	*	1814	4527	*	981	*	*	*	*	27
+       0	*	*	*	*	*	*	2400	0	0	
+
+Q 28   *	*	*	*	*	*	4527	2916	*	4478	*	4246	*	4496	1759	2584	3277	3097	*	*	28
+       0	*	*	*	*	*	*	2400	0	0	
+
+C 29   *	137	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3466	*	29
+       0	*	*	*	*	*	*	2400	0	0	
+
+K 30   *	*	*	*	*	*	*	4015	2489	4341	4581	*	*	2335	2183	*	*	1997	*	*	30
+       0	*	*	*	*	*	*	2400	0	0	
+
+C 31   *	137	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3466	*	31
+       0	*	*	*	*	*	*	2400	0	0	
+
+V 32   3475	*	*	*	*	*	*	4097	*	*	*	*	*	*	*	*	3736	365	*	*	32
+       0	*	*	*	*	*	*	2400	0	0	
+
+F 33   *	*	*	*	515	*	4246	*	*	4097	*	*	*	*	4544	4555	*	*	*	3271	33
+       0	*	*	*	*	*	*	2400	0	0	
+
+V 34   *	*	3466	*	*	*	*	*	*	2803	*	1492	*	*	3736	4563	*	1769	*	*	34
+       0	*	*	*	*	*	*	2400	0	0	
+
+R 35   *	*	3730	*	*	*	*	4246	*	*	*	1144	*	*	4496	*	1675	*	*	4015	35
+       0	*	*	*	*	*	*	2400	0	0	
+
+G 36   4267	*	*	3696	*	375	*	*	*	*	*	*	*	3328	*	*	*	*	*	*	36
+       0	*	*	0	*	*	*	2326	0	0	
+
+//

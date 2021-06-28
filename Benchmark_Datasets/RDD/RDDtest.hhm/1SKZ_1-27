@@ -1,0 +1,195 @@
+HHsearch 1.5
+NAME  1SKZ_1
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Mon Sep 28 21:30:07 2015
+LENG  51 match states, 51 columns in multiple alignment
+FILT  54 out of 56 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.4 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCEEEECCCCCEECCCCCCCCCCCCCCEECCCCCCCEECCCCC
+>ss_conf PSIPRED confidence values
+987621787607461388061686782650865156888998762732799
+>Consensus
+xcxxxxCxxgxxCxxxxxxCxCpxxxCxxxCpxGFqxDxxGCeiCxCxxxp
+>1SKZ_1
+GCEEAGCPEGSACNIITDRCTCSGVRCRVHCPHGFQRSRYGCEFCKCRLEP
+>sp|P15358|ANTA_HAEOF Blood coagulation factor Xa/proclotting enzyme inhibitor OX=6410 OS=Haementeria officinalis (Mexican leech). GN= PE=1 SV=1
+-CDISECPEGMMCSRLTNKCDCKiDINCRKTCPNGLKRDKLGCEYCECRP--
+>tr|K1QQU7|K1QQU7_CRAGI Iron/zinc purple acid phosphatase-like protein OX=29159 OS=Crassostrea gigas (Pacific oyster) (Crassostrea angulata). GN= PE=4 SV=1
+----VDCPSGYECR--GNGCghecyrpanyvvpeGCTPVRCRMHCPLGYKVDESGCDICECD---
+>tr|O96858|O96858_HIRNI Guamerin OX=42736 OS=Hirudo nipponia (Korean blood-sucking leech). GN= PE=2 SV=1
+-CGEKTCSPAQVCL--NNECVCTAIRCMIFCPNGFKVDENGCEYpCTCAD--
+>tr|D2UZG0|D2UZG0_NAEGR Putative uncharacterized protein OX=5762 OS=Naegleria gruberi (Amoeba). GN=NAEGRDRAFT_77916 PE=4 SV=1
+--------------------ICPLYGCRRYCPYGFKINEKGCTTCSCNETP
+>tr|Q6QJ04|Q6QJ04_9ANNE Cys-rich cocoon protein OX=60934 OS=Theromyzon rude. GN= PE=2 SV=1
+-CEGTLCEEGQVCKVVEAQCmkdpcypvaecvyDCPQVRCSTVCQSGFRVDGNGCQSCNCID--
+>tr|Q6QJ04|Q6QJ04_9ANNE Cys-rich cocoon protein OX=60934 OS=Theromyzon rude. GN= PE=2 SV=1
+-CEEAICPDGEVCKPIEVECfaapcyndaqcvvECPLKKCLLFCESGYQLDVNGCETCLCL---
+>sp|Q8AWW5|CRIM1_CHICK Cysteine-rich motor neuron 1 protein OX=9031 OS=Gallus gallus (Chicken). GN= PE=2 SV=1
+--------------------KCPEMPCGKICPMGFQQNSHGCVICKCREA-
+>tr|Q5D2M9|Q5D2M9_9ANNE Eisenstasin I OX=168636 OS=Eisenia andrei. GN= PE=2 SV=1
+--------------------GCSRVRCWKECTHGFLNDSRGCQVCACARDP
+>tr|D4AEK3|D4AEK3_RAT Protein Crim1 OX=10116 OS=Rattus norvegicus (Rat). GN= PE=4 SV=1
+------------------------RACTLDCPFGFLTDVHNCELCQCRPRP
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2641	0	0	
+
+E 3    *	*	2832	1175	*	1263	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2641	0	0	
+
+E 4    *	*	*	1359	*	1482	*	2832	*	*	*	*	3163	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2641	0	0	
+
+A 5    1943	*	*	3384	*	*	*	*	2527	*	*	*	*	*	*	3096	2864	2208	*	*	5
+       0	*	*	*	*	*	*	2848	0	0	
+
+G 6    *	*	3063	3096	*	2970	*	2917	*	2864	*	*	*	*	*	*	1450	*	*	*	6
+       0	*	*	*	*	*	*	2848	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2848	0	0	
+
+P 8    *	*	*	2864	*	*	*	*	*	*	*	*	1010	*	*	1450	*	*	*	*	8
+       0	*	*	*	*	*	*	2848	0	0	
+
+E 9    3384	*	2917	1082	*	3370	*	*	*	*	*	*	3592	*	*	3063	*	*	*	*	9
+       0	*	*	*	*	*	*	2848	0	0	
+
+G 10   1450	*	*	*	*	657	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2848	0	0	
+
+S 11   *	*	*	2917	*	*	*	*	*	*	3096	*	*	990	*	2970	*	*	*	3063	11
+       0	*	*	*	*	*	*	2848	0	0	
+
+A 12   2970	*	*	3063	*	*	*	*	*	*	2227	*	*	*	*	*	*	891	*	*	12
+       0	*	*	*	*	*	*	2848	0	0	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2848	0	0	
+
+N 14   *	*	*	3370	*	*	*	*	1473	2484	*	2970	*	*	3063	3096	*	*	*	*	14
+       959	*	1042	*	*	*	*	2848	0	0	
+
+I 15   *	*	*	*	*	*	*	2063	*	*	*	*	2021	*	1940	*	*	1980	*	*	15
+       0	*	*	*	*	*	0	2172	0	1488	
+
+I 16   *	*	*	*	*	*	*	1042	*	1940	*	*	*	*	*	*	*	1980	*	*	16
+       0	*	*	*	*	0	*	2172	0	1488	
+
+T 17   *	*	3466	1890	*	3063	*	*	3384	*	*	3592	*	*	*	*	2032	3370	*	*	17
+       0	*	*	*	*	*	*	2848	0	0	
+
+D 18   2864	*	2156	*	*	2424	*	*	*	*	*	1646	*	*	*	*	*	2917	*	*	18
+       0	*	*	*	*	*	*	2848	0	0	
+
+R 19   *	*	*	2215	*	3063	*	*	1322	*	*	*	*	2864	2970	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2848	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       712	1360	*	3732	113	*	*	2848	1376	0	
+
+T 21   5099	*	3387	3405	*	3640	*	4234	1678	*	5060	5149	*	*	4825	*	4190	2421	*	*	21
+       0	*	*	*	*	*	*	3784	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3810	0	0	
+
+S 23   *	*	*	5260	*	*	*	*	5276	*	*	3178	1034	4889	3918	2687	3885	5246	*	*	23
+       38	5276	*	0	*	*	*	3832	1111	0	
+
+G 24   3693	*	3140	1961	*	5006	*	5246	4653	4053	*	5231	2410	4023	3756	*	*	4484	*	*	24
+       0	*	*	*	*	*	*	3832	0	0	
+
+V 25   3925	*	5944	*	4259	5855	5938	3446	4501	3135	3972	*	*	5092	3262	3853	*	1952	*	4121	25
+       66	5360	5609	0	*	*	*	3947	1000	0	
+
+R 26   5831	*	5656	*	4742	2994	4592	*	4599	4235	4747	4218	3032	3968	2393	3616	4479	5343	*	4463	26
+       0	*	*	*	*	0	*	3928	0	1000	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       25	*	5852	*	*	*	*	3950	0	0	
+
+R 28   4169	*	3141	5336	*	4945	*	*	3657	4437	4035	5567	5159	*	2080	2979	2891	5570	5708	*	28
+       0	*	*	*	*	0	*	3946	0	1000	
+
+V 29   *	*	*	*	*	*	*	3695	1877	1705	2612	5332	*	5502	4657	*	4941	4029	*	*	29
+       0	*	*	*	*	*	*	3950	0	0	
+
+H 30   4258	*	2746	4084	3929	*	2862	4042	4221	5922	4895	4786	*	5171	5529	*	3833	4398	*	2566	30
+       0	*	*	*	*	*	*	3950	0	0	
+
+C 31   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	3950	0	0	
+
+P 32   3697	*	*	3174	*	*	*	*	4191	5574	*	*	752	4941	*	4568	3884	*	*	*	32
+       0	*	*	*	*	*	*	3950	0	0	
+
+H 33   *	*	4046	4944	2215	*	2637	*	*	3295	3659	2712	*	*	5618	4156	5171	5948	*	3705	33
+       0	*	*	*	*	*	*	3950	0	0	
+
+G 34   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	3950	0	0	
+
+F 35   *	*	*	*	538	*	*	*	*	3976	*	*	*	*	*	*	*	*	4686	2258	35
+       0	*	*	*	*	*	*	3950	0	0	
+
+Q 36   4630	*	4808	3735	*	*	*	*	2107	3444	*	*	*	1384	3737	5369	5811	5350	*	*	36
+       0	*	*	*	*	*	*	3950	0	0	
+
+R 37   5332	*	*	6073	*	*	5993	4609	2620	4613	*	4644	*	3016	3075	*	2097	2441	*	*	37
+       0	*	*	*	*	*	*	3950	0	0	
+
+S 38   *	*	417	*	*	4427	5501	*	*	*	*	2651	*	*	*	5425	*	*	*	*	38
+       0	*	*	*	*	*	*	3950	0	0	
+
+R 39   3040	*	3602	1851	*	4941	5987	6104	4469	4845	*	4612	4463	*	3434	2678	*	4610	*	*	39
+       0	*	*	*	*	*	*	3950	0	0	
+
+Y 40   *	*	5356	*	4249	*	2112	*	3786	4378	*	1654	*	4044	3208	4754	*	*	*	4397	40
+       0	*	*	*	*	*	*	3950	0	0	
+
+G 41   *	*	*	*	*	196	*	*	*	*	*	3288	*	*	*	5357	*	*	*	*	41
+       0	*	*	*	*	*	*	3950	0	0	
+
+C 42   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	3950	0	0	
+
+E 43   5332	*	2722	1200	*	*	*	*	5699	3200	*	*	3749	3518	5904	5186	4735	5900	*	*	43
+       0	*	*	*	*	*	*	3950	0	0	
+
+F 44   *	*	*	*	4634	*	*	1174	*	4384	4884	*	*	*	5578	3885	2667	3091	*	3808	44
+       165	3214	*	0	*	*	*	3950	1435	0	
+
+C 45   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	3950	0	0	
+
+K 46   3426	*	5699	2590	*	*	*	5739	1958	5409	5186	4941	*	2943	3196	4567	3636	*	*	*	46
+       0	*	*	*	*	*	*	3950	0	0	
+
+C 47   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	3950	0	0	
+
+R 48   2749	*	5880	*	*	*	*	4359	2080	4037	*	3602	*	5696	1542	5146	*	6084	*	*	48
+       0	*	*	*	*	*	*	3933	0	0	
+
+L 49   *	*	2497	1864	5287	*	*	*	*	4851	*	*	2042	4155	3340	4231	*	4759	*	*	49
+       39	5217	*	0	*	*	*	3889	1029	0	
+
+E 50   2817	*	4473	3434	*	*	*	*	4422	4987	*	*	4275	4686	1693	3630	3651	3603	*	*	50
+       0	*	*	*	*	*	*	3641	0	0	
+
+P 51   3551	*	*	*	*	*	3563	*	*	*	*	*	269	*	*	*	*	*	*	*	51
+       0	*	*	0	*	*	*	3168	0	0	
+
+//

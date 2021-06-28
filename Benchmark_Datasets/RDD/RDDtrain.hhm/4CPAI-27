@@ -1,0 +1,146 @@
+HHsearch 1.5
+NAME  4CPAI
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Mon Sep 28 22:04:32 2015
+LENG  38 match states, 38 columns in multiple alignment
+FILT  5 out of 7 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.7 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCHHHHHHHHHHHHHCCCCCC
+>ss_conf PSIPRED confidence values
+96657666888666556443479999998630347889
+>Consensus
+qexxDpvCxKPCxTxDDCSxxxxCqaCxnxaxtCGPxv
+>4CPAI
+ZZHADPICNKPCKTHDDCSGAWFCQACWNSARTCGPYV
+>tr|K4CBJ6|K4CBJ6_SOLLC Uncharacterized protein OX=4081 OS=Solanum lycopersicum (Tomato) (Lycopersicon esculentum). GN= PE=4 SV=1
+Q---vDPVCYKPCKTHDDCSGALYCEACRRAAGSCGPWR
+>tr|K4CBJ5|K4CBJ5_SOLLC Uncharacterized protein OX=4081 OS=Solanum lycopersicum (Tomato) (Lycopersicon esculentum). GN= PE=4 SV=1
+QEDQDPVCGKPCTTHDDCSEAWLCQACWNFRQTCGPFV
+>sp|P01076|MCPI_SOLLC Metallocarboxypeptidase inhibitor OX=4081 OS=Solanum lycopersicum (Tomato) (Lycopersicon esculentum). GN= PE=1 SV=1
+QQ-YDPVCHKPCSTQDDCSGGTFCQACWRFAGTCGPYV
+>tr|E3W9P5|E3W9P5_TOBAC Putative metallocarboxypeptidase inhibitor OX=4097 OS=Nicotiana tabacum (Common tobacco). GN= PE=4 SV=1
+QEQYDATCGKPCNTRDDCSSGWLCSECYNFSKTCGPL-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Z 1    *	*	*	2343	*	*	*	*	*	*	*	*	*	317	*	*	*	*	*	*	1
+       310	*	2371	*	*	*	*	1725	0	0	
+
+Z 2    *	*	*	402	*	*	*	*	*	*	*	*	*	2040	*	*	*	*	*	*	2
+       402	*	2040	*	*	*	0	1613	0	1006	
+
+H 3    *	*	1686	*	*	*	1566	*	*	*	*	*	*	1509	*	*	*	*	*	*	3
+       0	*	*	*	*	1080	924	1509	0	1142	
+
+A 4    2013	*	*	*	*	*	*	*	*	*	*	*	*	2094	*	*	*	*	*	949	4
+       0	*	*	0	*	0	*	1613	1006	1006	
+
+D 5    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1725	0	0	
+
+P 6    2106	*	*	*	*	*	*	*	*	*	*	*	381	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1725	0	0	
+
+I 7    *	*	*	*	*	*	*	2343	*	*	*	*	*	*	*	*	2106	810	*	*	7
+       0	*	*	*	*	*	*	1725	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1725	0	0	
+
+N 9    *	*	*	*	*	1242	2419	*	*	*	*	2343	*	*	*	*	*	*	*	2371	9
+       0	*	*	*	*	*	*	1725	0	0	
+
+K 10   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1725	0	0	
+
+P 11   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1725	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1725	0	0	
+
+K 13   *	*	*	*	*	*	*	*	1357	*	*	2106	*	*	*	2419	2394	*	*	*	13
+       0	*	*	*	*	*	*	1725	0	0	
+
+T 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	14
+       0	*	*	*	*	*	*	1725	0	0	
+
+H 15   *	*	*	*	*	*	784	*	*	*	*	*	*	2419	2106	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1725	0	0	
+
+D 16   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1725	0	0	
+
+D 17   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1725	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	1725	0	0	
+
+S 19   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	19
+       0	*	*	*	*	*	*	1725	0	0	
+
+G 20   *	*	*	2394	*	793	*	*	*	*	*	*	*	*	*	2106	*	*	*	*	20
+       0	*	*	*	*	*	*	1725	0	0	
+
+A 21   784	*	*	*	*	1254	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1725	0	0	
+
+W 22   *	*	*	*	*	*	*	*	*	2371	*	*	*	*	*	*	2419	*	690	*	22
+       0	*	*	*	*	*	*	1725	0	0	
+
+F 23   *	*	*	*	1381	*	*	*	*	1242	*	*	*	*	*	*	*	*	*	2371	23
+       0	*	*	*	*	*	*	1725	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1725	0	0	
+
+Q 25   *	*	*	2371	*	*	*	*	*	*	*	*	*	800	*	2106	*	*	*	*	25
+       0	*	*	*	*	*	*	1725	0	0	
+
+A 26   381	*	*	2106	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1725	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1725	0	0	
+
+W 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	2371	*	*	*	800	2106	28
+       0	*	*	*	*	*	*	1725	0	0	
+
+N 29   *	*	*	*	*	*	*	*	*	*	*	690	*	*	1395	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1725	0	0	
+
+S 30   2371	*	*	*	714	*	*	*	*	*	*	*	*	*	*	2343	*	*	*	*	30
+       0	*	*	*	*	*	*	1725	0	0	
+
+A 31   793	*	*	*	*	*	*	*	*	*	*	*	*	*	2394	2106	*	*	*	*	31
+       0	*	*	*	*	*	*	1725	0	0	
+
+R 32   *	*	*	*	*	1395	*	*	2106	*	*	*	*	2394	2343	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1725	0	0	
+
+T 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2371	310	*	*	*	33
+       0	*	*	*	*	*	*	1725	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1725	0	0	
+
+G 35   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	1725	0	0	
+
+P 36   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1725	0	0	
+
+Y 37   *	*	*	*	2394	*	*	*	*	2106	*	*	*	*	*	*	*	*	2371	1381	37
+       0	*	*	*	*	*	*	1725	0	0	
+
+V 38   *	*	*	*	*	*	*	*	*	*	*	*	*	*	2013	*	*	411	*	*	38
+       0	*	*	0	*	*	*	1538	0	0	
+
+//

@@ -1,0 +1,129 @@
+HHsearch 1.5
+NAME  2016
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 12:55:34 2016
+LENG  29 match states, 29 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCHHHHCCCCCCCCCCCCEEECCCC
+>ss_conf PSIPRED confidence values
+96220344642365657352887621559
+>Consensus
+vgCeeCpxhCkxkxAxxxCdnxxCxCxxx
+>2016
+ATCEDCPEHCATQNARAKCDNDKCVCEPK
+>sp|P56215|KAX81_ANDMA Potassium channel toxin alpha-KTx 8.1 OS=Androctonus mauritanicus mauritanicus PE=1 SV=1
+-SCEDCPEHCSTQKAQAKCDNDKCVCEPI
+>sp|P86400|KAX86_MESEU Potassium channel toxin alpha-KTx 8.6 OS=Mesobuthus eupeus PE=1 SV=1
+-SCEDCPEHCATKDQRAKCDNDKCVCEPK
+>tr|A0A088D9T0|A0A088D9T0_MESEU Potassium channel blocker pMeKTx2-4 OS=Mesobuthus eupeus PE=2 SV=1
+LGCGdECRKYCKSKEAGSFCISGRCDCFG-
+>sp|Q9U8D1|KAX92_MESMA Potassium channel toxin alpha-KTx 9.2 OS=Mesobuthus martensii PE=1 SV=1
+VGCEECPMHCKGKNANPTCDDGVCNCNV-
+>tr|A0A088D9Q6|A0A088D9Q6_MESEU Potassium channel blocker pMeKTx2-3 OS=Mesobuthus eupeus PE=2 SV=1
+VGCEECPVYCKGKKALPTCDGGVCNCNA-
+>tr|F1CIV5|F1CIV5_HOTJU Gamma-buthitoxin-Hj1a OS=Hottentotta judaicus PE=2 SV=1
+VGCEDCPEHCSQQNARAKCENDKCVCEP-
+>sp|B3EWX9|KAX9B_MESGB Potassium channel toxin alpha-KTx 9.11 OS=Mesobuthus gibbosus PE=1 SV=1
+VGCEECPMHCKGKKALPTCDYG-CECND-
+>sp|P60209|KAX94_MESTA Potassium channel toxin alpha-KTx 9.4 OS=Mesobuthus tamulus PE=1 SV=1
+VGCAECPMHCKGKMAKPTCENEVCKCNI-
+>sp|P15230|SCX2_HOTTS Peptide 2 OS=Hottentotta tamulus sindicus PE=1 SV=1
+VGCEEDPMHCKGKQAKPTCCNGVCNCNV-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    2740	*	*	*	*	*	*	*	*	2356	*	*	*	*	*	*	*	611	*	*	1
+       0	*	*	*	*	*	*	2176	0	0	
+
+T 2    *	*	*	*	*	565	*	*	*	*	*	*	*	*	*	1961	3892	*	*	*	2
+       0	*	*	*	*	*	*	2251	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2251	0	0	
+
+E 4    3440	*	*	448	*	2517	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       277	2517	*	0	*	*	*	2251	1126	0	
+
+D 5    *	*	1363	710	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2251	0	0	
+
+C 6    *	127	3573	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2251	0	0	
+
+P 7    *	*	*	*	*	*	*	*	*	*	*	*	277	*	2517	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2251	0	0	
+
+E 8    *	*	4044	1608	*	*	*	*	2517	*	1463	*	*	*	*	*	*	3757	*	*	8
+       0	*	*	*	*	*	*	2251	0	0	
+
+H 9    *	*	*	*	*	*	412	*	*	*	*	*	*	*	*	*	*	*	*	2008	9
+       0	*	*	*	*	*	*	2251	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2251	0	0	
+
+A 11   2779	*	*	*	*	*	*	*	710	*	*	*	*	*	*	2041	*	*	*	*	11
+       0	*	*	*	*	*	*	2251	0	0	
+
+T 12   *	*	*	*	*	1195	*	*	*	*	*	*	*	3955	*	2517	1625	*	*	*	12
+       0	*	*	*	*	*	*	2251	0	0	
+
+Q 13   *	*	*	*	*	*	*	*	536	*	*	*	*	1688	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2251	0	0	
+
+N 14   *	*	3675	2517	*	*	*	*	1650	*	3440	1988	*	3573	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2251	0	0	
+
+A 15   118	*	*	*	*	*	*	*	*	*	*	*	*	3675	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2251	0	0	
+
+R 16   *	*	*	*	*	2517	*	*	2505	2834	*	3978	*	4085	1601	*	*	4137	*	*	16
+       0	*	*	*	*	*	*	2251	0	0	
+
+A 17   1363	*	*	*	*	*	*	*	*	*	*	*	1195	*	*	2517	*	*	*	*	17
+       0	*	*	*	*	*	*	2251	0	0	
+
+K 18   *	*	*	*	2517	*	*	*	1363	*	*	*	*	*	*	*	1195	*	*	*	18
+       0	*	*	*	*	*	*	2251	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2251	0	0	
+
+D 20   *	3573	774	2675	*	*	*	2517	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2251	0	0	
+
+N 21   *	*	3978	*	*	3757	*	*	*	*	*	686	*	*	*	2517	*	*	*	3917	21
+       0	*	*	*	*	*	*	2251	0	0	
+
+D 22   *	*	1363	3440	*	946	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       99	*	3917	*	*	*	*	2251	0	0	
+
+K 23   *	*	*	*	*	*	*	*	1298	*	*	*	*	*	2455	*	*	1284	*	*	23
+       0	*	*	*	*	0	*	2236	0	1000	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2251	0	0	
+
+V 25   *	*	2517	3917	*	*	*	*	3440	*	*	1845	*	*	*	*	*	1363	*	*	25
+       0	*	*	*	*	*	*	2251	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2251	0	0	
+
+E 27   *	*	*	1363	2517	*	*	*	*	*	*	1195	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2251	0	0	
+
+P 28   2934	*	3917	*	*	2517	*	3440	*	*	*	*	1601	*	*	4085	*	2761	*	*	28
+       0	*	*	*	*	*	*	2251	0	0	
+
+K 29   *	*	*	*	*	*	*	2338	726	*	*	*	*	*	*	*	*	2338	*	*	29
+       0	*	*	0	*	*	*	1222	0	0	
+
+//

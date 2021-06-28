@@ -1,0 +1,186 @@
+HHsearch 1.5
+NAME  1IVA
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Mon Sep 28 21:27:51 2015
+LENG  48 match states, 48 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.7 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCHHHHHHCCCCCCCCCCCCCEEEEEECCEEEECCCCCCCCCCCC
+>ss_conf PSIPRED confidence values
+963216688654499997618987577620651245477311242349
+>Consensus
+xxxciaxxYkrCxxxxxpCCxnRpCxCsxxgtnCxCKkxLixxxxxxx
+>1IVA
+KKKCIAKDYGRCKWGGTPCCRGRGCICSIMGTNCECKPRLIMEGLGLA
+>sp|B6DD52|TXG01_LYCSI Toxin-like structure LSTX-P1 OX=434756 OS=Lycosa singoriensis (Wolf spider) (Aranea singoriensis). GN= PE=2 SV=1
+-----AKEYQWCDWNTRPCCDNISCICSWIGTNCECKKGII-------
+>sp|B6DD54|TXH03_LYCSI Toxin-like structure LSTX-P3 OX=434756 OS=Lycosa singoriensis (Wolf spider) (Aranea singoriensis). GN= PE=2 SV=1
+-----ARLYERCSMTRRPCCNNVPYVCSLLGTYCECKKGLI-------
+>sp|B6DD58|TXJ07_LYCSI Toxin-like structure LSTX-P7 OX=434756 OS=Lycosa singoriensis (Wolf spider) (Aranea singoriensis). GN= PE=2 SV=1
+-----SGAYKRCSSSQR-CCEGRPCVCSAINSNCKCRKTYT-------
+>sp|B6DD55|TXI04_LYCSI Toxin-like structure LSTX-P4 OX=434756 OS=Lycosa singoriensis (Wolf spider) (Aranea singoriensis). GN= PE=2 SV=1
+-----IKLNQECVQNKTPCCNNRPCLCYMRFNICLCEKPLG-------
+>sp|B3EWT2|TXC17_CUPSA Toxin CSTX-17 OX=6928 OS=Cupiennius salei (Wandering spider). GN= PE=1 SV=1
+---CIPK-HKRCTWSGPKCCNNISCHCNISGTLCKCRPGLF-------
+>sp|P83909|TX22_PHORI Neurotoxin PRTx22C1 OX=272752 OS=Phoneutria reidyi (Brazilian Amazonian armed spider) (Ctenus reidyi). GN= PE=1 SV=1
+-----ADVYKECWYPEKPCCKDRACQCSL-GMNCKCKATLG-------
+>sp|B3EWT3|TXC18_CUPSA Toxin CSTX-18 OX=6928 OS=Cupiennius salei (Wandering spider). GN= PE=1 SV=1
+--------RGRCLPGGRKCCNGRPCECFA--KICSCKPKLIG------
+>sp|O76200|TX31_PHONI PNTx3-1 OX=6918 OS=Phoneutria nigriventer (Brazilian armed spider) (Ctenus nigriventer). GN= PE=1 SV=1
+-----AAVYERCGKGYKRCCEERPCKCNI-VMdNCTCKKFIS-------
+>sp|P83911|TX37_PHORI Neurotoxin PRTx3-7 OX=272752 OS=Phoneutria reidyi (Brazilian Amazonian armed spider) (Ctenus reidyi). GN= PE=1 SV=1
+-----AGLYKKCGKGVNTCCENRPCKCDLAMGNCICKKKFV-------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+K 1    *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+K 2    *	*	1000	*	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1211	0	0	
+
+K 3    *	*	*	*	*	*	*	*	1000	*	*	1000	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1211	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1526	0	0	
+
+I 5    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1526	0	0	
+
+A 6    582	*	*	*	*	*	*	3190	*	*	*	*	3549	*	*	3798	*	3939	*	*	6
+       0	*	*	*	*	*	*	3101	0	0	
+
+K 7    3746	*	2507	3936	*	2300	*	*	1616	*	*	*	3939	*	3479	*	*	*	*	*	7
+       129	*	3549	*	*	*	*	3101	0	0	
+
+D 8    2282	*	2813	3612	*	*	*	*	*	1483	*	*	*	*	*	*	*	2234	*	*	8
+       0	*	*	*	*	0	*	2997	0	1016	
+
+Y 9    *	*	*	*	*	*	3677	*	*	*	*	3357	*	*	3890	*	*	*	*	402	9
+       0	*	*	*	*	*	*	3177	0	0	
+
+G 10   *	*	*	2670	*	2459	*	*	1012	*	*	*	*	2597	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3177	0	0	
+
+R 11   *	*	*	2209	*	*	*	*	2461	*	*	*	*	*	1240	3175	*	*	3884	*	11
+       0	*	*	*	*	*	*	3177	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3177	0	0	
+
+K 13   *	*	3057	*	*	2370	*	*	4179	3890	*	4100	*	*	*	2721	2864	3357	3074	*	13
+       0	*	*	*	*	*	*	3177	0	0	
+
+W 14   *	*	*	*	*	*	4100	*	2370	*	3538	*	3890	3357	*	3083	*	*	1941	3074	14
+       0	*	*	*	*	*	*	3177	0	0	
+
+G 15   *	*	*	*	*	1414	*	*	*	4254	*	2597	2497	*	*	2799	3538	*	*	*	15
+       169	*	3175	*	*	*	*	3177	0	0	
+
+G 16   4046	*	*	3848	*	1805	*	*	3261	*	*	*	*	2736	3464	*	3657	3689	*	3609	16
+       0	*	*	*	*	*	0	3131	0	1050	
+
+T 17   *	*	*	*	*	*	*	*	2183	*	*	3689	3504	*	1629	4046	2118	*	*	*	17
+       122	*	3620	0	*	0	*	3131	1000	1050	
+
+P 18   *	*	*	*	*	*	*	*	1844	*	*	*	963	*	3731	*	2909	*	*	*	18
+       0	*	*	*	*	0	*	3132	0	1000	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3177	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3177	0	0	
+
+R 21   *	*	2988	1636	*	*	*	*	4154	*	*	1389	*	*	3127	*	*	*	*	*	21
+       87	4100	*	2322	322	*	*	3177	1000	0	
+
+G 22   *	*	2514	3816	*	2015	*	*	4100	*	*	1158	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3177	0	0	
+
+R 23   *	*	*	*	*	*	*	2777	*	*	*	*	*	*	381	*	*	3538	*	*	23
+       0	*	*	*	*	*	*	3177	0	0	
+
+G 24   3127	*	*	*	*	4179	*	*	*	*	*	*	813	*	*	2777	4254	3997	*	*	24
+       0	*	*	*	*	*	*	3177	0	0	
+
+C 25   *	130	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3538	25
+       0	*	*	*	*	*	*	3177	0	0	
+
+I 26   *	*	*	3890	*	*	3677	2464	2370	3357	4254	*	*	3074	4078	*	*	2721	*	*	26
+       0	*	*	*	*	*	*	3177	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3177	0	0	
+
+S 28   *	*	3030	*	3890	*	*	*	*	*	*	2745	*	*	*	828	*	*	*	3357	28
+       0	*	*	*	*	*	*	3177	0	0	
+
+I 29   2910	*	*	*	3997	4100	*	2291	*	1918	2257	*	*	*	*	*	*	*	3884	*	29
+       671	*	1427	*	*	*	*	3177	0	0	
+
+M 30   2971	*	*	*	*	*	*	1343	*	3011	3433	*	*	*	2802	3079	*	*	*	*	30
+       0	*	*	*	*	680	1411	2698	0	1443	
+
+G 31   3980	*	*	*	3142	760	*	*	*	*	3693	3702	*	*	*	*	*	3665	*	*	31
+       0	*	*	*	*	823	1202	3047	0	1093	
+
+T 32   *	*	*	*	*	3792	*	*	3827	*	1921	3310	*	*	*	3843	1242	*	*	*	32
+       324	2316	*	0	*	0	*	3124	1245	1000	
+
+N 33   *	*	*	*	*	*	*	2599	*	3677	*	576	*	*	*	*	*	*	*	3538	33
+       0	*	*	*	*	*	*	3177	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	3177	0	0	
+
+E 35   *	*	*	1898	*	*	*	3030	1640	3357	*	*	*	*	*	3890	3018	*	*	*	35
+       0	*	*	*	*	*	*	3177	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	3177	0	0	
+
+K 37   *	*	*	3357	*	*	*	*	628	*	*	*	*	*	2350	*	4078	*	*	*	37
+       0	*	*	*	*	*	*	3177	0	0	
+
+P 38   3074	*	*	*	*	*	*	*	687	*	*	*	1943	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	3177	0	0	
+
+R 39   *	*	*	*	3700	2039	*	*	2350	*	*	*	3322	*	2453	3892	2903	*	*	*	39
+       0	*	*	*	*	*	*	3211	0	0	
+
+L 40   *	*	*	*	2972	*	*	2755	*	621	*	*	*	*	*	*	*	*	*	3755	40
+       0	*	*	*	*	*	*	3211	0	0	
+
+I 41   *	*	*	*	3494	2458	*	1242	*	*	*	*	*	*	3795	3611	3649	3781	*	*	41
+       0	*	*	*	*	*	*	3172	0	0	
+
+M 42   *	*	*	*	*	1502	*	*	*	*	628	*	*	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1466	0	0	
+
+E 43   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	1211	0	0	
+
+G 44   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	44
+       0	*	*	*	*	*	*	1211	0	0	
+
+L 45   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1211	0	0	
+
+G 46   *	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	46
+       0	*	*	*	*	*	*	1211	0	0	
+
+L 47   *	*	*	*	1000	*	*	*	*	1000	*	*	*	*	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1211	0	0	
+
+A 48   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	0	*	*	*	1211	0	0	
+
+//

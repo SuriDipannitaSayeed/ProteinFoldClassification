@@ -1,0 +1,129 @@
+HHsearch 1.5
+NAME  40
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 10:58:15 2016
+LENG  29 match states, 29 columns in multiple alignment
+FILT  123 out of 538 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  5.4 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCHHHHHHHHHHHHHHHHHHCC
+>ss_conf PSIPRED confidence values
+96102898868999999999999998729
+>Consensus
+xxvxxxdgtpxxxxqxxxDvvxFLxwxae
+>40
+EVLEFDDGTPATMSQVAKDVCTFLRWAAE
+>tr|K0SJ97|K0SJ97_THAOC Uncharacterized protein OS=Thalassiosira oceanica GN=THAOC_21319 PE=4 SV=1
+RRRgvrgrHARDDQPAGtrrgaipelvsdpgwtffnvlgivfsEDGVRRSRRFFFKRCAE
+>tr|E7C1E3|E7C1E3_9DELT Cytochrome c1 OS=uncultured myxobacterium HF0010_08B07 PE=4 SV=1
+GNQALDKDgkivqvsegsmTMEEFDSSMKDLVNFLAYAAE
+>tr|A0A0J9ECE3|A0A0J9ECE3_9RHOB Ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit OS=Candidatus Rhodobacter lobularis GN=AIOL_000580 PE=4 SV=1
+GRVEFDPEHaN-DLHHLSEDISAFLMWTAE
+>tr|A0A0M0F1P5|A0A0M0F1P5_9RHIZ Cytochrome c1 OS=Candidatus Hodgkinia cicadicola GN=petC PE=4 SV=1
+-CVKSNFYAPHTIHQYSRDIIGFLDWVSE
+>tr|W7WUU1|W7WUU1_9BURK Cytochrome b OS=Hydrogenophaga sp. T4 GN=fbcH PE=3 SV=1
+----GKAGTlsAAEYDQNVGDLVAYLQWMGE
+>tr|U5T7Y6|U5T7Y6_9GAMM Uncharacterized protein OS=Spiribacter sp. UAH-SP71 GN=SPICUR_07715 PE=4 SV=1
+--------SEAEYHRVTRDITNFMAFMAE
+>tr|D5CU39|D5CU39_SIDLE Cytochrome c1 OS=Sideroxydans lithotrophicus (strain ES-1) GN=Slit_0132 PE=4 SV=1
+--------KRTEIQGTARNIVSFLNWAAD
+>tr|B7J8G2|B7J8G2_ACIF2 Ubiquinol--cytochrome c reductase, cytochrome c1 subunit OS=Acidithiobacillus ferrooxidans (strain ATCC 23270 / DSM 14882 / CIP
+--------SPQKFKEQVTDIVAFLRFVSD
+>tr|A0A0P9EQ19|A0A0P9EQ19_9GAMM Uncharacterized protein OS=Thiohalorhabdus denitrificans GN=AN478_05355 PE=4 SV=1
+--------VPEKLDQKVQNLVSFMSYVGD
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    5844	*	3226	2257	4563	1379	*	*	*	3861	6190	5478	*	5307	4145	5280	*	*	*	5200	1
+       0	*	*	*	*	*	*	5168	0	0	
+
+V 2    4515	5074	3455	5182	6319	4740	4570	3706	5411	2779	3446	5245	*	3719	3555	3891	4717	3549	*	*	2
+       9	*	7277	*	*	*	*	5312	0	0	
+
+L 3    5744	*	*	5631	*	*	*	2342	*	3215	*	*	4809	3624	4231	*	*	1087	*	6021	3
+       262	4231	3146	2322	322	0	*	5320	1207	1000	
+
+E 4    3591	*	3841	1825	*	3805	4124	*	4667	*	*	5982	*	4482	6001	4244	2413	3644	*	*	4
+       24	*	5928	*	*	0	*	5151	0	1400	
+
+F 5    3445	6696	4854	*	2447	6190	*	*	4888	4998	*	5291	*	*	*	3866	5172	4152	6043	1292	5
+       0	*	*	*	*	*	0	5318	0	1000	
+
+D 6    2558	*	2585	2731	*	4815	*	*	3749	5517	*	4689	3209	4716	3857	4734	3741	6082	*	*	6
+       0	*	*	*	*	*	0	5318	0	1000	
+
+D 7    4004	*	848	4024	4534	*	*	5980	3720	5583	*	5631	3411	*	*	*	4303	*	*	*	7
+       86	4318	7025	1387	695	*	0	5318	1194	1000	
+
+G 8    6026	*	2803	5403	*	469	*	*	*	5255	*	*	6337	*	*	*	6020	6523	*	5043	8
+       232	2752	*	3817	106	0	*	5260	1614	1140	
+
+T 9    3681	*	6026	6146	*	*	6715	6618	4458	4602	*	5897	6513	3925	6803	2325	1236	4550	*	5901	9
+       140	3437	*	868	1145	*	*	5484	1760	0	
+
+P 10   2792	*	4649	3827	6076	6605	5581	*	4488	*	6904	5500	1087	4382	5543	4957	5218	5319	*	*	10
+       30	6090	7327	2105	382	*	*	5484	1032	0	
+
+A 11   1582	6133	4344	2266	*	5977	5289	*	5611	5823	6150	4225	3779	4888	4863	4049	5026	6026	*	*	11
+       0	*	*	*	*	0	*	5485	0	1000	
+
+T 12   3889	*	4050	1847	*	4528	*	6952	5575	*	6432	5748	*	4022	*	2742	1895	*	*	6410	12
+       104	3851	*	4212	80	*	*	5484	1327	0	
+
+M 13   3932	*	6269	4163	2068	*	*	3498	6907	3423	4642	*	*	6076	*	6085	3895	2964	*	2538	13
+       38	*	5268	*	*	*	*	5484	0	0	
+
+S 14   3492	*	1323	2926	*	*	5453	6968	4355	*	*	4787	4464	3994	4757	3268	6067	*	*	*	14
+       0	*	*	*	*	0	*	5393	0	1075	
+
+Q 15   4037	*	4559	4056	*	3758	5242	*	4467	*	*	4037	*	1137	3336	5007	4956	6281	*	*	15
+       0	*	*	*	*	*	*	5484	0	0	
+
+V 16   3461	*	5613	4334	4905	*	6153	5171	4836	4740	2171	5268	*	3423	4883	5591	3505	3072	6009	3771	16
+       0	*	*	*	*	*	*	5484	0	0	
+
+A 17   1330	5268	*	*	6571	6501	*	3632	*	4246	5034	*	*	*	4528	3519	4611	2189	*	*	17
+       0	*	*	*	*	*	*	5484	0	0	
+
+K 18   4103	*	4869	4735	5513	4217	4132	*	2046	4825	*	*	*	4340	2140	4372	5082	*	*	3239	18
+       0	*	*	*	*	*	*	5484	0	0	
+
+D 19   6140	*	290	6333	*	5997	*	*	*	*	*	3841	*	6458	*	4528	6009	*	*	*	19
+       23	*	6009	*	*	*	*	5484	0	0	
+
+V 20   6239	*	*	*	*	*	*	2806	*	1592	6139	*	*	*	4499	5262	6216	1272	*	*	20
+       0	*	*	*	*	*	0	5455	0	1038	
+
+C 21   3147	5994	*	*	*	*	*	6028	*	*	*	*	*	*	3831	3392	2132	1113	*	*	21
+       0	*	*	*	*	*	0	5455	0	1038	
+
+T 22   1577	6142	*	4827	4499	5267	*	*	*	*	*	1928	5262	6135	*	4216	2566	5696	*	*	22
+       0	*	*	*	*	*	0	5455	0	1038	
+
+F 23   *	*	*	*	180	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3088	23
+       0	*	*	*	*	*	0	5365	0	1038	
+
+L 24   *	*	*	*	3728	*	*	4622	*	427	2991	*	*	*	*	*	*	6100	*	*	24
+       0	*	*	*	*	*	0	5455	0	1038	
+
+R 25   2434	7016	3911	4422	*	5011	5517	7205	4040	*	3645	3984	*	4343	3926	3485	3914	3037	*	4722	25
+       0	*	*	*	*	0	*	5455	0	1038	
+
+W 26   6402	*	*	*	4047	6085	*	*	*	*	6150	*	*	*	4528	*	*	*	1001	1490	26
+       0	*	*	*	*	*	*	5484	0	0	
+
+A 27   1791	3788	*	*	*	*	*	3308	*	4715	2900	*	*	*	*	4438	2681	2612	*	*	27
+       0	*	*	*	*	*	*	5484	0	0	
+
+A 28   962	*	5588	*	*	2916	*	*	*	6284	*	6404	*	6015	*	1932	5005	*	*	*	28
+       0	*	*	*	*	*	*	5484	0	0	
+
+E 29   4864	*	2323	732	*	*	3804	*	*	*	6152	5859	*	6143	6240	5532	6414	*	*	*	29
+       0	*	*	0	*	*	*	5467	0	0	
+
+//

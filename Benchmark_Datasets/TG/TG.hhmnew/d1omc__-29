@@ -1,0 +1,123 @@
+HHsearch 1.5
+NAME  1588
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 22:16:12 2016
+LENG  27 match states, 27 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCHHHHHHHHHHHHHCCCC
+>ss_conf PSIPRED confidence values
+988989774307888878877533359
+>Consensus
+CkgxGxxCxxtxYxCCxSCxxyxxkcx
+>1588
+CKSCGSSCSCTSYNCCRSCNCYTKRCY
+>sp|P58915|CO6A_CONTU Omega-conotoxin TVIA OS=Conus tulipa PE=1 SV=1
+CLSPGSSCSPTSYNCCRSCNPYSRKC-
+>sp|P58914|CO6A_CONRA Omega-conotoxin RVIA OS=Conus radiatus PE=1 SV=1
+CKPPGSPCRVSSYNCCSSCKSYNKKC-
+>sp|P05483|CO7AB_CONGE Omega-conotoxins GVIIA/GVIIB OS=Conus geographus PE=1 SV=1
+CKSPGTPCSRGMRDCCTSCLLYSNKCR
+>sp|P0DKQ5|CM7G_CONCN Omega-conotoxin-like CnVIIG OS=Conus consors PE=1 SV=1
+CKGKGASCRRTSYDCCTgSCRS------
+>sp|P0DKQ3|CM7E_CONCN Omega-conotoxin-like CnVIIE OS=Conus consors PE=1 SV=1
+CKGTGKPCSRIAYNCCTgSCRS------
+>sp|P0DKQ4|CM7F_CONCN Omega-conotoxin-like CnVIIF OS=Conus consors PE=1 SV=1
+CKGKGASCSRTMYNCCSgSCNR------
+>sp|P37300|CO7C_CONMA Omega-conotoxin MVIIC (Fragment) OS=Conus magus PE=1 SV=1
+CKGKGAPCRKTMYDCCSgSCGR------
+>sp|P58919|CO6C_CONCT Omega-conotoxin CVIC OS=Conus catus PE=1 SV=1
+CKGKGQSCSKLMYDCCTgSCSR------
+>sp|P58916|CO7A_CONCN Omega-conotoxin-like CnVIIH OS=Conus consors PE=1 SV=2
+CKGKGAPCTRLMYDCCHgSCSS------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2034	0	0	
+
+K 2    *	*	*	*	*	*	*	*	270	3426	*	*	*	3684	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2034	0	0	
+
+S 3    *	*	*	*	*	708	*	*	*	*	*	*	3359	*	*	1785	*	*	*	*	3
+       0	*	*	*	*	*	*	2034	0	0	
+
+C 4    *	3557	*	*	*	*	*	*	1184	*	*	*	1724	*	3684	*	3403	*	*	*	4
+       0	*	*	*	*	*	*	2034	0	0	
+
+G 5    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2034	0	0	
+
+S 6    1152	*	*	*	*	*	*	*	3403	*	*	*	*	3884	*	1860	3155	*	*	*	6
+       0	*	*	*	*	*	*	2034	0	0	
+
+S 7    *	*	*	*	*	*	*	*	*	*	*	*	1162	*	*	855	*	*	*	*	7
+       0	*	*	*	*	*	*	2034	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2034	0	0	
+
+S 9    *	*	*	*	*	*	3973	*	*	*	*	*	*	*	1515	981	3644	*	*	*	9
+       0	*	*	*	*	*	*	2034	0	0	
+
+C 10   *	3557	*	*	*	*	*	*	1916	*	*	*	3426	*	1121	*	*	3359	*	*	10
+       0	*	*	*	*	*	*	2034	0	0	
+
+T 11   *	*	*	*	*	3155	*	3403	*	2759	*	*	*	*	*	3359	868	*	*	*	11
+       0	*	*	*	*	*	*	2034	0	0	
+
+S 12   3403	*	*	*	*	*	*	*	*	*	968	*	*	*	*	1343	*	*	*	*	12
+       0	*	*	*	*	*	*	2034	0	0	
+
+Y 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	3155	*	*	*	*	172	13
+       0	*	*	*	*	*	*	2034	0	0	
+
+N 14   *	*	1005	*	*	*	*	*	*	*	*	995	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2034	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2034	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2034	0	0	
+
+R 17   *	*	*	*	*	*	3644	*	*	*	*	*	*	*	2091	1776	1346	*	*	*	17
+       1367	708	*	0	*	*	*	2034	1418	0	
+
+S 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	18
+       0	*	*	*	*	*	*	2034	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2034	0	0	
+
+N 20   *	*	*	*	*	3994	*	*	3359	3155	*	1421	*	*	2277	2759	*	*	*	*	20
+       0	*	*	*	*	*	*	2034	0	0	
+
+C 21   *	3557	*	*	*	*	*	*	*	3155	*	*	3426	*	1617	1381	*	*	*	*	21
+       0	*	*	*	*	*	*	2034	0	0	
+
+Y 22   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	22
+       0	*	*	*	*	*	*	1705	0	0	
+
+T 23   *	*	*	*	*	*	*	*	*	*	*	1963	*	*	*	982	2076	*	*	*	23
+       0	*	*	*	*	*	*	1705	0	0	
+
+K 24   *	*	*	*	*	*	*	*	1019	*	*	1826	*	*	2156	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1705	0	0	
+
+R 25   *	*	*	*	*	*	*	*	391	*	*	*	*	*	2076	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1705	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1705	0	0	
+
+Y 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	1000	*	*	*	*	1000	27
+       0	*	*	0	*	*	*	1470	0	0	
+
+//

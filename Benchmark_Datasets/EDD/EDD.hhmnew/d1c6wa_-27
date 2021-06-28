@@ -1,0 +1,131 @@
+HHsearch 1.5
+NAME  3380
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 14:01:05 2016
+LENG  33 match states, 33 columns in multiple alignment
+FILT  5 out of 7 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.5 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCHHHHHHHHHCCCHHHHHHCCCCCCHHHCCC
+>ss_conf PSIPRED confidence values
+952279999885401343665136898765059
+>Consensus
+xdClxxlkxCkxnkDCCsKxCxRrgtnxekrcr
+>3380
+GDCLPHLKLCKENKDCCSKKCKRRGTNIEKRCR
+>sp|P59868|IPTXA_PANIM Imperatoxin-A OS=Pandinus imperator PE=1 SV=1
+GDCLPHLKRCKADNDCCGKKCKRRGTNAEKRCR
+>sp|B8QG00|SCXC_HADGE Hadrucalcin OS=Hadrurus gertschi PE=1 SV=1
+KDCIKHLQRCRENKDCCSKKCSRRGTNPEKRCR
+>sp|L0GBR1|SCXC_UROYA Calcium-channel toxin-like 20 OS=Urodacus yaschenkoi PE=2 SV=1
+KDCLKKLKLCKENKDCCSKSCKRRGTNIEKRCR
+>sp|Q5DFZ7|CP422_SCHJA Egg protein CP422 OS=Schistosoma japonicum GN=CP422 PE=2 SV=1
+GGCLPDKQQCRRNKDCCSKSCYRG---------
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    *	*	*	*	*	680	*	*	1412	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1594	0	0	
+
+D 2    *	*	416	*	*	1996	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1594	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1594	0	0	
+
+L 4    *	*	*	*	*	*	*	2340	*	317	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1594	0	0	
+
+P 5    *	*	*	*	*	*	*	*	1412	*	*	*	680	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1594	0	0	
+
+H 6    *	*	1996	*	*	*	809	*	2487	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1594	0	0	
+
+L 7    *	*	*	*	*	*	*	*	1996	416	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1594	0	0	
+
+K 8    *	*	*	*	*	*	*	*	858	*	*	*	*	1158	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1594	0	0	
+
+L 9    *	*	*	*	*	*	*	*	*	1569	*	*	*	1996	1278	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1594	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1594	0	0	
+
+K 11   *	*	*	*	*	*	*	*	858	*	*	*	*	*	1158	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1594	0	0	
+
+E 12   2219	*	*	904	*	*	*	*	*	*	*	*	*	*	1996	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1594	0	0	
+
+N 13   *	*	2219	*	*	*	*	*	*	*	*	349	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1594	0	0	
+
+K 14   *	*	*	*	*	*	*	*	349	*	*	2219	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	1594	0	0	
+
+D 15   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1594	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	1594	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1594	0	0	
+
+S 18   *	*	*	*	*	2219	*	*	*	*	*	*	*	*	*	349	*	*	*	*	18
+       0	*	*	*	*	*	*	1594	0	0	
+
+K 19   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1594	0	0	
+
+K 20   *	*	*	*	*	*	*	*	809	*	*	*	*	*	*	1221	*	*	*	*	20
+       0	*	*	*	*	*	*	1594	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1594	0	0	
+
+K 22   *	*	*	*	*	*	*	*	858	*	*	*	*	*	*	2340	*	*	*	1996	22
+       0	*	*	*	*	*	*	1594	0	0	
+
+R 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1594	0	0	
+
+R 24   *	*	*	*	*	1996	*	*	*	*	*	*	*	*	416	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1594	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1309	0	0	
+
+T 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	26
+       0	*	*	*	*	*	*	1309	0	0	
+
+N 27   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1309	0	0	
+
+I 28   1901	*	*	*	*	*	*	1106	*	*	*	*	1901	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1309	0	0	
+
+E 29   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1309	0	0	
+
+K 30   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1309	0	0	
+
+R 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1309	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1309	0	0	
+
+R 33   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	33
+       0	*	*	0	*	*	*	1309	0	0	
+
+//
