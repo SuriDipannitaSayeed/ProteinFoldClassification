@@ -1,0 +1,147 @@
+HHsearch 1.5
+NAME  3384
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 14:01:10 2016
+LENG  35 match states, 35 columns in multiple alignment
+FILT  27 out of 29 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.4 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCCCCCEECCCCCCCEEC
+>ss_conf PSIPRED confidence values
+95533589985537776677978430312500409
+>Consensus
+xxxxCxxxGxxCxxxxxxCCxxxxCxxyAxrCxxx
+>3384
+ADDDCLPRGSKCLGENKQCCKGTTCMFYANRCVGV
+>sp|P58606|PTU1_PEITU Toxin Ptu1 OS=Peirates turpis PE=1 SV=1
+AEKDCIAPGAPCFGTDKPCCNPrAWCSSYANKCL--
+>tr|E9ILQ3|E9ILQ3_SOLIN Putative uncharacterized protein (Fragment) OS=Solenopsis invicta GN=SINV_07967 PE=4 SV=1
+-KATCKRHGDPCVG-SSECCPNMRCHMYANRCQVI
+>tr|A0A0L0BXF6|A0A0L0BXF6_LUCCU Uncharacterized protein OS=Lucilia cuprina GN=FF38_05414 PE=4 SV=1
+--KECQPIGGPCFY-SDECCG-KRCHFYAHKCT--
+>tr|A0A0R1E1K7|A0A0R1E1K7_DROYA Uncharacterized protein OS=Drosophila yakuba GN=Dyak\GE27574 PE=4 SV=1
+--TKCSPVSGPCVM-HTDCCS-GVCHTYGNKCG--
+>tr|A0A0Q9X0F4|A0A0Q9X0F4_DROMO Uncharacterized protein OS=Drosophila mojavensis GN=Dmoj\GI26759 PE=4 SV=1
+--DSCLSVGQPCSE-SRQCCR-KRCHTYLHKCV--
+>tr|W8CEI9|W8CEI9_CERCA Uncharacterized protein OS=Ceratitis capitata PE=2 SV=1
+-KGECVKVGENCSL-PDECCT-KRCLTYAKKCV--
+>tr|K7J5W1|K7J5W1_NASVI Uncharacterized protein OS=Nasonia vitripennis PE=4 SV=1
+-QERCRPPGVRCQK-DSQCCSPFICNPWAGRCTK-
+>tr|A0A0C3GFT7|A0A0C3GFT7_9HOMO Uncharacterized protein (Fragment) OS=Piloderma croceum F 1598 GN=PILCRDRAFT_812286 PE=4 SV=1
+-KAQCGNIGNSCTS-DDPCCGGFTCDFST------
+>tr|G6D4M4|G6D4M4_DANPL Uncharacterized protein OS=Danaus plexippus GN=KGM_11221 PE=4 SV=1
+-KKKCAAVGEFCNN-HSDCCS-NSCLGYMKRCVS-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+A 1    0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1533	0	0	
+
+D 2    4368	*	2280	3223	*	*	*	*	1425	*	*	4297	*	3277	4293	*	4030	*	*	*	2
+       0	*	*	*	*	*	*	3168	0	0	
+
+D 3    3109	*	3499	2575	*	4740	*	*	2349	*	3830	4603	4912	*	4780	3497	3005	*	*	*	3
+       0	*	*	*	*	*	*	3614	0	0	
+
+D 4    3832	*	2682	3956	*	4853	*	*	1965	4704	*	4894	*	2797	3776	3323	5062	*	*	*	4
+       0	*	*	*	*	*	*	3637	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3637	0	0	
+
+L 6    3859	*	*	*	*	1766	4855	3934	2928	2567	*	*	*	3978	4609	4003	4867	4802	*	*	6
+       0	*	*	*	*	*	*	3637	0	0	
+
+P 7    2878	*	*	*	*	*	*	*	3505	*	*	3609	1333	4970	2156	4616	*	*	*	*	7
+       0	*	*	*	*	*	*	3637	0	0	
+
+R 8    *	*	*	*	*	*	2699	3212	*	*	*	4734	2023	*	3467	*	*	1618	*	4704	8
+       0	*	*	*	*	*	*	3637	0	0	
+
+G 9    *	*	*	*	*	93	*	*	*	*	*	*	*	*	*	4003	*	*	*	*	9
+       0	*	*	*	*	*	*	3637	0	0	
+
+S 10   3326	*	1696	3274	*	2990	*	*	*	3849	4798	4399	*	4616	*	2966	*	4609	*	*	10
+       0	*	*	*	*	*	*	3637	0	0	
+
+K 11   *	*	*	*	3094	*	*	*	2966	3849	4798	4802	1209	4843	4609	3769	*	4964	*	*	11
+       0	*	*	*	*	*	*	3637	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3637	0	0	
+
+L 13   4845	*	*	*	3410	*	*	*	*	3467	*	3552	*	4609	*	2008	2718	2452	*	3812	13
+       0	*	*	*	*	*	*	3637	0	0	
+
+G 14   *	*	4853	3726	*	2428	*	*	4609	3505	4003	4922	*	*	4855	1655	*	3902	*	4047	14
+       2682	*	244	*	*	*	*	3637	0	0	
+
+E 15   *	*	*	771	*	*	*	*	*	*	*	*	*	*	*	*	1272	*	*	*	15
+       0	*	*	*	*	0	*	1533	0	2922	
+
+N 16   3526	*	1612	*	*	4843	2601	*	*	*	*	3467	4802	*	*	2184	*	4639	*	*	16
+       0	*	*	*	*	*	*	3637	0	0	
+
+K 17   *	*	2310	3849	*	*	*	*	2150	*	*	*	*	4704	4616	1465	4003	*	*	*	17
+       0	*	*	*	*	*	*	3637	0	0	
+
+Q 18   *	*	1376	2352	*	*	*	*	*	*	*	*	3147	1897	*	*	*	4734	*	*	18
+       0	*	*	*	*	*	*	3637	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3637	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3637	0	0	
+
+K 21   3270	*	*	4424	*	2734	*	*	4511	*	*	3322	3381	*	4616	2557	2007	*	*	*	21
+       795	*	1239	*	*	*	*	3637	0	0	
+
+G 22   *	*	*	*	*	1923	*	*	3794	*	*	2434	1775	*	*	4249	4079	3733	*	*	22
+       291	2454	*	462	1867	0	*	2976	1203	1965	
+
+T 23   3934	*	*	*	2392	4003	*	4894	2121	3266	2832	4124	*	*	*	*	3104	*	*	*	23
+       0	*	*	*	*	*	*	3637	0	0	
+
+T 24   4639	*	*	*	*	*	*	3722	4894	*	*	*	*	*	1511	3946	2505	2580	3452	*	24
+       0	*	*	*	*	*	*	3637	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	3637	0	0	
+
+M 26   *	*	4399	*	*	*	1378	*	*	2386	3467	2180	*	*	*	3934	*	*	*	*	26
+       0	*	*	*	*	*	*	3637	0	0	
+
+F 27   *	*	*	*	2313	3946	*	*	*	*	5062	4734	2469	4704	3349	3416	1968	*	*	*	27
+       0	*	*	*	*	*	*	3637	0	0	
+
+Y 28   *	*	*	*	3871	*	*	*	*	*	*	*	*	*	*	4399	*	*	2469	507	28
+       0	*	*	*	*	*	*	3637	0	0	
+
+A 29   478	*	*	*	*	4003	*	*	*	3779	3330	*	*	*	*	*	4399	*	*	*	29
+       0	*	*	*	*	*	*	3637	0	0	
+
+N 30   *	*	*	*	*	2406	2466	*	2049	*	*	1363	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	3569	0	0	
+
+R 31   *	*	*	*	*	*	*	*	1347	*	*	*	*	*	720	*	*	*	*	*	31
+       0	*	*	*	*	*	*	3569	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	3569	0	0	
+
+V 33   *	*	*	*	*	3953	*	*	*	3827	*	*	*	2310	*	*	2188	1172	*	*	33
+       0	*	*	*	*	*	*	3569	0	0	
+
+G 34   *	*	*	*	*	1840	*	3781	2409	*	*	*	*	*	*	2655	*	1733	*	*	34
+       0	*	*	*	*	*	*	2908	0	0	
+
+V 35   *	*	*	*	*	*	*	518	*	*	*	*	*	*	*	*	*	1730	*	*	35
+       0	*	*	0	*	*	*	1570	0	0	
+
+//

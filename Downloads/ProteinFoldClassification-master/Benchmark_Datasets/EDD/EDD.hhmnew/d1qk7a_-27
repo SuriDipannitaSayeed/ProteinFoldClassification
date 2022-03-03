@@ -1,0 +1,138 @@
+HHsearch 1.5
+NAME  3377
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 13:04:08 2016
+LENG  32 match states, 32 columns in multiple alignment
+FILT  46 out of 48 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.1 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCEECCCCCEEECCCCC
+>ss_conf PSIPRED confidence values
+98776378886627896306997700425788
+>Consensus
+xCxgxxCxxxxxCCxxxxCsxxxkWCxxxxxx
+>3377
+GCLGDKCDYNNGCCSGYVCSRTWKWCVLAGPW
+>sp|Q75WH5|TXMG8_MACGS U9-hexatoxin-Mg1a OS=Macrothele gigas PE=1 SV=1
+DCKGlfRQCKKs-SECCKGSSCeSDLTGLCIFNLPG
+>sp|P0DM66|TX2_SELPU Orally active insecticidal peptide OS=Selenotypus plumipes PE=1 SV=1
+DCLGqwASCEPkNSKCCPNYACTWKYPWCRYR-AG
+>sp|D2Y1X8|H1A03_HAPHA Mu-theraphotoxin-Hhn2b 3 OS=Haplopelma hainanum PE=1 SV=1
+ECKGfgKSCVPgKNECCSGYACNSRDKWCKVLLGK
+>sp|B1P1F0|JZT24_CHIGU U15-theraphotoxin-Cg1a OS=Chilobrachys guangxiensis PE=1 SV=1
+VCRGygLPCTPeKNDCCQRLYCSQ-HRLCSVK-AG
+>sp|B1P1D4|JZT15_CHIGU U12-theraphotoxin-Cg1a OS=Chilobrachys guangxiensis PE=1 SV=1
+TCYDigELCSSd-KPCCSGYYCSPRWGWCIYSTRG
+>sp|P83303|TXH4_HAPSC Mu-theraphotoxin-Hs2a OS=Haplopelma schmidti PE=1 SV=2
+ECLEifKACNPsNDQCCKssKLVCSRKTRWCKYQIGK
+>tr|M5AXN7|M5AXN7_GRARO GTx1-16 OS=Grammostola rosea PE=2 SV=1
+GCLQfmWKCNPdNDKCCRpNLKCNTYHKWCEFV-TG
+>sp|B1P1D5|JZT4A_CHIGU Kappa-theraphotoxin-Cg3a 1 OS=Chilobrachys guangxiensis PE=2 SV=1
+ECGGfwWKCGSgKPACCPKYVCSPKWGLCNFPMP-
+>tr|A0A0F7ZYG8|A0A0F7ZYG8_9HYPO Uncharacterized protein OS=Hirsutella minnesotensis 3608 GN=HIM_08116 PE=4 SV=1
+----GGCEADADCCEHLRCHSRYKWCIWDG--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+G 1    2804	*	1516	2303	*	2420	*	*	*	*	*	*	*	5123	*	*	4573	4410	*	*	1
+       0	*	*	*	*	*	*	3798	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3809	0	0	
+
+L 3    4177	*	*	*	*	2095	*	*	3037	1262	*	*	*	4067	3822	*	*	*	*	4589	3
+       0	*	*	*	*	*	*	3809	0	0	
+
+G 4    *	*	4589	3711	*	463	*	*	4211	5214	*	*	*	3729	*	*	*	*	*	*	4
+       3762	110	*	1000	1000	*	*	3809	3533	0	
+
+D 5    4297	*	3985	3958	*	3836	*	*	2643	4674	*	5446	*	*	3805	3952	4516	4663	1960	4236	5
+       0	*	*	*	*	*	*	3893	0	0	
+
+K 6    3039	*	*	5404	*	3081	*	4946	1563	5490	4327	*	4729	4881	5412	2699	4486	*	*	*	6
+       0	*	*	*	*	*	*	4266	0	0	
+
+C 7    *	74	*	*	*	*	*	*	*	*	*	*	*	*	4327	*	*	*	*	*	7
+       0	*	*	*	*	*	*	4266	0	0	
+
+D 8    *	*	2779	2880	*	3029	*	6000	2784	*	*	2149	*	*	*	4444	2788	5721	*	*	8
+       0	*	*	*	*	*	*	4266	0	0	
+
+Y 9    3922	4327	4998	3741	*	4070	*	*	3274	*	*	5662	1254	5452	4830	4437	*	*	*	3793	9
+       2597	261	*	0	*	*	*	4266	3714	0	
+
+N 10   5219	*	2413	4181	*	5139	*	*	1720	*	*	1724	*	*	*	4633	4175	*	*	*	10
+       0	*	*	*	*	0	*	4099	0	1458	
+
+N 11   5277	*	1650	5090	*	*	*	*	3795	*	*	2631	3029	5400	*	2420	4070	*	*	*	11
+       0	*	*	*	*	*	*	4266	0	0	
+
+G 12   5386	*	2991	2259	4070	5961	5090	*	1883	4327	*	*	3260	4655	*	*	3806	*	*	*	12
+       0	*	*	*	*	*	*	4266	0	0	
+
+C 13   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	4266	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	4266	0	0	
+
+S 15   3972	*	*	2737	*	5664	*	*	2137	*	*	*	2570	4729	3813	1933	*	*	*	*	15
+       194	2988	*	521	1722	*	*	4266	1418	0	
+
+G 16   *	*	5662	*	*	1397	2949	*	3305	*	*	1823	*	*	4729	4338	*	*	*	*	16
+       0	*	*	*	*	*	*	4266	0	0	
+
+Y 17   *	*	*	*	4412	*	4866	*	*	1360	4190	*	*	*	3216	4881	*	*	*	1587	17
+       0	*	*	*	*	*	*	4266	0	0	
+
+V 18   2558	*	5922	4326	*	5090	*	*	2893	*	4998	4070	*	5168	5277	4881	6211	1523	*	4060	18
+       0	*	*	*	*	*	*	4266	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       50	4881	*	0	*	*	*	4266	1031	0	
+
+S 20   *	*	*	4946	*	4553	3709	*	4412	*	*	3119	*	*	5589	656	5016	*	*	*	20
+       0	*	*	*	*	*	*	4266	0	0	
+
+R 21   *	*	4390	*	4998	4789	*	4412	3139	*	*	4578	3033	4239	2273	2078	4938	*	5016	*	21
+       55	*	4729	*	*	*	*	4266	0	0	
+
+T 22   *	*	*	*	*	4361	*	*	1675	3994	*	5469	*	5574	1881	4920	2763	*	*	3644	22
+       0	*	*	*	*	0	*	4177	0	1069	
+
+W 23   *	*	3013	*	5298	*	1796	*	*	4412	*	*	*	*	*	3972	3567	*	1686	4140	23
+       0	*	*	*	*	*	*	4266	0	0	
+
+K 24   *	*	*	5168	*	2522	*	*	961	*	*	5489	3980	5589	2932	*	*	*	*	4412	24
+       0	*	*	*	*	*	*	4266	0	0	
+
+W 25   *	*	*	*	*	*	*	*	*	2574	*	*	*	*	*	*	*	*	265	*	25
+       0	*	*	*	*	*	*	4266	0	0	
+
+C 26   *	53	*	*	*	*	*	*	*	*	*	*	*	*	*	4789	*	*	*	*	26
+       0	*	*	*	*	*	*	4266	0	0	
+
+V 27   4638	*	*	5736	*	5090	*	2642	1464	5168	*	4341	*	*	5016	4729	*	2039	*	*	27
+       0	*	*	*	*	*	*	4266	0	0	
+
+L 28   *	*	*	*	3293	5899	*	4946	*	2695	*	*	4998	*	*	*	*	3427	2034	1618	28
+       0	*	*	*	*	*	*	4266	0	0	
+
+A 29   3689	*	2371	3757	*	6035	4446	*	2377	5721	*	4272	3135	5286	5016	3401	*	4416	*	5717	29
+       427	*	1964	*	*	*	*	4266	0	0	
+
+G 30   3386	5066	*	*	*	1971	*	4418	*	2192	4437	*	3193	*	5067	2934	4736	*	*	*	30
+       0	*	*	*	*	0	*	3927	0	1691	
+
+P 31   3236	*	*	*	3927	2781	*	4349	*	4092	*	*	1065	*	4169	*	4591	*	*	*	31
+       0	*	*	*	*	*	*	3849	0	0	
+
+W 32   *	*	*	*	4323	1118	*	*	2894	*	*	4434	*	*	4302	*	*	*	1957	*	32
+       0	*	*	0	*	*	*	3739	0	0	
+
+//

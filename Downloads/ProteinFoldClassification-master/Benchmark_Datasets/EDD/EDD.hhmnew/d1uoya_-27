@@ -1,0 +1,230 @@
+HHsearch 1.5
+NAME  2059
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 12:57:43 2016
+LENG  64 match states, 64 columns in multiple alignment
+FILT  8 out of 10 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.6 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCCCCCCCEEECCCCCCEEEECCCEEEEEEECCCCCCCCCCCCCCCC
+>ss_conf PSIPRED confidence values
+9555665744241268630247870561456456178569715774325776244667774529
+>Consensus
+DTCGaGYgxdQRRTNspcxxsNgdrhFcgcdrtgvVeCxgGxWtEiqDCxxxtChGxndGgAxC
+>2059
+DTCGSGYNVDQRRTNSGCKAGNGDRHFCGCDRTGVVECKGGKWTEVQDCGSSSCKGTSNGGATC
+>tr|B6HMF2|B6HMF2_PENRW Pc21g12970 protein OS=Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255) GN=Pc21g12970 PE=4 SV=1
+DTCGGGYGVDQRRTNSPCQASNGDRHFCGCDRTGIVECKGGKWTEIQDCGGASCRGVSQGGARC
+>tr|Q2GQ49|Q2GQ49_CHAGB Putative uncharacterized protein OS=Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970) GN=C
+DTCGAGYGGDQRRTNSPCQSSNGDRHFCGCDRTGVVECRGGKWTEIRDCGSGTCHGGNDGGAVC
+>tr|A1DKX1|A1DKX1_NEOFI Putative uncharacterized protein OS=Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL 181) GN=NFIA_047780 P
+DTCGAGYGGDQRRTNSPCNASNGDRHFCGCDRTGVVECRGGRWTEIQDCRASTCHGTNDGAARC
+>tr|B0YDU9|B0YDU9_ASPFC Putative uncharacterized protein OS=Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163) GN=AFUB_096860 PE=4 SV=1
+DTCGSGYGGDQRRTNRLVWYVNpsqleDETSFAHGYSFKKVECRNGRWTEIQDCHASTCHGTNDGAARC
+>tr|A0A0A2JEC9|A0A0A2JEC9_PENEN Uncharacterized protein OS=Penicillium expansum GN=PEX1_010080 PE=4 SV=1
+DTCGAGYDPAQRRTNSPCQASNGDRHFCGCDRTGIimfaniyfrdkVECKGGKWTEIQDCGRNSCHGGTEGGAKC
+>tr|M7T5H2|M7T5H2_EUTLA Putative bubble protein protein OS=Eutypa lata (strain UCR-EL1) GN=UCREL1_11172 PE=4 SV=1
+DTCGAGYGGDQRRTNSPCESSNGDRHFCGCDRTGVVQCIGGTWSEIQDCHSGTCHGGNDGGAVC
+>tr|A0A0P4UDF7|A0A0P4UDF7_ROSNE Putative bubble protein protein OS=Rosellinia necatrix GN=SAMD00023353_8900230 PE=4 SV=1
+DTCGAGYGGDQRRTNSPCQASNGDRRFCGCDRTGVVQCQGGTWTEIQDCGSGTCHGTNDGGAVC
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1574	0	0	
+
+T 2    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	2
+       0	*	*	*	*	*	*	1574	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 4    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1574	0	0	
+
+S 5    884	*	*	*	*	3078	*	*	*	*	*	*	*	*	*	1557	*	*	*	*	5
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 6    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1574	0	0	
+
+Y 7    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	7
+       0	*	*	*	*	*	*	1574	0	0	
+
+N 8    *	*	2997	*	*	424	*	*	*	*	*	2949	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1574	0	0	
+
+V 9    *	*	*	*	*	674	*	*	*	*	*	*	2997	*	*	*	*	2012	*	*	9
+       0	*	*	*	*	*	*	1574	0	0	
+
+D 10   2997	*	193	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1574	0	0	
+
+Q 11   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1574	0	0	
+
+R 12   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1574	0	0	
+
+R 13   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1574	0	0	
+
+T 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	14
+       0	*	*	*	*	*	*	1574	0	0	
+
+N 15   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1574	0	0	
+
+S 16   *	*	*	*	*	*	*	*	*	*	*	*	*	*	2249	341	*	*	*	*	16
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 17   *	*	*	*	*	2949	*	*	*	2249	*	*	599	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	1574	0	0	
+
+C 18   *	341	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2249	*	*	18
+       0	*	*	*	*	*	*	1574	0	0	
+
+K 19   *	*	*	3175	*	*	*	*	2949	*	*	3279	*	1163	*	*	*	*	2249	*	19
+       0	*	*	*	*	*	*	1574	0	0	
+
+A 20   789	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2245	*	*	*	2249	20
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 21   *	*	*	*	*	2949	*	*	*	*	*	*	*	*	*	599	*	2249	*	*	21
+       0	*	*	*	*	*	*	1574	0	0	
+
+N 22   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	22
+       341	2249	*	2322	322	*	*	1574	1051	0	
+
+G 23   *	*	2249	*	*	341	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	1574	0	0	
+
+D 24   *	*	341	2249	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1574	0	0	
+
+R 25   *	*	*	*	*	*	*	*	*	*	*	*	*	*	341	*	2249	*	*	*	25
+       0	*	*	*	*	*	*	1574	0	0	
+
+H 26   *	*	*	*	*	*	541	*	*	*	*	*	*	*	3287	2249	*	*	*	*	26
+       0	*	*	*	*	*	*	1574	0	0	
+
+F 27   *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	1574	0	0	
+
+C 28   2249	341	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 29   *	*	*	*	*	341	2249	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1574	0	0	
+
+C 30   *	341	*	*	*	2249	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1574	0	0	
+
+D 31   *	*	341	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2249	31
+       0	*	*	*	*	*	*	1574	0	0	
+
+R 32   *	*	*	*	*	*	*	*	*	*	*	*	*	*	341	2249	*	*	*	*	32
+       0	*	*	*	*	*	*	1574	0	0	
+
+T 33   *	*	*	*	2249	*	*	*	*	*	*	*	*	*	*	*	341	*	*	*	33
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 34   *	*	*	*	*	341	*	*	2249	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1574	0	0	
+
+V 35   *	*	*	*	*	*	*	2037	2249	*	*	*	*	*	*	*	*	873	*	*	35
+       193	2997	*	3459	138	*	*	1574	1000	0	
+
+V 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	36
+       0	*	*	*	*	*	*	1574	0	0	
+
+E 37   *	*	*	346	*	*	*	*	*	*	*	*	*	2230	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	1574	0	0	
+
+C 38   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1574	0	0	
+
+K 39   *	*	*	*	*	*	*	3175	1422	*	*	*	*	3287	1273	*	*	*	*	*	39
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 40   *	*	*	*	*	341	*	*	*	*	*	2249	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 41   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	1574	0	0	
+
+K 42   *	*	*	*	*	*	*	*	1079	*	*	*	*	*	1674	*	2230	*	*	*	42
+       0	*	*	*	*	*	*	1574	0	0	
+
+W 43   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	43
+       0	*	*	*	*	*	*	1574	0	0	
+
+T 44   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3175	169	*	*	*	44
+       0	*	*	*	*	*	*	1574	0	0	
+
+E 45   *	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	45
+       0	*	*	*	*	*	*	1574	0	0	
+
+V 46   *	*	*	*	*	*	*	200	*	*	*	*	*	*	*	*	*	2949	*	*	46
+       0	*	*	*	*	*	*	1574	0	0	
+
+Q 47   *	*	*	*	*	*	*	*	*	*	*	*	*	152	3318	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1574	0	0	
+
+D 48   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	48
+       0	*	*	*	*	*	*	1574	0	0	
+
+C 49   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	49
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 50   *	*	*	*	*	796	1639	*	*	*	*	*	*	*	3279	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1574	0	0	
+
+S 51   1674	*	*	*	*	3078	*	*	*	*	*	*	*	*	2997	1175	*	*	*	*	51
+       0	*	*	*	*	*	*	1574	0	0	
+
+S 52   3078	*	*	*	*	1674	*	*	*	*	*	2997	*	*	*	1175	*	*	*	*	52
+       0	*	*	*	*	*	*	1574	0	0	
+
+S 53   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1422	674	*	*	*	53
+       0	*	*	*	*	*	*	1574	0	0	
+
+C 54   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	1574	0	0	
+
+K 55   *	*	*	*	*	*	411	*	2949	*	*	*	*	*	3078	*	*	*	*	*	55
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 56   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	56
+       0	*	*	*	*	*	*	1574	0	0	
+
+T 57   *	*	*	*	*	1572	*	*	*	*	*	*	*	*	*	*	875	3078	*	*	57
+       0	*	*	*	*	*	*	1574	0	0	
+
+S 58   *	*	*	*	*	*	*	*	*	*	*	674	*	*	*	2012	2997	*	*	*	58
+       0	*	*	*	*	*	*	1574	0	0	
+
+N 59   *	*	674	2997	*	*	*	*	*	*	*	2949	*	3078	*	*	*	*	*	*	59
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 60   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	60
+       0	*	*	*	*	*	*	1574	0	0	
+
+G 61   1674	*	*	*	*	542	*	*	*	*	*	*	*	*	*	*	*	*	*	*	61
+       0	*	*	*	*	*	*	1574	0	0	
+
+A 62   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	62
+       0	*	*	*	*	*	*	1574	0	0	
+
+T 63   *	*	*	*	*	*	*	*	2997	*	*	*	*	*	1212	*	2949	1674	*	*	63
+       0	*	*	*	*	*	*	1574	0	0	
+
+C 64   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	64
+       0	*	*	0	*	*	*	1574	0	0	
+
+//

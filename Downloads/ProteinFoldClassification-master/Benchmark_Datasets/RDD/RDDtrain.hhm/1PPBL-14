@@ -1,0 +1,148 @@
+HHsearch 1.5
+NAME  1PPBL
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Mon Sep 28 21:45:18 2015
+LENG  36 match states, 36 columns in multiple alignment
+FILT  43 out of 45 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.7 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCHHHHCCCCCCHHHHHHHHHCCC
+>ss_conf PSIPRED confidence values
+976667663647225776111001376887654149
+>Consensus
+tfgxgexxCglRplfEkxxxxDxxExelxxsyxxxR
+>1PPBL
+TFGSGEADCGLRPLFEKKSLEDKTERELLESYIDGR
+>tr|Q90504|Q90504_EPTST Thrombin OX=7765 OS=Eptatretus stoutii (Pacific hagfish). GN= PE=2 SV=1
+TFGNGEEECGKRPMFELQQKNDRSEDELIRSYDG-R
+>tr|Q5NKF9|Q5NKF9_ONCMY Prothrombin OX=8022 OS=Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri). GN= PE=2 SV=1
+SFGSGELVCRERPMFEKMSKKDGREQELIDSYQGGR
+>tr|J7M5E6|J7M5E6_9PERO Coagulin factor II OX=163134 OS=Oplegnathus fasciatus (barred knifejaw). GN= PE=2 SV=1
+TFGQGEGVCGERPLFEKQNKQDAKEAELLESYREQR
+>tr|K4G0I9|K4G0I9_CALMI Prothrombin-like protein OX=7868 OS=Callorhynchus milii (Elephant fish) (Australian ghost shark). GN= PE=2 SV=1
+YFGKGEMECGLRPLFERINKKDSGEDELIESLSG-R
+>tr|B3XZZ0|B3XZZ0_LAMJA Prothrombin OX=980415 OS=Lampetra japonica (Japanese lamprey) (Entosphenus japonicus). GN= PE=2 SV=1
+SFGSGQLECGKRPMFELMGKEDVGEEELQESQRQ-R
+>tr|F7G8Q4|F7G8Q4_MONDO Uncharacterized protein OX=13616 OS=Monodelphis domestica (Gray short-tailed opossum). GN= PE=3 SV=1
+----AAPGRAQNPGREG-GERENAERAPNSTSRESR
+>tr|G0PF86|G0PF86_CAEBE CBN-TRY-1 protein OX=135651 OS=Caenorhabditis brenneri (Nematode worm). GN= PE=3 SV=1
+----GNFGCGVHSTNFELAQTRSAQVPADFVTLDHR
+>tr|Q1DGX4|Q1DGX4_AEDAE AAEL015439-PA OX=7159 OS=Aedes aegypti (Yellowfever mosquito) (Culex aegypti). GN= PE=3 SV=1
+SYATSKKSSFLRRRSDQMGNMDCGIPRTAQNTLQKR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+T 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1505	772	*	*	4012	1
+       0	*	*	*	*	*	*	2906	0	0	
+
+F 2    *	*	*	*	326	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2306	2
+       0	*	*	*	*	*	*	2906	0	0	
+
+G 3    2306	*	*	*	*	326	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2906	0	0	
+
+S 4    2489	*	5690	2879	*	5085	*	*	4761	6115	*	3607	*	3623	*	2312	2177	*	*	*	4
+       0	*	*	*	*	*	*	2906	0	0	
+
+G 5    3241	*	*	3852	*	604	*	*	*	*	*	*	5043	*	*	2869	*	*	*	*	5
+       0	*	*	*	*	*	*	3789	0	0	
+
+E 6    3241	*	*	845	*	*	5043	*	2279	*	*	3875	*	4923	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	3789	0	0	
+
+A 7    1859	*	4880	5187	3875	5959	*	*	2869	3711	5013	5137	2877	5712	*	4123	5365	3852	*	*	7
+       0	*	*	*	*	*	*	3789	0	0	
+
+D 8    5043	*	1702	3202	*	1947	*	*	*	*	*	5796	*	*	*	2743	*	2977	*	*	8
+       44	5043	*	2000	415	*	*	3789	1021	0	
+
+C 9    *	401	*	*	*	*	*	*	*	*	*	*	*	*	3241	2869	*	*	*	*	9
+       0	*	*	*	*	*	*	3789	0	0	
+
+G 10   3241	*	*	*	2869	447	*	*	*	*	*	*	*	*	5399	*	*	*	*	*	10
+       0	*	*	*	*	*	*	3789	0	0	
+
+L 11   *	*	*	3374	*	*	*	3621	4049	1003	*	*	*	2759	5855	*	6023	3595	*	*	11
+       0	*	*	*	*	*	*	3789	0	0	
+
+R 12   *	*	*	*	*	*	2864	*	*	*	*	3241	*	*	402	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3789	0	0	
+
+P 13   *	*	*	*	*	*	*	*	*	*	*	*	462	*	2869	2864	*	*	*	*	13
+       0	*	*	*	*	*	*	3789	0	0	
+
+L 14   *	*	*	*	*	3241	*	*	*	952	3277	*	*	*	2869	*	2864	*	*	*	14
+       0	*	*	*	*	*	*	3789	0	0	
+
+F 15   *	*	*	*	690	*	*	*	*	*	*	2864	*	*	3241	2869	*	*	*	*	15
+       0	*	*	*	*	*	*	3789	0	0	
+
+E 16   *	*	2869	462	3875	*	*	*	*	*	*	*	*	*	*	*	*	3852	*	*	16
+       0	*	*	*	*	*	*	3789	0	0	
+
+K 17   *	*	*	2703	*	3241	*	*	1201	3777	5796	5930	*	2580	5013	*	*	*	*	*	17
+       161	*	3241	*	*	*	*	3789	0	0	
+
+K 18   *	*	*	*	*	*	*	3176	1401	2346	2174	*	*	4420	*	5313	*	5600	*	*	18
+       0	*	*	*	*	0	*	3437	0	1279	
+
+S 19   2864	*	*	4647	*	1665	*	*	3918	5033	*	2785	*	3893	*	2418	6505	*	*	*	19
+       0	*	*	*	*	*	*	3789	0	0	
+
+L 20   *	*	*	3241	*	*	*	3015	1946	3492	*	2869	*	2652	5930	*	*	3188	*	*	20
+       0	*	*	*	*	*	*	3789	0	0	
+
+E 21   4354	*	*	3245	*	*	*	*	1832	*	2657	5187	*	5183	3241	4621	2468	5375	*	*	21
+       0	*	*	*	*	*	*	3789	0	0	
+
+D 22   *	*	402	3241	*	*	*	*	*	*	*	*	*	*	2864	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3789	0	0	
+
+K 23   3697	2869	*	5291	*	4584	*	*	2714	*	*	2335	*	3573	4464	2463	5351	4923	*	*	23
+       0	*	*	*	*	*	*	3789	0	0	
+
+T 24   2036	*	5506	*	*	2113	*	*	3199	*	*	4714	*	*	4232	3195	2370	*	*	*	24
+       0	*	*	*	*	*	*	3787	0	0	
+
+E 25   *	*	5375	511	*	*	*	2869	*	*	*	*	*	2864	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	3789	0	0	
+
+R 26   4304	*	3226	3084	*	*	5154	*	2599	5043	*	6265	2869	2810	2971	*	*	3623	*	*	26
+       0	*	*	*	*	*	*	3789	0	0	
+
+E 27   3241	*	6289	849	*	*	5525	*	5043	*	*	*	2864	*	2869	*	*	*	*	*	27
+       0	*	*	*	*	*	*	3789	0	0	
+
+L 28   2864	*	*	*	*	*	*	*	*	690	*	*	3241	*	*	*	2869	*	*	*	28
+       0	*	*	*	*	*	*	3789	0	0	
+
+L 29   2869	*	2864	*	5452	*	*	3606	*	1141	5131	3241	*	4923	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	3789	0	0	
+
+E 30   *	*	2178	1676	3875	*	*	*	*	*	5664	5525	*	2698	5187	3241	*	*	*	3852	30
+       0	*	*	*	*	*	*	3789	0	0	
+
+S 31   *	*	*	*	*	*	*	*	*	*	*	2869	*	*	*	690	3241	2864	*	*	31
+       0	*	*	*	*	*	*	3789	0	0	
+
+Y 32   *	*	*	*	*	*	*	*	*	5013	*	*	*	4923	*	3241	1866	*	*	847	32
+       0	*	*	*	*	*	*	3789	0	0	
+
+I 33   5163	*	5187	*	6261	*	*	2209	*	1694	5131	*	*	4707	1917	5013	5664	5375	*	*	33
+       0	*	*	*	*	*	*	3789	0	0	
+
+D 34   6242	*	2083	1809	*	2084	5995	*	*	*	*	*	*	2225	*	*	*	*	*	*	34
+       138	*	3452	*	*	*	*	3789	0	0	
+
+G 35   5771	*	*	5605	*	1326	2783	*	2486	*	*	*	*	3850	*	2565	*	*	*	*	35
+       0	*	*	*	*	0	*	3655	0	1213	
+
+R 36   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	36
+       0	*	*	0	*	*	*	3789	0	0	
+
+//

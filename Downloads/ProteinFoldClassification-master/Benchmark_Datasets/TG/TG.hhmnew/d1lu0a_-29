@@ -1,0 +1,135 @@
+HHsearch 1.5
+NAME  954
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 21:52:19 2016
+LENG  31 match states, 31 columns in multiple alignment
+FILT  25 out of 27 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.0 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCHHHHHHCCCCCCCCCCCEECCCCCCCC
+>ss_conf PSIPRED confidence values
+9873788754376557666777745662479
+>Consensus
+rxCPxrIlmxCkxDsDClxxCvCxxxGxxCG
+>954
+RVCPRRILLECKKDSDCLAECVCLEHGYYCG
+>sp|P32041|ITR3_CUCMC Trypsin inhibitor 3 OS=Cucumis melo var. conomon PE=1 SV=1
+RMCP-KILMKCKQDSDCLLDCVCLKEGF-CG
+>sp|P10292|ITR4_CUCSA Trypsin inhibitor 4 OS=Cucumis sativus PE=1 SV=1
+MMCP-RILMKCKHDSDCLPGCVCLEhIEY-CG
+>tr|Q9S8D2|Q9S8D2_CUCME CMETI-B=TRYPSIN inhibitor OS=Cucumis melo PE=3 SV=1
+VGCP-RILMKCKTDRDCLTGCTCKRNGY-CG
+>sp|P82410|ITR3_MOMCO Trypsin inhibitor 3 OS=Momordica cochinchinensis PE=1 SV=1
+RACP-RILKKCRRDSDCPGECICKENGY-CG
+>sp|P10296|IELI_MOMCH Elastase inhibitor 4 OS=Momordica charantia PE=1 SV=2
+RICP-LIWMECKRDSDCLAQCICVD-GH-CG
+>sp|P84451|ITR2_SECED Trypsin inhibitor 2b OS=Sechium edule PE=1 SV=1
+RKCP-KILMRCKRDSDCLAKCTCQESGY-CG
+>tr|A0A0A0KT01|A0A0A0KT01_CUCSA Uncharacterized protein OS=Cucumis sativus GN=Csa_4G000805 PE=3 SV=1
+RMCP-RILEECTTDDDCMNDCICLSNGF-CG
+>sp|Q43667|ITR1_TRIKI Trypsin inhibitor 1 OS=Trichosanthes kirilowii PE=3 SV=1
+-ACP-RILMPCKVNDDCLRGCKCLSNGY-CG
+>sp|P84452|ITR5_SECED Trypsin inhibitor 5 OS=Sechium edule PE=1 SV=1
+--CP-RILMKCKLDTDCFPTCTCRPSGF-CG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+R 1    *	*	*	*	*	3556	*	*	*	*	3451	*	4166	*	485	*	*	4228	*	*	1
+       0	*	*	*	*	*	*	1982	0	0	
+
+V 2    2953	*	*	*	*	2442	*	2176	4765	*	2967	*	*	*	3625	4420	*	2531	*	*	2
+       0	*	*	*	*	*	*	2010	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2048	0	0	
+
+P 4    *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	4
+       3317	*	153	*	*	*	*	2048	0	0	
+
+R 5    *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	5
+       0	*	*	*	*	0	*	1000	0	1851	
+
+R 6    *	*	*	*	*	*	*	*	2898	4394	*	*	*	*	289	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2048	0	0	
+
+I 7    *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2048	0	0	
+
+L 8    *	*	*	*	*	*	*	*	*	268	*	*	*	*	*	*	*	*	3434	3695	8
+       0	*	*	*	*	*	*	2048	0	0	
+
+L 9    *	*	*	4466	*	*	*	*	2815	3317	489	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2048	0	0	
+
+E 10   *	*	*	1273	*	*	*	*	1625	*	*	*	3372	4649	2995	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2048	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2048	0	0	
+
+K 12   *	*	*	*	*	*	*	*	379	*	*	*	*	*	3290	4695	3471	*	*	*	12
+       0	*	*	*	*	*	*	2048	0	0	
+
+K 13   5047	*	*	*	*	*	3221	*	2971	4374	*	*	*	3274	1608	4695	2662	4091	*	*	13
+       0	*	*	*	*	*	*	2048	0	0	
+
+D 14   *	*	87	*	*	*	*	*	*	*	*	4091	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2048	0	0	
+
+S 15   4539	*	2818	*	*	*	*	*	*	*	*	*	*	*	4737	455	4374	*	*	*	15
+       0	*	*	*	*	*	*	2048	0	0	
+
+D 16   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2048	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2048	0	0	
+
+L 18   *	*	*	*	4374	*	*	*	*	634	2965	*	2815	*	*	*	*	*	*	4743	18
+       0	*	*	*	*	*	*	2048	0	0	
+
+A 19   1040	*	*	*	*	2815	*	*	*	3306	*	4466	2955	*	4091	*	4737	*	*	*	19
+       0	*	*	*	*	*	*	2048	0	0	
+
+E 20   3805	*	2161	2079	*	2099	*	*	3659	*	*	*	*	3218	*	*	4374	*	*	*	20
+       0	*	*	*	*	*	*	2048	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2048	0	0	
+
+V 22   *	*	*	*	*	*	*	1552	4091	*	*	*	*	*	4722	*	2669	1304	*	*	22
+       0	*	*	*	*	*	*	2048	0	0	
+
+C 23   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2048	0	0	
+
+L 24   *	*	*	4122	*	5061	*	*	2887	1106	4649	*	*	3388	3556	*	*	3434	*	*	24
+       0	*	*	*	*	*	*	2048	0	0	
+
+E 25   3560	*	4394	1440	*	3805	*	*	4056	*	*	*	3114	4539	3897	2818	*	*	*	*	25
+       329	3163	3434	0	*	*	*	2048	1077	0	
+
+H 26   *	*	4580	4738	*	*	1890	3660	*	*	4645	1428	*	4890	*	2984	*	*	*	*	26
+       0	*	*	*	*	0	*	1990	0	1053	
+
+G 27   *	*	*	4527	*	64	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2048	0	0	
+
+Y 28   *	*	*	*	1771	*	3434	3695	*	*	*	*	*	*	*	*	*	*	*	896	28
+       3317	*	153	*	*	*	*	2048	0	0	
+
+Y 29   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	29
+       0	*	*	*	*	0	*	1000	0	1851	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2048	0	0	
+
+G 31   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	2048	0	0	
+
+//

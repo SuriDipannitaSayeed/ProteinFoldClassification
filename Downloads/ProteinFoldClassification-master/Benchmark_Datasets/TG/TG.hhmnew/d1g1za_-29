@@ -1,0 +1,133 @@
+HHsearch 1.5
+NAME  1574
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 22:17:06 2016
+LENG  31 match states, 31 columns in multiple alignment
+FILT  26 out of 28 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.2 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCCCCEEEEEEECC
+>ss_conf PSIPRED confidence values
+9654676136332588777686789999429
+>Consensus
+xxCxxgxxCgxpxxgxxxCCSGxCxfVCxxx
+>1574
+DDCIKYGFCSLPILKNGLCCSGACVGVCADL
+>tr|U6C1K9|U6C1K9_CONMR Mr_precursor_032 OS=Conus marmoreus PE=2 SV=1
+------YYCVLPFVGNGMCCSGICVFCLH--
+>sp|Q9BPA1|O1612_CONVE Conotoxin VnMKLT1-021 OS=Conus ventricosus PE=2 SV=1
+------KYCGiLPFANSGVCCSYLCIFVCV--
+>sp|P0DJC6|CXT61_CONQU Conotoxin Qc6.1 OS=Conus quercinus PE=2 SV=1
+------EACVIPIIGNVFCCKGYCLFVCI--
+>tr|A0A0C9SFL5|A0A0C9SFL5_9CAEN Ctr_15_T conopeptide OS=Conus tribblei PE=4 SV=1
+-ECLPgGKLCTDP--DTPACCSGICFIVCT--
+>sp|Q5K0B9|CO12_CONIM Omega-conotoxin-like 2/7 OS=Conus imperialis PE=2 SV=1
+-VCIAdDMPCGFGLFGGPLCCSGWCLFVCL--
+>sp|D6C4L2|CM65_CONCL Conotoxin Cl6.5 OS=Conus californicus PE=3 SV=1
+-KCIPdHHGCGLLHHS-RYCCNGTCFFVCI--
+>sp|Q7Z028|CO16D_CONVX Conotoxin A11GB OS=Conus vexillum PE=3 SV=1
+-RCQRaNFVCDAFHHA-AVCCEGVCVLVCA--
+>sp|P0DMA2|CU6B_CONPB Conotoxin pc6b OS=Conus pictus PE=1 SV=1
+-TCLEiGEFCGKPMMVGSLCCSpGWCFFICV--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+D 1    *	*	951	1051	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1501	0	0	
+
+D 2    *	*	2022	3866	*	2829	*	*	2979	*	*	*	*	4002	2353	*	4161	3271	*	*	2
+       0	*	*	*	*	*	*	3226	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	3334	0	0	
+
+I 4    3577	*	*	3805	4311	*	*	2074	*	2132	*	*	*	3618	2832	*	*	4009	*	4482	4
+       0	*	*	*	*	*	*	3334	0	0	
+
+K 5    2133	*	3226	2803	*	4239	*	*	3934	*	*	*	1900	*	3618	*	*	4205	*	*	5
+       3934	98	*	0	*	*	*	3334	2448	0	
+
+Y 6    *	*	3167	4202	*	681	3970	*	*	*	*	3618	*	*	*	*	*	*	*	3934	6
+       0	*	*	*	*	*	*	3334	0	0	
+
+G 7    *	*	4438	2063	4049	4594	4497	*	3256	*	3678	4902	*	3650	5506	4723	4148	*	*	2679	7
+       0	*	*	*	*	*	*	3429	0	0	
+
+F 8    4447	*	*	*	1255	3650	*	4651	*	2906	*	*	4560	*	*	*	*	3379	*	2799	8
+       0	*	*	*	*	*	*	3429	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3429	0	0	
+
+S 10   *	*	3384	*	*	650	*	*	*	*	*	*	*	*	*	4594	4310	2512	*	*	10
+       135	4204	4822	0	*	*	*	3429	1011	0	
+
+L 11   3189	*	4296	*	1986	*	*	3047	4674	1856	3707	*	*	*	*	4667	4848	*	*	*	11
+       0	*	*	*	*	*	0	3401	0	1000	
+
+P 12   *	*	*	*	3927	4508	*	4873	*	2998	*	*	726	*	*	3556	*	*	4590	*	12
+       263	*	2584	*	*	0	*	3401	0	1000	
+
+I 13   *	*	*	*	1706	*	3001	3265	2446	4374	2786	4472	*	*	*	4546	*	*	*	*	13
+       63	*	4546	*	*	*	0	3195	0	1285	
+
+L 14   3844	*	*	*	4314	*	2870	1468	*	2704	4380	*	4495	*	*	*	*	2878	*	*	14
+       0	*	*	*	*	0	*	3158	0	1369	
+
+K 15   4049	*	4310	*	4651	1051	*	*	3514	4701	*	4204	*	*	*	3132	*	4707	*	4876	15
+       582	*	1591	*	*	*	*	3429	0	0	
+
+N 16   4018	*	*	3103	*	2436	*	*	*	4162	*	1205	*	*	*	3661	3866	*	*	*	16
+       0	*	*	*	*	0	*	3030	0	1703	
+
+G 17   3319	*	*	4157	4541	1650	*	*	*	4645	*	4822	2626	*	3567	3704	*	3578	*	*	17
+       0	*	*	*	*	*	*	3429	0	0	
+
+L 18   4310	*	4723	*	4447	*	*	*	*	1887	3484	4438	2679	3734	4876	*	*	3124	*	3644	18
+       0	*	*	*	*	*	*	3429	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3429	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3429	0	0	
+
+S 21   *	*	3595	4049	*	*	*	*	4447	*	*	4497	*	*	*	458	*	*	*	4701	21
+       115	3704	*	0	*	*	*	3429	1083	0	
+
+G 22   *	*	*	*	*	153	*	*	*	*	*	*	*	4438	*	*	*	*	*	4204	22
+       0	*	*	*	*	*	*	3429	0	0	
+
+A 23   4594	*	*	*	4438	*	*	2839	*	2864	*	5219	*	*	4723	*	4497	4049	1251	4447	23
+       0	*	*	*	*	*	*	3429	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	3429	0	0	
+
+V 25   *	*	*	*	1350	*	*	3175	*	2374	*	*	*	*	*	*	*	1717	*	*	25
+       0	*	*	*	*	*	*	3429	0	0	
+
+G 26   4808	*	*	*	579	3279	*	3502	*	3274	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3429	0	0	
+
+V 27   3765	4003	*	*	*	*	*	3045	*	*	*	*	*	*	*	*	*	429	*	*	27
+       0	*	*	*	*	*	*	3429	0	0	
+
+C 28   *	93	*	*	*	*	*	*	*	4003	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	3429	0	0	
+
+A 29   2482	*	*	*	*	*	4003	3094	*	2394	3648	*	*	*	*	*	2613	2265	*	*	29
+       0	*	*	*	*	*	*	3429	0	0	
+
+D 30   *	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1000	0	0	
+
+L 31   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	0	*	*	*	1000	0	0	
+
+//

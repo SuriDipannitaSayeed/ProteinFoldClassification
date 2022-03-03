@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  305
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 06:42:37 2016
+LENG  36 match states, 36 columns in multiple alignment
+FILT  21 out of 23 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.5 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCHHHHHHHHHHHCCCCCCCEECCEEECC
+>ss_conf PSIPRED confidence values
+998886888769999999719987887838811258
+>Consensus
+xCxpCfttdpxmxxkCxxCCGgxxxGkCxgxqClCx
+>305
+MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR
+>sp|P60268|CTXI3_MESEU Insectotoxin-I3 OS=Mesobuthus eupeus PE=1 SV=1
+-CMPCFTTDHQTARRCRDCCGGR--GRKCFGQCLCG
+>sp|P86436|CTXL_ANDAU Chlorotoxin-like peptide OS=Androctonus australis PE=1 SV=1
+-CIPCFTTNPNMAAKCNACCGSRR-GSCRGPQCIC-
+>sp|P59887|CTXL_HOTTS Chlorotoxin-like peptide Bs 14 OS=Hottentotta tamulus sindicus PE=1 SV=1
+-CGPCFTKDPETEKKCATCCGGI--GRCFGPQCLCN
+>tr|B8XH23|B8XH23_BUTOS Putative chloride channel toxin Tx16 OS=Buthus occitanus israelis PE=2 SV=1
+ACAPCLPGDFLRDKKCKACCGGN--GKCMGISCRCS
+>tr|A0A023UFA0|A0A023UFA0_MESGB Chlorotoxin-1 OS=Mesobuthus gibbosus GN=ClTx1 PE=2 SV=1
+MCMPCFTTNLNMEQECRDCCGGT--GRCFGPQCLCG
+>tr|F1CIY7|F1CIY7_HOTJU U14-hottentoxin-Hj1a OS=Hottentotta judaicus PE=2 SV=1
+RCPNCFTTNPNAEADCKKCCGNRW-GKCAGYQCVCP
+>sp|P81761|CTXL_MESTA Lepidopteran-selective toxin OS=Mesobuthus tamulus PE=1 SV=2
+RCGPCFTTDPQTQAKCSECCGRKG-GVCKGPQCICG
+>tr|B8XH26|B8XH26_BUTOS Putative chloride channel toxin Tx800 OS=Buthus occitanus israelis PE=2 SV=1
+GCEdRPCKPSPVYDRFCWKCCGGK--GKCdvFKAHCVCS
+>tr|B8XH27|B8XH27_BUTOS Putative chloride channel toxin Tx12 OS=Buthus occitanus israelis PE=2 SV=1
+ISCtTCFSTTPNMDKICSNCCRNKG-GG-tcKGSYCVCR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+M 1    3117	*	*	*	*	2036	*	3061	*	*	1792	*	*	*	2106	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2446	0	0	
+
+C 2    *	143	*	*	*	*	*	*	*	*	*	*	*	*	*	3401	*	*	*	*	2
+       0	*	*	*	*	*	*	2579	0	0	
+
+M 3    3546	3401	*	3166	*	2579	*	4214	4735	*	1744	*	3308	*	*	4323	*	*	*	*	3
+       333	2279	*	0	*	*	*	2579	1262	0	
+
+P 4    *	*	*	*	*	*	*	*	*	*	*	4101	443	*	3166	*	3401	*	*	*	4
+       0	*	*	*	*	*	*	2579	0	0	
+
+C 5    *	170	*	*	*	*	*	*	*	*	*	*	3166	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2579	0	0	
+
+F 6    *	3166	*	*	317	*	*	*	*	3546	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2579	0	0	
+
+T 7    *	*	*	*	*	*	*	*	3166	*	*	*	3546	*	*	3401	498	*	*	*	7
+       0	*	*	*	*	*	*	2579	0	0	
+
+T 8    *	*	*	*	*	3546	*	*	4736	*	*	*	3166	*	*	*	386	*	*	*	8
+       0	*	*	*	*	*	*	2579	0	0	
+
+D 9    *	*	880	*	*	*	*	*	*	*	*	2396	*	*	4042	3166	3401	*	*	*	9
+       0	*	*	*	*	*	*	2579	0	0	
+
+H 10   5262	*	*	*	3546	*	2761	*	*	4831	*	*	697	4323	4682	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2579	0	0	
+
+Q 11   *	*	5027	4736	*	*	*	*	*	3546	*	1306	*	1956	*	*	*	3166	*	3787	11
+       0	*	*	*	*	*	*	2579	0	0	
+
+M 12   4101	*	*	*	*	*	*	*	*	*	804	*	*	*	3546	*	2540	*	*	3166	12
+       0	*	*	*	*	*	*	2579	0	0	
+
+A 13   1542	*	1777	2103	*	*	*	*	*	*	*	*	*	4485	*	4735	4323	*	*	*	13
+       0	*	*	*	*	*	*	2579	0	0	
+
+R 14   2325	*	*	*	*	*	*	*	1612	*	*	4578	*	3041	1855	4901	*	*	*	*	14
+       0	*	*	*	*	*	*	2579	0	0	
+
+K 15   *	*	3308	4831	3166	*	*	3401	887	*	*	*	*	4042	4151	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2579	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2579	0	0	
+
+D 17   2897	*	4520	*	*	*	*	*	2451	*	*	4214	*	*	1812	2844	*	*	3166	4323	17
+       0	*	*	*	*	*	*	2579	0	0	
+
+D 18   2842	*	1527	2885	*	*	*	*	2235	*	*	3401	*	*	*	*	3816	*	*	*	18
+       0	*	*	*	*	*	*	2579	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2579	0	0	
+
+C 20   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2579	0	0	
+
+G 21   *	*	*	*	*	258	*	*	*	*	*	*	*	*	2611	*	*	*	*	*	21
+       0	*	*	*	*	*	*	2579	0	0	
+
+G 22   *	*	*	*	*	418	*	*	*	*	*	2709	*	*	4485	4214	*	*	*	*	22
+       0	*	*	*	*	*	*	2579	0	0	
+
+K 23   *	*	*	*	*	4578	*	3983	1389	*	*	2606	*	*	1864	*	4831	*	*	4682	23
+       1386	*	696	*	*	*	*	2579	0	0	
+
+G 24   *	*	*	*	*	526	*	*	*	*	*	*	*	*	2841	*	*	*	2593	*	24
+       1423	*	673	*	*	*	0	1955	0	1902	
+
+R 25   *	*	*	*	*	*	*	*	601	*	*	*	*	*	1553	*	*	*	*	*	25
+       0	*	*	*	*	0	*	1204	0	2271	
+
+G 26   *	*	*	*	*	62	*	*	4578	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2579	0	0	
+
+K 27   *	*	*	*	*	3401	*	*	746	*	*	4682	*	*	2955	4214	*	4485	*	4549	27
+       143	*	3401	*	*	*	*	2579	0	0	
+
+C 28   *	89	*	*	*	*	*	*	4059	*	*	*	*	*	*	*	*	*	*	*	28
+       194	2992	*	1000	1000	0	*	2434	1262	1083	
+
+Y 29   3308	4151	*	*	1420	*	*	*	2844	*	3546	*	*	*	4214	*	*	4901	*	2673	29
+       0	*	*	*	*	*	*	2579	0	0	
+
+G 30   *	*	*	*	4151	341	*	*	3166	*	*	*	*	*	*	4549	*	*	*	*	30
+       0	*	*	*	*	*	*	2579	0	0	
+
+P 31   3166	*	*	*	*	4151	*	3546	*	*	*	*	942	*	*	3401	*	*	*	2925	31
+       0	*	*	*	*	*	*	2579	0	0	
+
+Q 32   *	*	*	*	*	*	3166	*	*	*	*	*	*	498	*	3546	*	*	*	3401	32
+       0	*	*	*	*	*	*	2579	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2579	0	0	
+
+L 34   *	*	*	*	*	*	*	2387	*	1124	*	*	*	*	3546	*	*	1919	*	*	34
+       0	*	*	*	*	*	*	2579	0	0	
+
+C 35   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2579	0	0	
+
+R 36   3951	*	*	*	*	2443	*	*	*	*	*	1841	3113	*	2734	2276	*	*	*	*	36
+       0	*	*	0	*	*	*	2547	0	0	
+
+//

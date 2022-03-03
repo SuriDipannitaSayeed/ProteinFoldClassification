@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  3375
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 14:00:32 2016
+LENG  37 match states, 37 columns in multiple alignment
+FILT  15 out of 17 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CEEEEEEEEEEECCCCCCCCCCCCCCCEEEEEEEEEC
+>ss_conf PSIPRED confidence values
+9579999778326879998550667644889899719
+>Consensus
+xfeCxxsCdIekxGkkpckxkkcxGGWrCKxxxCxKv
+>3375
+LFECSFSCEIEKEGDKPCKKKKCKGGWKCKFNMCVKV
+>sp|B3EWQ0|JURTX_AVIJU U-theraphotoxin-Aju1a OS=Avicularia juruensis PE=1 SV=1
+-FTCAISCDIKVNGKpcKGSGEKKCSGGWSCKFNVCVKV
+>sp|P0DM69|TX5_SELPU Toxin OAIP 5 OS=Selenotypus plumipes PE=1 SV=1
+RFECVLKCDIQYNGK-NCKGkgeNKCSGGWRCRFKLCLKI
+>sp|B1P1A7|JZ47A_CHIGU U3-theraphotoxin-Cg1b OS=Chilobrachys guangxiensis PE=1 SV=1
+IFECSFSCDIKKNGK-PCKGageKKCSGGWRCKMNFCVKF
+>tr|D5J6X7|D5J6X7_PELMU Putative mature sequence toxin-like RFEC OS=Pelinobius muticus PE=2 SV=1
+RFECAISCDIQKEGK-PCKPngeKECkaKGGWKCKFNFCVKI
+>sp|P0DMD9|TXP3_BRARH Omega-theraphotoxin-Ba1c OS=Brachypelma ruhnaui PE=2 SV=1
+ILECVFSCDIEKEGK-PCKPkgeKKCTGGWKCKIKLCLKI
+>tr|M5B4R6|M5B4R6_GRARO GTx4-1 OS=Grammostola rosea PE=2 SV=1
+IFECVMACDIEKdpdvyEGK-PCKPkknKECKGGWRCKFKMCMKV
+>sp|Q5Q113|TXLT3_LASSB U1-theraphotoxin-Lsp1c OS=Lasiodora sp. (strain IBSP 8539) PE=2 SV=1
+FFECTFECDIKKEGK-PCKPkgckcddkdnkdhKKCSGGWRCKLKLCLKF
+>sp|B3A0P0|TXAN1_ACANA Mu-theraphotoxin-An1a OS=Acanthoscurria natalensis PE=1 SV=3
+IIECFFSCEIEKDGkskegK-PCKPkgdkdkDKKCGGWRCKIKMCIKI
+>tr|H7CEL9|H7CEL9_GRARO Toxin-like peptide (Fragment) OS=Grammostola rosea GN=GTx4-7 PE=2 SV=1
+IFECVMACDIEKDGeyvnnNKPCKPkkeEKCTGGWRCKLRSCLKV
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+L 1    *	*	*	*	3650	*	*	841	*	2601	*	*	*	*	2342	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1734	0	0	
+
+F 2    *	*	*	*	295	*	*	2923	*	4236	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1861	0	0	
+
+E 3    *	*	*	192	*	*	*	*	*	*	*	*	*	*	*	*	3004	*	*	*	3
+       0	*	*	*	*	*	*	1861	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1861	0	0	
+
+S 5    2500	*	*	*	2923	*	*	*	*	*	*	*	*	*	*	2009	4098	1379	*	*	5
+       0	*	*	*	*	*	*	1861	0	0	
+
+F 6    *	*	*	*	1476	*	*	1817	*	3448	2368	*	*	*	*	*	*	3809	*	*	6
+       0	*	*	*	*	*	*	1861	0	0	
+
+S 7    2368	*	*	4098	*	*	*	*	3448	*	*	*	*	*	*	608	*	*	*	*	7
+       0	*	*	*	*	*	*	1861	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1861	0	0	
+
+E 9    *	*	564	1628	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	1861	0	0	
+
+I 10   *	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	1861	0	0	
+
+E 11   *	*	*	698	*	*	*	*	2059	*	*	*	*	2799	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 12   *	*	*	*	*	*	*	*	352	*	*	*	*	*	*	*	*	3004	*	3448	12
+       265	2575	*	2430	296	*	*	1861	1089	0	
+
+E 13   *	*	2663	1176	*	*	*	*	4034	*	*	1563	*	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	1861	0	0	
+
+G 14   *	*	3940	*	*	97	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       248	2663	*	2322	322	*	*	1861	1078	0	
+
+D 15   *	*	4079	4034	*	*	*	*	449	*	*	2764	*	*	*	*	*	*	*	*	15
+       2276	3004	580	1000	1000	*	*	1861	1049	0	
+
+K 16   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	0	*	1608	0	1528	
+
+P 17   *	*	3809	*	*	3004	*	*	*	*	*	3448	619	*	*	4034	*	*	*	*	17
+       0	*	*	*	*	*	*	1861	0	0	
+
+C 18   *	192	*	*	*	*	*	*	*	*	*	*	*	*	*	3004	*	*	*	*	18
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 19   *	*	*	*	*	3004	*	*	192	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 20   *	*	*	3004	*	2751	*	*	2938	*	*	*	746	*	*	*	*	*	*	*	20
+       1661	548	*	2190	357	*	*	1861	1539	0	
+
+K 21   *	*	3609	3720	*	*	*	*	545	*	*	3448	*	3940	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 22   *	*	*	2729	*	*	*	*	236	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	1861	0	0	
+
+C 23   *	123	*	*	*	*	*	*	3609	*	*	*	*	*	*	*	*	*	*	*	23
+       149	3350	*	1000	1000	*	*	1861	1032	0	
+
+K 24   *	3609	*	*	*	*	*	*	1546	*	*	*	*	*	*	1390	2365	*	*	*	24
+       0	*	*	*	*	*	*	1861	0	0	
+
+G 25   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	1861	0	0	
+
+G 26   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	1861	0	0	
+
+W 27   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	27
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 28   *	*	*	*	*	*	*	*	1545	*	*	*	*	*	909	3004	*	*	*	*	28
+       0	*	*	*	*	*	*	1861	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 30   *	*	*	*	*	*	*	*	139	*	*	*	*	*	3448	*	*	*	*	*	30
+       0	*	*	*	*	*	*	1861	0	0	
+
+F 31   *	*	*	*	840	*	*	2435	*	2326	4136	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	1861	0	0	
+
+N 32   *	*	*	*	*	*	*	*	1143	*	*	1085	*	*	3720	*	*	*	*	*	32
+       0	*	*	*	*	*	*	1861	0	0	
+
+M 33   *	*	*	*	2690	*	*	*	*	1898	1411	*	*	*	*	3720	*	3004	*	*	33
+       0	*	*	*	*	*	*	1861	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1861	0	0	
+
+V 35   *	*	*	*	*	*	*	3609	*	1184	4246	*	*	*	*	*	*	1234	*	*	35
+       0	*	*	*	*	*	*	1861	0	0	
+
+K 36   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1861	0	0	
+
+V 37   *	*	3809	*	3117	*	*	1605	*	*	*	*	*	*	*	*	*	1045	*	*	37
+       0	*	*	0	*	*	*	1861	0	0	
+
+//

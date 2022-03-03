@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  1996
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 12:54:34 2016
+LENG  36 match states, 36 columns in multiple alignment
+FILT  34 out of 36 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.4 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCCCEEECCCCCCCEEECC
+>ss_conf PSIPRED confidence values
+967888445578876444762784288888865029
+>Consensus
+CIxxGxxCkxdgsxgxCcSGxCxqxxxxxxGxCkxk
+>1996
+CIKNGNGCQPNGSQGNCCSGYCHKQPGWVAGYCRRK
+>tr|Q2PQD0|Q2PQD0_BEMTA Putative antimicrobial knottin protein Btk-1 OS=Bemisia tabaci GN=btk-1 PE=2 SV=1
+CLPDGAPCQADGSMGNCCTTFCLQheQPGGTPGHCTTR
+>tr|Q2PQC7|Q2PQC7_BEMTA Putative antimicrobial knottin protein Btk-4 OS=Bemisia tabaci GN=btk-4 PE=2 SV=1
+CISNWTKCKPDGSIGNCCSGYCFQekPDW-EYGICKNR
+>tr|Q9SDS1|Q9SDS1_PHYAM Antimicrobial seed protein (Fragment) OS=Phytolacca americana GN=AMP-2 PE=2 SV=1
+CIKNGGRCVASGGPPYCCSNYCLQIAGQSYGVCKK-
+>tr|A0A0A2VUF6|A0A0A2VUF6_BEABA Uncharacterized protein OS=Beauveria bassiana D1-5 GN=BBAD15_g4888 PE=4 SV=1
+CLGNGKKCKANGSMGTCCSGFCLAQG-NKVGVCKKK
+>tr|A0A017S4I2|A0A017S4I2_9EURO Uncharacterized protein OS=Aspergillus ruber CBS 135680 GN=EURHEDRAFT_389089 PE=4 SV=1
+-LPSKAPCKQDGSLGVCESGLCVQTPGDAQGSCE--
+>tr|A1CEY7|A1CEY7_ASPCL Putative uncharacterized protein OS=Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1) GN=ACLA
+-IPIGQTCNKDGSMGICESGYCLQDEKAATGTCQA-
+>tr|A0A0R1EA48|A0A0R1EA48_DROYA Uncharacterized protein OS=Drosophila yakuba GN=Dyak\GE28163 PE=4 SV=1
+---------ANGSQGNCCGGMHCQknDPSWREGRCYY-
+>tr|Q3LTD6|Q3LTD6_9DIPT Salivary gland antimicrobial peptide 1 OS=Bradysia hygida PE=2 SV=1
+CIPDGGRCHESDPGPGCCSGFCYRERNWKDGDCRKR
+>tr|A0A017S8C2|A0A017S8C2_9EURO Uncharacterized protein OS=Aspergillus ruber CBS 135680 GN=EURHEDRAFT_415548 PE=4 SV=1
+-IDDNQPCQSDSKTDYCKSGLCIQEPSQPSGTCRPK
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+C 1    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2691	0	0	
+
+I 2    *	*	*	*	*	*	*	544	*	1670	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3321	0	0	
+
+K 3    2775	*	3928	*	*	3611	*	*	2925	*	*	5203	1242	5309	*	3968	4813	*	*	*	3
+       0	*	*	*	*	*	*	3345	0	0	
+
+N 4    4012	*	2268	*	*	*	*	4273	4813	*	*	1109	*	*	*	3165	4665	5136	*	*	4
+       0	*	*	*	*	*	*	3345	0	0	
+
+G 5    *	*	*	*	*	258	*	*	5095	*	*	3928	*	*	5094	*	*	*	4656	*	5
+       0	*	*	*	*	*	*	3345	0	0	
+
+N 6    2208	*	*	*	*	1910	*	*	3009	5136	*	3666	*	2518	5682	4255	4656	*	*	*	6
+       0	*	*	*	*	*	*	3345	0	0	
+
+G 7    5366	*	4468	*	*	3085	*	*	3213	*	*	*	1690	5058	1953	4813	3813	*	*	*	7
+       0	*	*	*	*	*	*	3345	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	3345	0	0	
+
+Q 9    *	*	*	*	*	*	4142	5419	1097	*	*	3117	*	2249	4070	*	4785	5011	*	*	9
+       0	*	*	*	*	*	*	3345	0	0	
+
+P 10   1606	*	*	2833	*	4866	*	*	2584	*	*	*	2798	3313	*	3546	*	*	*	*	10
+       0	*	*	*	*	*	*	3397	0	0	
+
+N 11   5003	*	547	*	*	*	*	*	*	*	*	2640	*	*	*	3011	*	*	*	*	11
+       46	*	5003	*	*	*	*	3397	0	0	
+
+G 12   4654	*	4120	*	*	375	*	*	*	*	*	*	*	4714	*	3990	*	5017	*	*	12
+       0	*	*	*	*	*	0	3375	0	1061	
+
+S 13   *	*	*	*	*	2832	*	*	3343	*	*	*	4120	*	*	507	*	*	*	*	13
+       0	*	*	*	*	*	0	3375	0	1061	
+
+Q 14   5336	*	*	*	*	4120	*	3533	*	3545	1435	*	2832	3321	*	5163	3628	*	5228	*	14
+       0	*	*	*	*	*	0	3375	0	1061	
+
+G 15   *	*	3990	*	*	436	*	*	*	*	*	*	2337	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	0	3375	0	1061	
+
+N 16   *	*	*	*	4714	4120	*	3169	*	*	*	1469	*	*	*	*	4437	2477	*	2277	16
+       0	*	*	*	*	*	0	3375	0	1061	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	0	3375	0	1061	
+
+C 18   3025	930	4664	2307	*	*	*	*	3990	*	*	*	*	4382	*	*	*	*	*	*	18
+       0	*	*	*	*	0	*	3375	0	1061	
+
+S 19   *	*	*	*	*	3833	*	*	*	*	*	*	*	*	*	159	4883	*	*	*	19
+       0	*	*	*	*	*	*	3397	0	0	
+
+G 20   *	*	*	*	*	247	*	*	5109	*	*	4150	*	*	*	4710	4883	*	*	*	20
+       0	*	*	*	*	*	*	3397	0	0	
+
+Y 21   *	*	*	*	1329	*	*	*	*	2267	4434	*	*	5003	*	*	*	4875	*	1823	21
+       0	*	*	*	*	*	*	3397	0	0	
+
+C 22   *	68	*	*	*	*	4434	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3397	0	0	
+
+H 23   *	4434	*	3130	3703	*	4360	3058	*	1641	5359	*	*	*	*	*	*	3038	4866	3428	23
+       0	*	*	*	*	*	*	3397	0	0	
+
+K 24   3976	5003	*	*	*	*	*	*	3522	*	*	*	*	631	3031	*	*	4324	*	*	24
+       316	2503	5633	1000	1000	*	*	3397	1444	0	
+
+Q 25   *	*	2521	2556	*	*	*	3496	*	2827	*	*	3766	2281	5275	4687	5129	*	5247	5194	25
+       51	*	4848	*	*	0	*	3400	0	1000	
+
+P 26   2497	*	4593	3811	4657	4472	*	*	*	*	*	*	1311	3889	4145	*	*	3345	*	*	26
+       34	*	5431	*	*	*	0	3365	0	1018	
+
+G 27   *	*	*	*	*	1160	3649	*	3108	4904	*	2742	*	*	5216	3235	*	*	4619	*	27
+       162	5080	3703	1000	1000	0	*	3495	1000	1089	
+
+W 28   2462	*	3263	2886	*	4585	*	*	*	*	*	4039	*	2537	*	4572	*	*	1931	*	28
+       0	*	*	*	*	0	*	3449	0	1085	
+
+V 29   3233	*	3916	4047	*	4972	*	*	2958	*	*	3226	4029	*	3737	2409	3889	3218	*	*	29
+       0	*	*	*	*	*	*	3495	0	0	
+
+A 30   4158	*	4166	3681	*	4281	*	*	4690	*	*	*	3227	3003	4713	2833	3395	3772	*	2818	30
+       0	*	*	*	*	*	*	3495	0	0	
+
+G 31   *	*	4281	*	*	76	*	*	*	*	*	*	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	3495	0	0	
+
+Y 32   *	*	4166	*	*	*	3658	3955	4370	*	*	*	*	4281	4308	3595	2632	1836	*	2988	32
+       0	*	*	*	*	*	*	3495	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	3495	0	0	
+
+R 34   *	*	*	3836	*	*	*	*	1111	*	*	*	*	3251	2304	*	3206	*	*	4294	34
+       0	*	*	*	*	*	*	3494	0	0	
+
+R 35   4357	*	3019	4308	*	*	*	*	2485	*	*	2209	3370	4185	4175	*	4031	*	*	3130	35
+       0	*	*	*	*	*	*	3282	0	0	
+
+K 36   *	*	*	*	*	*	*	*	863	*	*	*	*	*	1152	*	*	*	*	*	36
+       0	*	*	0	*	*	*	2667	0	0	
+
+//

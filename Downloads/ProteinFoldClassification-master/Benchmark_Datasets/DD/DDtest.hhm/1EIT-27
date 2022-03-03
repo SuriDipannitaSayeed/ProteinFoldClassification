@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  674
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 06:57:25 2016
+LENG  36 match states, 36 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.3 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCEEECCCCCCCCEECCCC
+>ss_conf PSIPRED confidence values
+963556704132478667606726889873645798
+>Consensus
+xCvxexxxCadWxgpCCxgxyCsCrxxpxCxCrxnx
+>674
+ECVPENGHCRDWYDECCEGFYCSCRQPPKCICRNNN
+>sp|P15967|TXC1_HOLCU Mu-agatoxin-Hc1a OS=Hololena curta PE=1 SV=1
+SCVGEYGRCRSAYEDCCDGYYCNCSQPPYCLCRNNN
+>sp|Q5Y4U7|T5G1A_AGEOR Mu-agatoxin-Ao1a OS=Agelena orientalis PE=1 SV=1
+DCVGENGRCRDWYNDCCDGFYCSCRQPPYCICRNNN
+>sp|Q5Y4V3|T4G1F_AGEOR U3-agatoxin-Ao1f OS=Agelena orientalis PE=1 SV=1
+GdCVGESQQCADWSGPyCCKGYYCTCRYFPKCICVNDN
+>sp|P60177|T3C2_HOLCU Mu-agatoxin-Hc1b OS=Hololena curta PE=1 SV=1
+DCVGDGQRCADWAGPyCCSGYYCSCRSMPYCRCRSDS
+>sp|P83258|TXDP3_PIRLC Delta-amaurobitoxin-Pl1c OS=Pireneitega luctuosa PE=1 SV=1
+DCLNEGDWCADWSGPsCCGEMWCSCPGFGKCRCKK--
+>sp|P83259|T2DP4_PIRLC Delta-amaurobitoxin-Pl1d OS=Pireneitega luctuosa PE=1 SV=1
+ACATKNQRCASWAGPyCCDGFYCSCRSYPGCMCRPNS
+>sp|P83256|T3D1A_PIRLC Delta-amaurobitoxin-Pl1a OS=Pireneitega luctuosa PE=1 SV=1
+GCLGEGEKCADWSGPsCCDGFYCSCRSMPYCRCRNNS
+>sp|P11061|T4G1E_AGEAP Mu-agatoxin-Aa1e OS=Agelenopsis aperta PE=1 SV=1
+ACVGENKQCADWAGPhCCDGYYCTCRYFPKCICRNNN
+>sp|P60272|TXMO_HADIN U2-hexatoxin-Hi1a OS=Hadronyche infensa PE=1 SV=1
+-CLAEAADCSPWSGDsCCKPYLCSCIFFYPCSCRPK-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    2296	*	1489	2512	*	2768	*	*	*	*	*	*	*	*	*	3082	*	*	*	*	1
+       114	3722	*	0	*	*	*	2073	1000	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2302	0	0	
+
+V 3    2803	*	*	*	*	*	*	*	*	1634	*	*	*	*	*	*	*	904	*	*	3
+       0	*	*	*	*	*	*	2302	0	0	
+
+P 4    2228	*	*	*	*	960	*	*	*	*	*	3021	3645	*	*	*	3853	*	*	*	4
+       0	*	*	*	*	*	*	2302	0	0	
+
+E 5    *	*	3058	441	*	*	*	*	2803	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2302	0	0	
+
+N 6    2842	*	*	*	*	1723	*	*	*	*	*	1573	*	*	*	3086	*	*	*	3267	6
+       0	*	*	*	*	*	*	2302	0	0	
+
+G 7    2842	*	3021	4069	*	2029	*	*	2992	*	*	*	*	1703	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2302	0	0	
+
+H 8    *	*	2842	*	*	*	3645	*	4069	*	*	*	*	2561	1223	*	*	*	3021	*	8
+       0	*	*	*	*	*	*	2302	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2302	0	0	
+
+R 10   700	*	*	*	*	*	*	*	*	*	*	*	*	*	2029	2842	*	*	*	*	10
+       0	*	*	*	*	*	*	2302	0	0	
+
+D 11   *	*	659	*	*	*	*	*	*	*	*	*	2842	*	*	2139	*	*	*	*	11
+       0	*	*	*	*	*	*	2302	0	0	
+
+W 12   3267	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	158	*	12
+       0	*	*	*	*	*	*	2302	0	0	
+
+Y 13   1660	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1189	*	*	*	2029	13
+       0	*	*	*	*	*	*	2302	0	0	
+
+D 14   *	*	3645	3267	*	405	*	*	*	*	*	4032	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2302	0	0	
+
+E 15   *	*	1715	3645	*	*	*	*	*	*	*	*	700	*	*	*	*	*	*	*	15
+       2029	405	*	0	*	*	*	2302	1890	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2302	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2302	0	0	
+
+E 18   *	*	1137	2699	*	3021	*	*	2308	*	*	*	*	*	*	3917	*	*	*	*	18
+       0	*	*	*	*	*	*	2302	0	0	
+
+G 19   *	*	*	3021	*	440	*	*	*	*	*	*	2842	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2302	0	0	
+
+F 20   *	*	*	*	1890	*	*	*	*	3756	3021	*	*	*	*	*	*	*	*	908	20
+       0	*	*	*	*	*	*	2302	0	0	
+
+Y 21   *	*	*	*	*	*	*	*	*	2842	*	*	*	*	*	*	*	*	3021	440	21
+       0	*	*	*	*	*	*	2302	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2302	0	0	
+
+S 23   *	*	*	*	*	*	*	*	*	*	*	3267	*	*	*	461	2561	*	*	*	23
+       0	*	*	*	*	*	*	2302	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2302	0	0	
+
+R 25   *	*	*	*	*	*	*	2842	*	*	*	*	3021	*	659	3267	*	*	*	*	25
+       0	*	*	*	*	*	*	2302	0	0	
+
+Q 26   *	*	*	*	2842	3021	*	*	*	*	*	*	*	2029	*	1631	*	*	*	2561	26
+       0	*	*	*	*	*	*	2302	0	0	
+
+P 27   *	*	*	*	1211	*	*	*	*	*	2476	*	2029	*	*	*	*	*	*	2803	27
+       0	*	*	*	*	*	*	2302	0	0	
+
+P 28   *	*	*	*	*	3021	*	*	*	*	*	*	440	*	*	*	*	*	*	2842	28
+       0	*	*	*	*	*	*	2302	0	0	
+
+K 29   *	*	*	*	*	2803	*	*	1424	*	*	*	2842	*	*	*	*	*	*	1536	29
+       0	*	*	*	*	*	*	2302	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2302	0	0	
+
+I 31   *	*	*	*	*	*	*	1687	*	3267	2803	*	*	*	1723	2842	*	*	*	*	31
+       0	*	*	*	*	*	*	2302	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2302	0	0	
+
+R 33   *	*	*	*	*	*	*	*	3021	*	*	*	*	*	398	*	*	3086	*	*	33
+       0	*	*	*	*	*	*	2302	0	0	
+
+N 34   *	*	*	*	*	*	*	*	3021	*	*	922	1823	*	*	3917	*	*	*	*	34
+       0	*	*	*	*	*	*	2302	0	0	
+
+N 35   *	*	2737	*	*	*	*	*	2624	*	*	540	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2129	0	0	
+
+N 36   *	*	*	*	*	*	*	*	*	*	*	853	*	*	*	1164	*	*	*	*	36
+       0	*	*	0	*	*	*	1880	0	0	
+
+//

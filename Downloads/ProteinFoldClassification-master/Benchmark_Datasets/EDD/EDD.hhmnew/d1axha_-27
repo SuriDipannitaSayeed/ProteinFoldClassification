@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  3370
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 13:59:50 2016
+LENG  37 match states, 37 columns in multiple alignment
+FILT  12 out of 14 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCEEEECC
+>ss_conf PSIPRED confidence values
+9734688987888888637724311034896347549
+>Consensus
+sxxCxpxxqPCxxnxxcCxxsCxxxxnengnxVxrCx
+>3370
+SPTCIPSGQPCPYNENCCSQSCTFKENENGNTVKRCD
+>sp|P81599|TO1F_HADVE Omega-hexatoxin-Hv1f OS=Hadronyche versuta PE=1 SV=1
+SAVCIPSGQPCPYSKYCCSGSCTYKTNENGNSVQRCD
+>sp|P0C2L7|TO1C_HADIN Omega-hexatoxin-Hi1c OS=Hadronyche infensa PE=1 SV=1
+SSTCIRTDQPCPYNESCCSGSCTYKANENGNQVKRCD
+>sp|A5A3H1|TO1B_ATRRO Omega-hexatoxin-Ar1b OS=Atrax robustus PE=2 SV=1
+RGACTPTGQPCPYNESCCSGSCQEQLNENGHTVKRCV
+>sp|P0DMQ4|TK1A_HADMO Kappa-hexatoxin-Hmo1d OS=Hadronyche modesta PE=3 SV=1
+RTICTGADRPCAACCPCCpGTSCQGP-E--SNXISYCR
+>sp|S0F1M9|TK1E_HADVE Kappa-hexatoxin-Hv1e OS=Hadronyche versuta PE=3 SV=1
+RAICPGADRPCAACCPCCpGTSCKA--E--SNGVFYCR
+>sp|S0F209|TOK1H_HADVE Omega/Kappa-hexatoxin-Hv1h OS=Hadronyche versuta PE=3 SV=1
+RQYCVPVDQPCSLNTQPCcdDATCTQERNENGHTVYYCR
+>sp|P0DMQ2|TO1C_HADMO Omega-hexatoxin-Hmo1c OS=Hadronyche modesta PE=3 SV=1
+SPVCTRTDQPCPYDQDCCSGSCTLKKNENGNLVKRCD
+>sp|P83588|TOM1A_MISBR Omega-actinopoditoxin-Mb1a OS=Missulena bradleyi PE=1 SV=1
+SPVCTPSGQPCQPNTQPCCNNaeEEQTINCNGNTVYRCA
+>sp|P0C2L8|TK1A_HADFO Kappa-hexatoxin-Hf1a OS=Hadronyche formidabilis PE=1 SV=1
+-PTCTGADRPCAACCPCCpGTSCKGpE----PNGVSYCR
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	1139	873	*	*	*	*	1
+       0	*	*	*	*	*	*	2462	0	0	
+
+P 2    2593	*	*	*	*	3533	*	*	*	*	*	*	1301	3002	*	3058	3363	*	*	*	2
+       0	*	*	*	*	*	*	2468	0	0	
+
+T 3    3533	*	*	*	*	*	*	2417	*	*	*	*	*	*	*	*	1990	1515	*	3002	3
+       0	*	*	*	*	*	*	2468	0	0	
+
+C 4    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	2468	0	0	
+
+I 5    *	*	*	*	*	*	*	1678	*	*	*	*	3474	*	*	*	1081	3002	*	*	5
+       0	*	*	*	*	*	*	2468	0	0	
+
+P 6    *	*	*	*	*	1935	*	*	*	*	*	*	740	*	2841	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2468	0	0	
+
+S 7    1935	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1600	1818	3002	*	*	7
+       0	*	*	*	*	*	*	2468	0	0	
+
+G 8    *	*	927	*	*	1077	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	2468	0	0	
+
+Q 9    *	*	*	*	*	*	*	*	*	*	*	*	*	437	1935	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2468	0	0	
+
+P 10   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2468	0	0	
+
+C 11   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	11
+       0	*	*	*	*	*	*	2468	0	0	
+
+P 12   1935	*	*	*	*	*	*	*	*	*	*	*	1066	2880	*	3002	*	*	*	*	12
+       0	*	*	*	*	*	*	2468	0	0	
+
+Y 13   1935	*	*	*	*	*	*	*	*	3002	*	*	2880	*	*	*	*	*	*	1066	13
+       0	*	*	*	*	*	*	2468	0	0	
+
+N 14   *	1935	3664	*	*	*	*	*	*	*	*	776	*	*	*	3723	*	*	*	*	14
+       0	*	*	*	*	*	*	2468	0	0	
+
+E 15   *	1935	*	1630	*	*	*	*	3723	*	*	*	*	3664	*	*	1939	*	*	*	15
+       0	*	*	*	*	*	*	2468	0	0	
+
+N 16   *	*	3664	*	*	*	4074	*	*	*	*	3099	1935	1939	*	2766	*	*	*	3723	16
+       0	*	*	*	*	*	*	2468	0	0	
+
+C 17   *	436	*	*	*	*	*	*	*	*	*	*	1939	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2468	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       705	1372	*	388	2083	*	*	2468	1475	0	
+
+S 19   *	2880	3002	*	*	1935	*	*	*	*	*	*	*	*	*	1066	*	*	*	*	19
+       0	*	*	*	*	*	*	2468	0	0	
+
+Q 20   3002	*	*	*	*	1470	*	*	*	*	*	2880	*	3099	*	*	1935	*	*	*	20
+       0	*	*	*	*	*	*	2468	0	0	
+
+S 21   *	*	*	*	*	*	*	*	*	*	*	2880	*	*	*	436	3002	*	*	*	21
+       211	2880	*	1000	1000	*	*	2468	1078	0	
+
+C 22   *	211	*	2880	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2468	0	0	
+
+T 23   *	*	*	2880	*	*	*	*	2605	*	*	*	*	2446	*	*	954	*	*	*	23
+       0	*	*	*	*	*	*	2468	0	0	
+
+F 24   3474	*	*	3533	4083	2543	*	*	*	3664	*	*	*	1939	*	*	*	*	*	1980	24
+       259	3750	3474	0	*	*	*	2468	1000	0	
+
+K 25   *	*	*	2119	*	*	*	*	1281	*	*	*	2952	3468	*	*	2851	*	*	*	25
+       371	*	2141	*	*	*	0	2414	0	1017	
+
+E 26   2620	*	*	2644	*	*	*	2586	3203	3077	*	*	*	*	2468	*	3279	*	*	*	26
+       0	*	*	*	*	489	1798	2027	0	1293	
+
+N 27   *	*	*	2096	*	*	*	*	*	*	*	384	*	*	*	*	*	*	*	*	27
+       384	*	2096	*	*	*	0	2462	0	1000	
+
+E 28   *	2586	*	263	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	0	2027	0	1293	
+
+N 29   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	0	*	2027	0	1293	
+
+G 30   *	*	*	*	*	437	*	*	*	*	*	*	3750	*	*	2417	*	*	*	*	30
+       0	*	*	*	*	*	*	2468	0	0	
+
+N 31   *	*	*	*	*	*	2243	*	*	*	*	342	*	*	*	*	*	*	*	*	31
+       0	*	*	*	*	*	*	2468	0	0	
+
+T 32   *	*	*	*	*	2190	*	*	*	3593	*	*	*	2995	*	3658	1019	*	*	*	32
+       0	*	*	*	*	*	*	2403	0	0	
+
+V 33   *	*	*	*	*	*	*	3363	*	*	*	*	*	*	*	*	*	148	*	*	33
+       0	*	*	*	*	*	*	2468	0	0	
+
+K 34   *	*	*	*	3474	*	*	*	1545	*	*	*	*	2888	*	2543	*	*	*	1939	34
+       0	*	*	*	*	*	*	2468	0	0	
+
+R 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	705	*	*	*	*	1372	35
+       0	*	*	*	*	*	*	2468	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	2468	0	0	
+
+D 37   2880	*	1353	*	*	*	*	*	*	*	*	*	*	*	1372	*	*	3533	*	*	37
+       0	*	*	0	*	*	*	2468	0	0	
+
+//

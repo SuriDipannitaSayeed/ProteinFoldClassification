@@ -1,0 +1,180 @@
+HHsearch 1.5
+NAME  952
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 21:52:29 2016
+LENG  46 match states, 46 columns in multiple alignment
+FILT  42 out of 44 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.1 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCEEEECCCCCCCEEECCCCEEEEEEECCCEEECCC
+>ss_conf PSIPRED confidence values
+9863546651002462777899777447772433870262572489
+>Consensus
+ExxxCsxxxxyGxYyxCPCexgLtCxxxkxxxgsixntxxGxCxdx
+>952
+ENSECSAFTLYGVYYKCPCERGLTCEGDKSLVGSITNTNFGICHNV
+>sp|A9JSD6|COL_XENTR Colipase OS=Xenopus tropicalis GN=clps PE=3 SV=1
+ETQKCSPLHIYGTYYFCPCESGLTCEVDRSIVGSITNTDYGYCED-
+>tr|E3TF71|E3TF71_ICTPU Colipase OS=Ictalurus punctatus GN=COL PE=2 SV=1
+ENEACSKKNWSGTYCYCTCEDGLKCEGDRFIGGSIVNTNFGTCVD-
+>tr|H0YTV1|H0YTV1_TAEGU Uncharacterized protein (Fragment) OS=Taeniopygia guttata GN=CLPS PE=4 SV=1
+ESQECSPKNLHGVYYKCPCETGLSCDANRTIVGTITNRNFGVCRDP
+>tr|M3XCD3|M3XCD3_FELCA Uncharacterized protein (Fragment) OS=Felis catus GN=CLPSL1 PE=4 SV=1
+RSKSCLSQTFLGLYNECPRLPNLTCVFPKNET--SFNIIYGHCNSF
+>tr|H0Y1I8|H0Y1I8_OTOGA Uncharacterized protein OS=Otolemur garnettii GN=CLPSL1 PE=4 SV=1
+EGSLGHVQMFFGLYSECSCLPNLTCVFPKNEK--SFGNTPSHCQKI
+>tr|A0A0D9RCB8|A0A0D9RCB8_CHLSB Uncharacterized protein OS=Chlorocebus sabaeus GN=CLPSL1 PE=4 SV=1
+EGSLCQMLAFFGQYRQCPCLQNLTCVYWKSEK--WSAIAYGRCKKI
+>tr|K1P698|K1P698_CRAGI Uncharacterized protein OS=Crassostrea gigas GN=CGI_10009761 PE=4 SV=1
+---------------DCPCEPGLTCVP--TVQGSSFVTIYGRCKP-
+>tr|F6U1J3|F6U1J3_CIOIN Uncharacterized protein OS=Ciona intestinalis GN=LOC100184348 PE=4 SV=1
+EGAVCENDGLWDVYDHCPCESGLSCVNSGSTK--------------
+>tr|C3YVG5|C3YVG5_BRAFL Putative uncharacterized protein OS=Branchiostoma floridae GN=BRAFLDRAFT_119373 PE=4 SV=1
+-GEPCQLPHPYDLYYACPCKAGLRCMVSNpDSISSVLNSEIGVCA--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	128	*	*	*	*	*	5144	*	*	*	*	4139	*	*	*	*	*	1
+       0	*	*	*	*	*	*	2951	0	0	
+
+N 2    *	*	4819	*	3757	1457	*	*	*	*	*	1713	*	*	4999	2717	4725	*	*	*	2
+       0	*	*	*	*	*	*	3165	0	0	
+
+S 3    4362	*	3941	2426	*	5211	4288	*	4188	*	*	*	*	2852	*	1222	*	*	*	*	3
+       0	*	*	*	*	*	*	3165	0	0	
+
+E 4    4037	*	4816	1783	*	4782	*	*	4738	1907	*	*	3708	5211	5769	3818	*	3646	*	*	4
+       0	*	*	*	*	*	*	3165	0	0	
+
+C 5    *	90	*	*	*	4045	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	3165	0	0	
+
+S 6    *	*	*	4362	*	*	2719	*	*	4188	*	*	*	2315	*	923	5947	*	*	*	6
+       0	*	*	*	*	*	*	3165	0	0	
+
+A 7    3497	*	5212	*	*	*	*	*	3862	3738	4577	4384	1776	*	4695	4191	2617	3285	*	*	7
+       18	6366	*	0	*	*	*	3177	1000	0	
+
+F 8    *	*	4384	5983	6267	6366	4370	*	1301	4051	*	*	3738	1727	*	*	*	*	5669	*	8
+       0	*	*	*	*	*	*	3177	0	0	
+
+T 9    3771	*	*	*	5212	4384	3421	5765	*	*	3391	3909	*	*	*	2346	1518	4948	*	*	9
+       0	*	*	*	*	*	*	3177	0	0	
+
+L 10   *	*	*	*	1599	*	*	2372	*	1464	*	*	3738	*	*	*	*	*	4680	*	10
+       0	*	*	*	*	*	*	3177	0	0	
+
+Y 11   *	*	*	*	2284	*	5181	*	*	3473	*	*	*	*	*	3759	*	*	4384	849	11
+       0	*	*	*	*	*	*	3177	0	0	
+
+G 12   *	*	3025	4292	*	363	*	*	*	*	*	5212	*	*	*	5546	*	*	*	*	12
+       0	*	*	*	*	*	*	3177	0	0	
+
+V 13   *	*	*	*	*	*	*	3064	*	1739	*	*	*	3243	*	*	3180	1454	*	*	13
+       0	*	*	*	*	*	*	3177	0	0	
+
+Y 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	14
+       0	*	*	*	*	*	*	3177	0	0	
+
+Y 15   *	4680	4384	*	*	*	*	*	5765	*	*	2779	*	*	3243	4048	*	*	*	779	15
+       0	*	*	*	*	*	*	3177	0	0	
+
+K 16   3233	*	5508	2011	4399	*	4410	*	1789	4233	*	6113	*	4618	3686	*	*	6027	*	4701	16
+       0	*	*	*	*	*	*	3198	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	3198	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	233	*	*	4087	3467	*	*	*	18
+       0	*	*	*	*	*	*	3198	0	0	
+
+C 19   *	79	*	*	*	*	*	*	*	*	*	*	*	*	4235	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3198	0	0	
+
+E 20   *	*	*	725	*	*	*	*	3744	2287	*	*	*	3112	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	3198	0	0	
+
+R 21   3744	*	3884	*	*	*	*	*	*	4921	*	6316	2410	4185	1495	2420	5192	*	*	*	21
+       0	*	*	*	*	*	*	3198	0	0	
+
+G 22   *	*	5605	*	*	488	*	*	*	*	*	1908	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	3198	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	3198	0	0	
+
+T 24   5808	*	*	*	*	*	*	4445	3509	*	*	*	*	*	3266	3267	693	5517	*	*	24
+       0	*	*	*	*	*	*	3198	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	3198	0	0	
+
+E 26   4841	*	2285	1760	*	*	*	4903	6132	*	3794	5575	*	5573	*	*	*	1723	*	*	26
+       0	*	*	*	*	*	*	3141	0	0	
+
+G 27   2235	*	*	*	2357	2449	*	*	*	*	*	4508	5481	*	*	5183	*	2282	*	3188	27
+       33	*	5481	*	*	*	*	3141	0	0	
+
+D 28   *	*	1026	*	*	*	*	*	*	*	*	3793	2057	*	*	2709	*	*	4524	*	28
+       0	*	*	*	*	*	0	3058	0	1019	
+
+K 29   *	*	*	*	5439	4449	*	*	610	*	*	3520	*	*	2818	*	*	*	4410	*	29
+       108	3792	*	0	*	0	*	3058	1103	1019	
+
+S 30   *	*	3794	*	4664	*	*	*	*	*	*	1803	*	*	*	1573	1911	*	*	*	30
+       0	*	*	*	*	*	*	3141	0	0	
+
+L 31   3832	*	*	2325	5222	*	*	1183	*	3830	*	*	*	4831	*	3794	4508	4595	*	*	31
+       0	*	*	*	*	*	*	3141	0	0	
+
+V 32   *	*	*	*	*	3449	*	2349	1765	4917	*	*	*	5481	*	*	3866	1767	*	*	32
+       554	*	1649	*	*	*	*	3141	0	0	
+
+G 33   *	*	*	*	*	182	*	*	*	*	*	*	*	*	*	3076	*	*	*	*	33
+       0	*	*	*	*	*	0	2342	0	1602	
+
+S 34   3506	*	*	*	5246	*	*	*	*	*	*	*	*	*	*	334	3438	*	*	*	34
+       0	*	*	*	*	0	*	2342	0	1602	
+
+I 35   *	*	*	*	*	*	*	943	*	5540	*	*	*	*	*	2398	4753	3106	3115	*	35
+       0	*	*	*	*	*	*	3054	0	0	
+
+T 36   *	*	*	*	2141	*	*	*	*	2744	5525	*	*	*	*	4529	1105	3411	*	*	36
+       0	*	*	*	*	*	*	3054	0	0	
+
+N 37   4529	*	*	*	*	3794	4747	*	4753	*	*	484	*	*	*	3793	*	5426	*	*	37
+       0	*	*	*	*	*	*	3054	0	0	
+
+T 38   *	*	*	*	*	*	*	2018	*	*	*	3794	*	*	5110	2447	1093	*	*	*	38
+       0	*	*	*	*	*	*	3054	0	0	
+
+N 39   3660	*	3362	3698	*	*	*	2693	*	*	*	1049	*	*	*	*	3205	*	*	*	39
+       0	*	*	*	*	*	*	3054	0	0	
+
+F 40   *	*	*	*	1298	*	5513	3698	*	*	*	*	3794	*	*	*	*	*	*	1244	40
+       0	*	*	*	*	*	*	3054	0	0	
+
+G 41   *	*	*	*	*	108	*	*	*	*	*	*	*	*	*	3799	*	*	*	*	41
+       0	*	*	*	*	*	*	3056	0	0	
+
+I 42   *	*	*	*	4764	*	2547	1702	*	*	*	*	*	*	2764	*	2939	2452	*	5360	42
+       0	*	*	*	*	*	*	3056	0	0	
+
+C 43   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	3056	0	0	
+
+H 44   3708	*	*	4149	5482	*	4396	*	2490	4081	*	4018	*	1671	3708	*	5726	3898	*	5504	44
+       0	*	*	*	*	*	*	3059	0	0	
+
+N 45   *	*	739	*	*	*	*	*	1802	*	*	5580	5103	*	*	3968	*	*	*	*	45
+       0	*	*	*	*	*	*	2859	0	0	
+
+V 46   3043	*	*	*	3309	*	*	1675	3574	*	3820	*	2520	*	*	*	*	2885	*	*	46
+       0	*	*	0	*	*	*	2639	0	0	
+
+//

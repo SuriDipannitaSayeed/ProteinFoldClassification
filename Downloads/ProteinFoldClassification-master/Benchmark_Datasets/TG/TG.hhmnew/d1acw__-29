@@ -1,0 +1,129 @@
+HHsearch 1.5
+NAME  914
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 21:51:50 2016
+LENG  29 match states, 29 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCHHHHCCCCCCCCCCCCEEECCCC
+>ss_conf PSIPRED confidence values
+96220344642365657352887620459
+>Consensus
+vgCeeCpxhCkxkxAxxxCdnxxCxCxxx
+>914
+VSCEDCPEHCSTQKAQAKCDNDKCVCEPI
+>sp|P86400|KAX86_MESEU Potassium channel toxin alpha-KTx 8.6 OS=Mesobuthus eupeus PE=1 SV=1
+VSCEDCPEHCATKDQRAKCDNDKCVCEPK
+>tr|A0A088D9T0|A0A088D9T0_MESEU Potassium channel blocker pMeKTx2-4 OS=Mesobuthus eupeus PE=2 SV=1
+LGCGdECRKYCKSKEAGSFCISGRCDCFG-
+>sp|Q9U8D1|KAX92_MESMA Potassium channel toxin alpha-KTx 9.2 OS=Mesobuthus martensii PE=1 SV=1
+VGCEECPMHCKGKNANPTCDDGVCNCNV-
+>tr|A0A088D9Q6|A0A088D9Q6_MESEU Potassium channel blocker pMeKTx2-3 OS=Mesobuthus eupeus PE=2 SV=1
+VGCEECPVYCKGKKALPTCDGGVCNCNA-
+>tr|F1CIV5|F1CIV5_HOTJU Gamma-buthitoxin-Hj1a OS=Hottentotta judaicus PE=2 SV=1
+VGCEDCPEHCSQQNARAKCENDKCVCEP-
+>tr|Q549D8|Q549D8_MESMA Putative apamin-sensitive potassium channel inhibitor OS=Mesobuthus martensii GN=Kk5 PE=2 SV=1
+ATCEDCPEHCATQNARAKCDNDKCVCEP-
+>sp|B3EWX9|KAX9B_MESGB Potassium channel toxin alpha-KTx 9.11 OS=Mesobuthus gibbosus PE=1 SV=1
+VGCEECPMHCKGKKALPTCDYG-CECND-
+>sp|P60209|KAX94_MESTA Potassium channel toxin alpha-KTx 9.4 OS=Mesobuthus tamulus PE=1 SV=1
+VGCAECPMHCKGKMAKPTCENEVCKCNI-
+>sp|P15230|SCX2_HOTTS Peptide 2 OS=Hottentotta tamulus sindicus PE=1 SV=1
+VGCEEDPMHCKGKQAKPTCCNGVCNCNV-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+V 1    3702	*	*	*	*	*	*	*	*	2471	*	*	*	*	*	*	*	429	*	*	1
+       0	*	*	*	*	*	*	2247	0	0	
+
+S 2    *	*	*	*	*	575	*	*	*	*	*	*	*	*	*	1989	3702	*	*	*	2
+       0	*	*	*	*	*	*	2247	0	0	
+
+C 3    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3
+       0	*	*	*	*	*	*	2247	0	0	
+
+E 4    3475	*	*	455	*	2471	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       287	2471	*	0	*	*	*	2247	1126	0	
+
+D 5    *	*	1351	718	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2247	0	0	
+
+C 6    *	124	3606	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	6
+       0	*	*	*	*	*	*	2247	0	0	
+
+P 7    *	*	*	*	*	*	*	*	*	*	*	*	287	*	2471	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2247	0	0	
+
+E 8    *	*	4070	1588	*	*	*	*	2471	*	1493	*	*	*	*	*	*	3787	*	*	8
+       0	*	*	*	*	*	*	2247	0	0	
+
+H 9    *	*	*	*	*	*	420	*	*	*	*	*	*	*	*	*	*	*	*	1984	9
+       0	*	*	*	*	*	*	2247	0	0	
+
+C 10   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	10
+       0	*	*	*	*	*	*	2247	0	0	
+
+S 11   2704	*	*	*	*	*	*	*	718	*	*	*	*	*	*	2067	*	*	*	*	11
+       0	*	*	*	*	*	*	2247	0	0	
+
+T 12   *	*	*	*	*	1226	*	*	*	*	*	*	*	3983	*	2471	1605	*	*	*	12
+       0	*	*	*	*	*	*	2247	0	0	
+
+Q 13   *	*	*	*	*	*	*	*	547	*	*	*	*	1664	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	2247	0	0	
+
+K 14   *	*	3707	2471	*	*	*	*	1677	*	3475	1953	*	3606	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2247	0	0	
+
+A 15   115	*	*	*	*	*	*	*	*	*	*	*	*	3707	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	2247	0	0	
+
+Q 16   *	*	*	*	*	2471	*	*	2539	2864	*	4006	*	4110	1581	*	*	4161	*	*	16
+       0	*	*	*	*	*	*	2247	0	0	
+
+A 17   1351	*	*	*	*	*	*	*	*	*	*	*	1226	*	*	2471	*	*	*	*	17
+       0	*	*	*	*	*	*	2247	0	0	
+
+K 18   *	*	*	*	2471	*	*	*	1351	*	*	*	*	*	*	*	1226	*	*	*	18
+       0	*	*	*	*	*	*	2247	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2247	0	0	
+
+D 20   *	3606	775	2707	*	*	*	2471	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2247	0	0	
+
+N 21   *	*	4006	*	*	3787	*	*	*	*	*	690	*	*	*	2471	*	*	*	3945	21
+       0	*	*	*	*	*	*	2247	0	0	
+
+D 22   *	*	1351	3475	*	949	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       97	*	3945	*	*	*	*	2247	0	0	
+
+K 23   *	*	*	*	*	*	*	*	1286	*	*	*	*	*	2413	*	*	1314	*	*	23
+       0	*	*	*	*	0	*	2233	0	1000	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2247	0	0	
+
+V 25   *	*	2471	3945	*	*	*	*	3475	*	*	1875	*	*	*	*	*	1351	*	*	25
+       0	*	*	*	*	*	*	2247	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	2247	0	0	
+
+E 27   *	*	*	1351	2471	*	*	*	*	*	*	1226	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2247	0	0	
+
+P 28   2962	*	3945	*	*	2471	*	3475	*	*	*	*	1581	*	*	4110	*	2792	*	*	28
+       0	*	*	*	*	*	*	2247	0	0	
+
+I 29   *	*	*	*	*	*	*	2034	967	*	*	*	*	*	*	*	*	2034	*	*	29
+       0	*	*	0	*	*	*	1190	0	0	
+
+//

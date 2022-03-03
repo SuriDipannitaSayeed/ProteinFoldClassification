@@ -1,0 +1,123 @@
+HHsearch 1.5
+NAME  2004
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 12:54:42 2016
+LENG  27 match states, 27 columns in multiple alignment
+FILT  26 out of 28 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.5 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCEEEEEEEC
+>ss_conf PSIPRED confidence values
+944778335689898646358989829
+>Consensus
+xCxxxgxxCxxxxxxCCsGxCxxxvCx
+>2004
+WCKQSGEMCNLLDQNCCDGYCIVLVCT
+>sp|P60179|CO66_CONAA Delta-conotoxin Am2766 OS=Conus amadis PE=1 SV=1
+-CKQAGESCDIFSQNCCVGTCAFI---
+>sp|P0CH13|CO7B_CONDE Conotoxin de7b OS=Conus delessertii PE=1 SV=1
+-CIPGGENCDVFRPyRCCSGYCILLLCA
+>sp|D2Y498|COG1D_CONCL Conotoxin Cal6.1d (Fragment) OS=Conus californicus PE=2 SV=1
+-CLAGSAPCEFHRGyTCCSGHCLIWVCA
+>tr|A0A0C3CIF3|A0A0C3CIF3_HEBCY Uncharacterized protein OS=Hebeloma cylindrosporum h7 GN=M413DRAFT_371265 PE=4 SV=1
+-CNPPGASCNIFDDVCCHGWCIP----
+>tr|A0A0K2S5X7|A0A0K2S5X7_CONEP Conotoxin Superfamily O1 OS=Conus episcopatus PE=2 SV=1
+-CRAENELCDIITQNCCGGMCFLI---
+>tr|A0A061QHJ6|A0A061QHJ6_9CAEN O1-conotoxin (Fragment) OS=Conus sanguinolentus PE=2 SV=1
+-CVDGGQFCGFPkiGGPCCSGWCFF-VC-
+>sp|D6C4L2|CM65_CONCL Conotoxin Cl6.5 OS=Conus californicus PE=3 SV=1
+-CIPDHHGCGLLhhSRYCCNGTCFF-VC-
+>sp|Q7Z028|CO16D_CONVX Conotoxin A11GB OS=Conus vexillum PE=3 SV=1
+-CQRANFVCDAFhhAAVCCEGVCVL-VC-
+>sp|D6C4L1|CU64_CONCL Conotoxin Cl6.4 OS=Conus californicus PE=3 SV=1
+YCVPKSGLCTIFQPgKCCSGWCLIYRCT
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+W 1    *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1000	1000	1
+       0	*	*	*	*	*	*	1629	0	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3744	0	0	
+
+K 3    5170	*	*	4160	*	*	*	1996	3255	2569	*	4362	*	3807	2631	*	*	3704	*	4871	3
+       0	*	*	*	*	*	*	3744	0	0	
+
+Q 4    1931	*	4094	3995	*	3925	*	*	*	*	*	*	1594	3255	3807	*	*	4531	*	*	4
+       0	*	*	*	*	*	*	3744	0	0	
+
+S 5    3011	*	2957	3377	*	1195	*	*	4256	*	*	*	3190	*	*	4261	*	*	*	*	5
+       0	*	*	*	*	*	*	3744	0	0	
+
+G 6    *	*	4797	4481	*	776	4380	*	*	*	*	3007	*	*	*	2620	*	*	*	*	6
+       0	*	*	*	*	*	*	3744	0	0	
+
+E 7    2938	*	3925	1745	3807	4256	4380	*	4578	*	3899	5063	*	3478	5264	*	4871	*	*	4481	7
+       0	*	*	*	*	*	*	3744	0	0	
+
+M 8    *	*	*	*	2418	3605	*	4531	*	2765	4261	4849	2179	*	5107	3304	*	3287	*	*	8
+       0	*	*	*	*	*	*	3744	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	3744	0	0	
+
+N 10   *	*	2024	2226	*	1534	*	*	*	*	*	3311	*	*	*	*	3408	*	*	*	10
+       50	*	4871	*	*	*	*	3744	0	0	
+
+L 11   3770	*	4548	*	1358	*	*	2239	*	3260	3693	*	*	*	*	*	4827	3941	*	*	11
+       0	*	*	*	*	*	0	3718	0	1000	
+
+L 12   *	*	*	*	1756	4763	2394	3552	*	2428	*	*	2649	*	*	4434	*	*	*	*	12
+       634	1492	*	932	1071	0	*	3718	1898	1000	
+
+D 13   3807	*	2810	*	4531	1977	*	*	4147	*	*	*	*	4256	2380	3313	4239	*	*	4870	13
+       322	2321	*	0	*	*	*	3744	1437	0	
+
+Q 14   3124	*	4362	4053	*	2725	*	*	*	4481	*	4871	1675	2665	3728	*	*	*	*	*	14
+       516	1733	*	0	*	*	*	3744	1825	0	
+
+N 15   4578	*	*	*	*	*	*	*	4256	3630	4735	2665	3209	3691	3859	*	2504	3058	*	3661	15
+       0	*	*	*	*	*	*	3744	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	3744	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	3744	0	0	
+
+D 18   *	*	3390	3807	*	4239	4362	*	*	*	*	4380	*	*	*	664	*	4249	*	*	18
+       0	*	*	*	*	*	*	3744	0	0	
+
+G 19   *	*	*	3762	*	110	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	3744	0	0	
+
+Y 20   *	*	*	*	*	*	2442	4578	*	*	4239	*	*	*	*	*	3313	3807	1209	3101	20
+       0	*	*	*	*	*	*	3744	0	0	
+
+C 21   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	21
+       0	*	*	*	*	*	*	3744	0	0	
+
+I 22   4249	*	*	*	1592	*	*	1482	*	2425	*	*	*	*	*	*	*	3807	*	*	22
+       0	*	*	*	*	*	*	3744	0	0	
+
+V 23   5009	*	*	*	1484	3785	*	2004	*	2652	*	*	4362	*	*	*	*	3611	*	*	23
+       1053	*	949	*	*	*	*	3744	0	0	
+
+L 24   *	*	*	*	2370	*	*	2033	*	2334	*	*	*	*	*	*	*	*	2027	3078	24
+       0	*	*	*	*	0	*	2747	0	2185	
+
+V 25   4563	*	*	*	*	*	*	4243	*	4404	*	*	*	*	3911	*	*	470	3853	*	25
+       0	*	*	*	*	*	*	3311	0	0	
+
+C 26   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	26
+       0	*	*	*	*	*	*	3311	0	0	
+
+T 27   609	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1539	*	*	*	27
+       0	*	*	0	*	*	*	2280	0	0	
+
+//

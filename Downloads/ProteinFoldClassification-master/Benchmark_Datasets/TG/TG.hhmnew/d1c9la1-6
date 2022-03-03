@@ -1,0 +1,129 @@
+HHsearch 1.5
+NAME  127
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 21:15:04 2016
+LENG  29 match states, 29 columns in multiple alignment
+FILT  46 out of 48 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.9 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCHHHHHHHCCCCHHHHHHHHHHCCCCC
+>ss_conf PSIPRED confidence values
+95345788816488999999999748998
+>Consensus
+exxivpYIxxxlxnxxLAxklAxrxxLpG
+>127
+EENIIPYITNVLQNPDLALRMAVRNNLAG
+>tr|A0A061FKZ5|A0A061FKZ5_THECC Clathrin heavy chain OS=Theobroma cacao GN=TCM_042478 PE=3 SV=1
+DATIVPFVSGQLNNLELAVNLAKRGNLPG
+>tr|L8GHN7|L8GHN7_ACACA Uncharacterized protein OS=Acanthamoeba castellanii str. Neff GN=ACA1_261040 PE=4 SV=1
+EDAIVSYIALKLDKPRLASRFAARNGWAL
+>tr|A0A086JFY9|A0A086JFY9_TOXGO Chain i, clathrin d6 coat with auxilin j-domain (Fragment) OS=Toxoplasma gondii p89 GN=TGP89_290950A PE=4 SV=1
+LQALIPYINQALVyvpnRQQIATSLAKRYGLPG
+>tr|A2EV08|A2EV08_TRIVA Clathrin and VPS domain-containing protein OS=Trichomonas vaginalis GN=TVAG_369030 PE=4 SV=1
+NDSIVDYISQRS-SPQVAAKVAANAGIHM
+>tr|A0A0C2N4M4|A0A0C2N4M4_THEKT Clathrin heavy chain 1 OS=Thelohanellus kitauei GN=RF11_03766 PE=4 SV=1
+KDNIIPYLFSID-KNVAAFQVSYLSGYPG
+>tr|H1VU93|H1VU93_COLHI Clathrin heavy chain 1 (Fragment) OS=Colletotrichum higginsianum (strain IMI 349063) GN=CH063_13403 PE=4 SV=1
+DSNVIPYLLQNPANTDMAIKMASRAGLPG
+>tr|A0A0P6B3Q9|A0A0P6B3Q9_9CRUS Uncharacterized protein (Fragment) OS=Daphnia magna PE=4 SV=1
+KAKLVPYVVNTLRDSQLALTLATRLDLPG
+>tr|X6LSS3|X6LSS3_RETFI Clathrin heavy chain (Fragment) OS=Reticulomyxa filosa GN=RFI_32994 PE=4 SV=1
+EKNFVNYVTEVVGDAELGEKFAEL-GFFG
+>tr|G0QMD9|G0QMD9_ICHMG Clathrin heavy chain, putative OS=Ichthyophthirius multifiliis (strain G5) GN=IMG5_047880 PE=4 SV=1
+QNSFLNYLMNNCQQipnvVQLAFKLAGRYRLPG
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	3141	806	*	5850	*	*	3496	4503	*	3836	5444	3807	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	3854	0	0	
+
+E 2    2902	*	1907	2944	*	*	*	*	3816	*	*	2754	*	2977	*	3020	*	*	*	*	2
+       0	*	*	*	*	*	*	3910	0	0	
+
+N 3    2860	*	*	*	*	5289	*	*	3683	*	*	1665	*	4772	*	2808	1922	*	*	*	3
+       0	*	*	*	*	*	*	3910	0	0	
+
+I 4    *	*	*	*	3078	*	*	739	*	2706	4599	*	*	*	*	*	*	3506	*	*	4
+       0	*	*	*	*	*	*	3910	0	0	
+
+I 5    *	*	*	5073	*	*	*	1193	*	4399	*	*	*	*	*	*	*	1042	*	*	5
+       0	*	*	*	*	*	*	3910	0	0	
+
+P 6    *	*	3851	*	*	*	*	*	*	*	*	2378	732	4579	*	3406	*	*	*	*	6
+       0	*	*	*	*	*	*	3910	0	0	
+
+Y 7    *	*	*	*	2408	*	5166	*	*	*	*	*	*	*	*	*	*	*	*	351	7
+       0	*	*	*	*	*	*	3910	0	0	
+
+I 8    4689	*	*	*	*	*	*	771	*	2456	*	*	*	*	*	*	*	2374	*	*	8
+       0	*	*	*	*	*	*	3910	0	0	
+
+T 9    3850	5392	*	*	4049	*	*	4338	4050	2125	4399	4221	*	*	*	2529	2385	4590	*	*	9
+       0	*	*	*	*	*	*	3910	0	0	
+
+N 10   *	*	5289	3947	*	2995	*	*	5392	4381	*	1869	*	2293	6257	3089	3265	*	*	*	10
+       32	*	5532	*	*	*	*	3910	0	0	
+
+V 11   3694	*	*	*	*	*	*	4026	4374	*	*	2866	*	2390	3451	4949	2393	2549	*	*	11
+       0	*	*	*	*	0	*	3899	0	1000	
+
+L 12   *	4399	4049	*	*	*	*	5532	*	681	4065	*	3748	*	*	3851	*	4529	*	*	12
+       200	*	2947	*	*	*	*	3910	0	0	
+
+Q 13   3495	*	3279	*	*	3151	*	*	4901	*	*	2359	*	1859	3091	5289	*	4357	*	*	13
+       72	4357	*	2000	415	0	*	3514	1064	1372	
+
+N 14   *	*	2392	*	*	*	*	*	3200	*	*	882	*	4396	4620	3837	*	*	*	*	14
+       70	4396	*	2251	340	*	*	3908	1142	0	
+
+P 15   4503	*	*	*	5384	*	*	*	*	3869	*	4047	1283	4103	*	2836	3003	3858	*	*	15
+       0	*	*	*	*	*	*	3908	0	0	
+
+D 16   5958	*	2093	1704	*	5930	*	*	5716	*	*	*	*	1932	4371	4780	*	4047	*	*	16
+       0	*	*	*	*	*	*	3908	0	0	
+
+L 17   4047	*	*	*	*	*	*	4620	*	337	4758	*	*	*	*	*	*	3837	*	*	17
+       0	*	*	*	*	*	*	3908	0	0	
+
+A 18   138	*	*	*	*	3458	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	3910	0	0	
+
+L 19   3851	*	*	3816	2244	*	*	3915	*	1508	5166	*	*	*	*	4381	4623	3131	*	*	19
+       0	*	*	*	*	*	*	3910	0	0	
+
+R 20   4161	*	*	*	*	*	*	*	1132	*	*	5288	*	3654	1859	3562	5475	*	*	*	20
+       0	*	*	*	*	*	*	3910	0	0	
+
+M 21   *	*	*	*	2905	*	*	3113	*	1187	3014	*	*	*	*	*	*	2412	*	*	21
+       0	*	*	*	*	*	*	3910	0	0	
+
+A 22   159	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3262	*	*	*	*	22
+       0	*	*	*	*	*	*	3910	0	0	
+
+V 23   2511	*	*	3816	*	3885	*	*	3453	*	*	*	*	5550	5866	1620	4101	3157	*	4049	23
+       0	*	*	*	*	*	*	3910	0	0	
+
+R 24   *	*	*	*	*	*	*	*	5537	2928	*	3851	*	*	450	4447	*	*	*	*	24
+       106	*	3816	*	*	*	*	3910	0	0	
+
+N 25   2003	2796	*	*	*	2914	*	*	*	4531	4715	2818	*	*	*	3064	5702	5890	*	3394	25
+       0	*	*	*	*	0	*	3752	0	1175	
+
+N 26   *	*	3223	*	*	1255	*	*	*	*	*	1317	*	*	4399	5318	*	*	*	*	26
+       0	*	*	*	*	*	*	3910	0	0	
+
+L 27   *	*	*	*	4149	*	*	3851	*	385	*	*	*	*	*	*	*	*	4381	4049	27
+       0	*	*	*	*	*	*	3910	0	0	
+
+A 28   3040	*	*	*	4077	4337	3815	*	*	5352	*	*	647	*	*	5969	*	5658	*	*	28
+       0	*	*	*	*	*	*	3906	0	0	
+
+G 29   4977	*	*	*	*	248	*	*	*	4186	3815	*	*	*	*	*	*	*	*	*	29
+       0	*	*	0	*	*	*	3906	0	0	
+
+//

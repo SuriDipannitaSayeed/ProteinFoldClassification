@@ -1,0 +1,216 @@
+HHsearch 1.5
+NAME  2546
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 13:13:03 2016
+LENG  58 match states, 58 columns in multiple alignment
+FILT  10 out of 12 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  1.9 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCEEEECCCCCCEEEEEEEEECCCCCCEEEEEECCCCCCEEEEEHHHHEECC
+>ss_conf PSIPRED confidence values
+9623567444430577202269889855777641688723789828996568720049
+>Consensus
+xxxFxxGDxvxKxxgaxWxGxvVGxYsTxlTpeGYAVeSxxxxgSVQIYPxxAlexxx
+>2546
+NATFGMGDRVRKKSGAAWQGQIVGWYCTNLTPEGYAVESEAHPGSVQIYPVAALERIN
+>tr|R4UB13|R4UB13_ENTCL DfrB-like protein OS=Enterobacter cloacae PE=4 SV=1
+QPTFGLGDRVRKKSGAAWQGKVVGWYCTKLTPEGYAVESEAHPGSVQIYPVAALERVA
+>tr|A0A0A0YXC7|A0A0A0YXC7_9BURK Dihydrofolate reductase OS=Acidovorax temperans GN=dfrB4 PE=4 SV=1
+NATFALGDRVRKKSGAAWQGRIVGWYCTTLTPEGYAVESESHPGSVQIYPMTALERVA
+>tr|A0A0F6R7A8|A0A0F6R7A8_9CAUD Uncharacterized protein OS=Sinorhizobium phage phiM9 GN=Sm_phiM9_002 PE=4 SV=1
+-GRFGFGERVTKTKGSSWTGRVVGFYSTELTPIGYAVESETEKGSVQIYPEAALTA--
+>tr|A0A0Q7J659|A0A0Q7J659_9RHIZ Uncharacterized protein OS=Ensifer sp. Root1298 GN=ASD49_23590 PE=4 SV=1
+-AAFQMGDYAAKKGRASWRGKIVGWYRTDLTSLGYAIESHFEPGSVQIYPETAIEA--
+>tr|H5WLJ1|H5WLJ1_9BURK R67 dihydrofolate reductase OS=Burkholderiales bacterium JOSHI_001 GN=BurJ1DRAFT_1864 PE=4 SV=1
+-KTFRMGDKVRKVRGSQWHGRVVGWYSTDLTPEGYAVESDTERGSVQIYPASALEREA
+>tr|A0A0J7Y2N3|A0A0J7Y2N3_9SPHN Dihydrofolate reductase OS=Sphingobium czechense LL01 GN=V473_07230 PE=4 SV=1
+-CAFNRGDHVEKISGSKWRGVVVGEYSTSLTPEGYAVESDTETGSVQIYPAKALRS--
+>tr|A0A0N7CEH1|A0A0N7CEH1_9VIRU Uncharacterized protein OS=Skermania phage SPI1 GN=SPI1_66 PE=4 SV=1
+-ATFQRGDRVRKRtasadiaRAAHWRGVVVGEYSTPVTSEGYAVMSTDPGslYSVQVYPVGALEA--
+>tr|A0A0H5ARK7|A0A0H5ARK7_9CAUD Dehydrofolate reductase OS=Pseudomonas phage PS-1 PE=4 SV=1
+QGKFRMGDIVKKSTGSEWEGRVVGWYSTEQTKEGYAVESEAHAGSVQIYPAK------
+>tr|A0A087N9R8|A0A087N9R8_9SPHN Uncharacterized protein OS=Sphingobium sp. ba1 GN=IL54_1282 PE=4 SV=1
+-GKFQRGDHVEKVSGSNWRGKVVGEYSTDLTPEGYAVESDTETGSVQIYPAKALR---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+N 1    *	*	*	*	*	*	*	*	*	*	*	1115	*	893	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1378	0	0	
+
+A 2    1191	3441	*	*	*	1735	*	*	3481	*	*	*	3648	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	1932	0	0	
+
+T 3    2137	*	*	*	*	*	*	*	2455	*	*	*	*	*	3081	*	1082	*	*	*	3
+       0	*	*	*	*	*	*	1932	0	0	
+
+F 4    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	1932	0	0	
+
+G 5    3522	*	*	*	*	1844	*	*	*	*	*	3441	*	1500	2405	*	*	*	*	*	5
+       0	*	*	*	*	*	*	1932	0	0	
+
+M 6    *	*	*	*	3081	*	*	*	*	2584	1305	*	*	*	1688	*	*	*	*	*	6
+       0	*	*	*	*	*	*	1932	0	0	
+
+G 7    *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	1932	0	0	
+
+D 8    *	*	181	3081	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	1932	0	0	
+
+R 9    *	*	*	*	*	*	2513	3333	3481	*	*	*	*	*	998	*	*	*	*	2887	9
+       0	*	*	*	*	*	*	1932	0	0	
+
+V 10   2887	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	210	*	*	10
+       0	*	*	*	*	*	*	1932	0	0	
+
+R 11   2887	*	*	2513	*	*	*	*	3333	*	*	*	*	*	1082	*	3081	*	*	*	11
+       0	*	*	*	*	*	*	1932	0	0	
+
+K 12   *	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	1932	0	0	
+
+K 13   *	*	*	*	*	*	*	3441	1386	*	*	*	*	*	2887	3333	3081	2534	*	*	13
+       210	2887	*	2807	222	*	*	1932	1027	0	
+
+S 14   *	*	*	*	*	2887	*	*	3081	*	*	*	*	*	2154	1242	3333	*	*	*	14
+       0	*	*	*	*	*	*	1932	0	0	
+
+G 15   2887	*	*	*	*	455	*	*	*	*	*	*	*	*	2887	*	*	*	*	*	15
+       0	*	*	*	*	*	*	1932	0	0	
+
+A 16   949	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1053	*	*	*	*	16
+       0	*	*	*	*	*	*	1932	0	0	
+
+A 17   2014	*	*	3333	*	*	2887	*	3441	*	*	3590	*	3481	*	1981	*	*	*	*	17
+       0	*	*	*	*	*	*	1932	0	0	
+
+W 18   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	18
+       0	*	*	*	*	*	*	1932	0	0	
+
+Q 19   *	*	*	3333	*	*	3481	*	*	*	*	*	*	2014	1166	*	3081	*	*	*	19
+       0	*	*	*	*	*	*	1932	0	0	
+
+G 20   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	1932	0	0	
+
+Q 21   *	*	*	*	*	*	*	*	1746	*	*	*	*	3631	1344	*	*	2138	*	*	21
+       0	*	*	*	*	*	*	1932	0	0	
+
+I 22   *	*	*	*	*	*	*	1723	*	*	*	*	*	*	*	*	*	521	*	*	22
+       0	*	*	*	*	*	*	1932	0	0	
+
+V 23   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	23
+       0	*	*	*	*	*	*	1932	0	0	
+
+G 24   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	1932	0	0	
+
+W 25   *	*	*	1688	3081	*	*	*	*	*	*	*	*	*	*	*	*	*	807	*	25
+       0	*	*	*	*	*	*	1932	0	0	
+
+Y 26   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	26
+       0	*	*	*	*	*	*	1932	0	0	
+
+C 27   *	2014	*	*	*	*	*	*	*	*	*	*	*	*	2887	696	*	*	*	*	27
+       0	*	*	*	*	*	*	1932	0	0	
+
+T 28   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	28
+       0	*	*	*	*	*	*	1932	0	0	
+
+N 29   *	*	1700	2202	*	*	*	*	3648	*	*	3631	2887	*	*	3441	3522	*	*	*	29
+       0	*	*	*	*	*	*	1932	0	0	
+
+L 30   *	*	*	*	*	*	*	*	*	385	*	*	*	3333	*	*	*	2887	*	*	30
+       0	*	*	*	*	*	*	1932	0	0	
+
+T 31   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	31
+       0	*	*	*	*	*	*	1932	0	0	
+
+P 32   *	*	*	*	*	*	*	*	3333	*	*	*	666	*	*	1887	*	*	*	*	32
+       0	*	*	*	*	*	*	1932	0	0	
+
+E 33   *	*	*	421	*	*	*	3081	*	2887	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	1932	0	0	
+
+G 34   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	1932	0	0	
+
+Y 35   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	35
+       0	*	*	*	*	*	*	1932	0	0	
+
+A 36   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	1932	0	0	
+
+V 37   *	*	*	*	*	*	*	2887	*	*	*	*	*	*	*	*	*	210	*	*	37
+       0	*	*	*	*	*	*	1932	0	0	
+
+E 38   *	*	*	210	*	*	*	*	*	*	2887	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	1932	0	0	
+
+S 39   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	39
+       0	*	*	*	*	*	*	1932	0	0	
+
+E 40   *	*	1918	1105	*	*	2887	*	*	*	*	*	*	*	*	*	2887	*	*	*	40
+       0	*	*	*	*	*	*	1932	0	0	
+
+A 41   1945	*	2887	*	2887	*	*	*	*	*	*	*	*	*	*	3522	1385	*	*	*	41
+       0	*	*	*	*	*	*	1932	0	0	
+
+H 42   *	*	*	949	*	*	1528	*	*	*	*	*	2887	*	*	*	*	*	*	*	42
+       0	*	*	*	*	*	*	1932	0	0	
+
+P 43   3333	*	*	*	*	2887	*	*	3081	*	*	*	1386	*	3481	*	2513	*	*	*	43
+       210	2887	*	1000	1000	*	*	1932	1027	0	
+
+G 44   *	*	*	*	*	210	*	*	*	*	*	*	*	*	*	*	*	*	*	2887	44
+       0	*	*	*	*	*	*	1932	0	0	
+
+S 45   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	45
+       0	*	*	*	*	*	*	1932	0	0	
+
+V 46   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	46
+       0	*	*	*	*	*	*	1932	0	0	
+
+Q 47   *	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	47
+       0	*	*	*	*	*	*	1932	0	0	
+
+I 48   *	*	*	*	*	*	*	210	*	*	*	*	*	*	*	*	*	2887	*	*	48
+       0	*	*	*	*	*	*	1932	0	0	
+
+Y 49   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	49
+       0	*	*	*	*	*	*	1932	0	0	
+
+P 50   *	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	50
+       0	*	*	*	*	*	*	1932	0	0	
+
+V 51   1458	*	*	1981	*	*	*	*	*	*	3522	*	*	*	*	*	*	1758	*	*	51
+       0	*	*	*	*	*	*	1932	0	0	
+
+A 52   1844	*	*	*	*	2887	*	*	1866	*	*	*	*	*	*	3481	2170	*	*	*	52
+       0	*	*	*	*	*	*	1932	0	0	
+
+A 53   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	53
+       0	*	*	*	*	*	*	1876	0	0	
+
+L 54   *	*	*	*	*	*	*	2779	*	227	*	*	*	*	*	*	*	*	*	*	54
+       0	*	*	*	*	*	*	1876	0	0	
+
+E 55   *	*	*	578	*	*	*	*	*	*	*	*	*	*	2333	*	2927	*	*	*	55
+       0	*	*	*	*	*	*	1876	0	0	
+
+R 56   1137	*	*	*	*	*	*	*	*	*	*	*	*	*	1274	2922	*	*	*	*	56
+       0	*	*	*	*	*	*	1885	0	0	
+
+I 57   *	*	*	1738	*	*	*	2087	*	*	*	*	*	*	*	*	*	1105	*	*	57
+       0	*	*	*	*	*	*	1342	0	0	
+
+N 58   387	*	*	*	*	*	*	*	*	*	*	2087	*	*	*	*	*	*	*	*	58
+       0	*	*	0	*	*	*	1342	0	0	
+
+//

@@ -1,0 +1,123 @@
+HHsearch 1.5
+NAME  2005
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 12:54:42 2016
+LENG  27 match states, 27 columns in multiple alignment
+FILT  12 out of 14 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  3.8 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCEEECCEEEECC
+>ss_conf PSIPRED confidence values
+955523255889877728020247468
+>Consensus
+sCxxxCxxxsdCpsxCxcxxxxCxxxx
+>2005
+SCNNSCQSHSDCASHCICTFRGCGAVN
+>sp|Q8I6V7|CP91_CONRE Conotoxin Rg9.1 OS=Conus regius PE=2 SV=1
+FCGQACSS-VKCPKKCFCHPEekVCYREM
+>tr|F5C3U2|F5C3U2_CONIM Conotoxin Im9.12 OS=Conus imperialis PE=2 SV=1
+NCEAHSCS-PSCPDECYCDTNedTCHPER
+>tr|W4VSF3|W4VSF3_CONVC P_Vc14.5 prepropeptide OS=Conus victoriae PE=2 SV=1
+PRFESCQQDSDCDFQFFCWNNECHRII
+>tr|W4VS39|W4VS39_CONVC P_Vc9.1 prepropeptide OS=Conus victoriae PE=2 SV=1
+TCHKPCQRHSECASHCICLIDTCDDAG
+>tr|A0A0K8TUR6|A0A0K8TUR6_9CAEN Conopeptide OS=Conus lenavati PE=4 SV=1
+SCSGNCAIASDCDTGCTCSQDAYCVD-
+>tr|A0A0P0CMS1|A0A0P0CMS1_CONAA Conotoxin (Fragment) OS=Conus amadis PE=2 SV=1
+SCNNSCQQHSQCASHCVCLLNKCRTVN
+>tr|A0A0K8TU73|A0A0K8TU73_9CAEN Conopeptide OS=Conus lenavati PE=4 SV=1
+SCGEDCYNDGDCPSSCSTCTSnlsKCM---
+>tr|A0A061QFN8|A0A061QFN8_CONLI P-conotoxin (Fragment) OS=Conus lividus PE=2 SV=1
+SCGKDCWGNADCPKNCPYCVTnlsQCHVMV
+>tr|A0A0C9SEL4|A0A0C9SEL4_9CAEN Ctr_10_TN conopeptide OS=Conus tribblei PE=4 SV=1
+SCGDTCSSSSQCPSSCPYCTSntsICM---
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+S 1    *	*	*	*	3371	3920	*	*	*	*	*	3087	3047	*	*	952	3615	*	*	*	1
+       0	*	*	*	*	*	*	3893	0	0	
+
+C 2    *	186	*	*	*	*	*	*	*	*	*	*	*	*	3047	*	*	*	*	*	2
+       0	*	*	*	*	*	*	3893	0	0	
+
+N 3    *	*	*	3087	3047	1396	3615	*	*	*	*	2512	*	*	*	3008	*	*	*	*	3
+       0	*	*	*	*	*	*	3893	0	0	
+
+N 4    3087	*	3806	1995	*	3008	*	*	2611	*	*	2512	*	3371	*	*	*	*	*	*	4
+       0	*	*	*	*	*	*	3893	0	0	
+
+S 5    3371	*	2239	*	*	*	3087	*	*	*	*	3008	3615	*	*	1755	3806	*	*	*	5
+       0	*	*	*	*	*	*	3893	0	0	
+
+C 6    *	181	*	*	*	*	*	*	*	*	*	*	*	*	*	3087	*	*	*	*	6
+       0	*	*	*	*	*	*	3893	0	0	
+
+Q 7    3008	3087	*	*	*	3911	*	*	*	*	*	*	*	1404	*	2572	*	*	3607	3980	7
+       0	*	*	*	*	*	*	3893	0	0	
+
+S 8    *	*	*	3920	*	2751	*	3008	*	*	*	3980	*	2462	3615	1580	*	*	*	*	8
+       348	*	2222	*	*	*	*	3893	0	0	
+
+H 9    2750	*	2131	*	*	*	1589	*	*	*	*	2363	*	*	*	3375	*	*	*	*	9
+       0	*	*	*	*	0	*	3313	0	1451	
+
+S 10   3607	*	*	*	*	2945	*	*	*	*	*	*	3087	*	*	802	*	3371	*	*	10
+       0	*	*	*	*	*	*	3893	0	0	
+
+D 11   *	*	806	3615	*	*	*	*	3371	*	*	*	*	2921	*	3087	*	*	*	*	11
+       0	*	*	*	*	*	*	3893	0	0	
+
+C 12   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	3893	0	0	
+
+A 13   2389	*	2027	3920	*	*	*	*	*	*	*	*	1006	*	*	*	*	*	*	*	13
+       0	*	*	*	*	*	*	3893	0	0	
+
+S 14   *	*	3087	*	3047	*	*	*	2484	*	*	*	*	*	*	1126	3008	*	*	*	14
+       0	*	*	*	*	*	*	3893	0	0	
+
+H 15   *	*	*	3087	*	3008	1961	*	3371	*	*	3607	*	3047	*	2312	*	*	*	*	15
+       0	*	*	*	*	*	*	3893	0	0	
+
+C 16   *	186	*	*	3047	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	3893	0	0	
+
+I 17   *	*	*	*	2200	*	*	2348	*	*	*	*	2703	*	*	2945	3008	4046	*	3087	17
+       0	*	*	*	*	*	*	3893	0	0	
+
+C 18   *	481	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2945	*	*	2703	18
+       0	*	*	*	*	*	*	3893	0	0	
+
+T 19   *	1819	3087	*	*	*	3371	*	*	2814	*	*	*	*	*	3008	3124	*	3047	*	19
+       0	*	*	*	*	*	*	3893	0	0	
+
+F 20   3911	*	*	*	3124	*	*	3615	*	4046	*	3047	3371	3008	*	*	1985	3607	*	*	20
+       0	*	*	*	*	*	*	3893	0	0	
+
+R 21   *	*	2279	3371	*	*	*	*	*	*	*	1741	*	*	3124	2890	3607	3911	*	*	21
+       994	1006	*	1353	716	*	*	3893	2293	0	
+
+G 22   3008	*	*	3047	*	3124	*	3806	2393	*	*	*	*	3607	*	*	2327	3371	*	*	22
+       0	*	*	*	*	*	*	3893	0	0	
+
+C 23   *	192	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	3008	23
+       0	*	*	*	*	*	*	3893	0	0	
+
+G 24   *	3008	3615	*	*	3124	1641	*	*	*	2312	*	*	*	4046	*	*	*	*	3371	24
+       0	*	*	*	*	*	*	3893	0	0	
+
+A 25   2839	*	3313	*	*	*	*	*	*	*	*	*	2868	*	1947	*	3575	1840	*	*	25
+       0	*	*	*	*	*	*	3740	0	0	
+
+V 26   3313	*	2818	1967	*	*	*	2831	*	*	2862	*	*	*	*	*	*	2160	*	*	26
+       0	*	*	*	*	*	*	3740	0	0	
+
+N 27   *	*	*	*	*	3036	*	2600	*	*	2866	1953	*	*	2688	*	*	2621	*	*	27
+       0	*	*	0	*	*	*	3433	0	0	
+
+//

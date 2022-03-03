@@ -1,0 +1,127 @@
+HHsearch 1.5
+NAME  3382
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 14:01:31 2016
+LENG  29 match states, 29 columns in multiple alignment
+FILT  71 out of 73 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.5 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCCCCCCCCCCCCCEEECC
+>ss_conf PSIPRED confidence values
+93453465788847163973042251029
+>Consensus
+xCxgxxxxCxxxxxCCxgxvCsxwCkxxx
+>3382
+YCQKWMWTCDSARKCCEGLVCRLWCKKII
+>sp|P58427|TXHP3_HETVE Kappa-sparatoxin-Hv1c OS=Heteropoda venatoria PE=1 SV=1
+-CGTLFSGCSTHADCCEGFICKLWCRYE-
+>sp|P83745|TX1_THEBL Kappa-theraphotoxin-Tb1a OS=Theraphosa blondi PE=1 SV=1
+-CLGMFESCDPNnDKCCPNRECNrkhKWCKYKL
+>tr|A0A088BPA4|A0A088BPA4_HETVE Secretory peptide OS=Heteropoda venatoria PE=2 SV=1
+DCRGDDDRCETHDDCCISYLCYK------
+>tr|A0A088BP58|A0A088BP58_HETVE Secretory peptide OS=Heteropoda venatoria PE=2 SV=1
+GCGYAYYECKRDNQCCPTYECYK------
+>sp|Q75WH5|TXMG8_MACGS U9-hexatoxin-Mg1a OS=Macrothele gigas PE=1 SV=1
+DCKGLFRQCKKSSECCKGSSCeSdltGLCIFN-
+>sp|B1P1F0|JZT24_CHIGU U15-theraphotoxin-Cg1a OS=Chilobrachys guangxiensis PE=1 SV=1
+VCRGYGLPCTPEkNDCCQRLYCSqhRLCSVK-
+>sp|B1P1C9|JZ13A_CHIGU U10-theraphotoxin-Cg1a 1 OS=Chilobrachys guangxiensis PE=1 SV=1
+QCGEFMWKCGAGkPTCCSGYDCSptwKWCVLK-
+>sp|P61789|TX5A_HETVE Omega-sparatoxin-Hv1a OS=Heteropoda venatoria PE=1 SV=1
+DCGWIMDDCTSDSDCCPNWVCSktgfvkNICKYEM
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Y 1    4574	*	1572	2605	*	2593	*	*	*	*	*	*	*	5581	*	5921	4458	5015	*	2491	1
+       0	*	*	*	*	*	*	4732	0	0	
+
+C 2    *	59	*	*	*	4637	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	4636	0	0	
+
+Q 3    4091	*	*	*	*	1591	4305	*	3165	2228	*	*	*	2897	3697	*	*	*	*	5469	3
+       0	*	*	*	*	*	*	4636	0	0	
+
+K 4    *	*	5469	4243	*	1011	*	*	2784	6064	*	*	*	3545	*	*	3923	5841	4361	4309	4
+       0	*	*	*	*	*	*	4636	0	0	
+
+W 5    5414	*	4513	*	1873	*	*	3895	4033	2063	5067	*	5841	5973	*	5212	*	6324	3235	3586	5
+       0	*	*	*	*	*	*	4636	0	0	
+
+M 6    *	*	5203	*	1755	2974	*	*	5909	3598	2026	*	*	5768	*	*	*	*	3741	3165	6
+       113	*	3731	*	*	*	*	4636	0	0	
+
+W 7    4324	*	3415	4511	*	3753	4033	*	3464	5197	*	4392	*	5657	3717	3590	5995	4989	1937	5351	7
+       0	*	*	*	*	*	0	4530	0	1213	
+
+T 8    4003	*	4954	3474	*	3000	*	5678	2422	4796	*	*	5197	5461	4431	2607	2977	*	4040	*	8
+       0	*	*	*	*	0	*	4530	0	1213	
+
+C 9    *	87	*	*	*	*	*	*	*	*	*	*	*	*	4091	*	*	*	*	*	9
+       0	*	*	*	*	*	*	4636	0	0	
+
+D 10   *	*	2089	3089	*	4224	6230	6512	2734	*	*	2942	*	5730	5719	2860	3295	6406	*	*	10
+       0	*	*	*	*	*	*	4636	0	0	
+
+S 11   5264	4091	5956	4312	*	3465	*	*	4641	*	*	6492	1928	*	3978	2344	2924	*	*	4261	11
+       100	4305	5909	0	*	*	*	4636	1120	0	
+
+A 12   6480	*	1848	3393	*	2807	3581	*	2532	*	5732	3758	*	*	6047	3202	*	*	*	*	12
+       885	1125	*	0	*	0	*	4632	2884	1007	
+
+R 13   3112	*	2140	*	*	*	*	4997	2793	*	4720	3053	3903	*	3255	3425	4646	*	5730	*	13
+       0	*	*	*	*	*	*	4636	0	0	
+
+K 14   5363	*	1944	3147	4646	5909	*	*	1731	4091	*	4637	4000	4245	*	*	5013	*	*	*	14
+       0	*	*	*	*	*	*	4636	0	0	
+
+C 15   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	15
+       0	*	*	*	*	*	*	4636	0	0	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	4636	0	0	
+
+E 17   5274	*	*	2037	*	6030	*	5203	2653	*	*	*	2658	3150	4736	2182	*	*	*	*	17
+       113	3729	*	587	1581	*	*	4636	1330	0	
+
+G 18   *	*	3852	*	*	1038	*	*	4849	*	*	1748	*	*	5345	3984	5414	*	*	*	18
+       0	*	*	*	*	*	*	4636	0	0	
+
+L 19   *	4753	*	*	3838	*	5519	*	*	2053	3376	*	*	*	4088	5523	*	*	4122	1337	19
+       0	*	*	*	*	*	*	4636	0	0	
+
+V 20   3122	*	6073	3456	*	6482	*	4227	3759	5203	5956	4646	*	*	6352	5523	6629	1101	*	4406	20
+       0	*	*	*	*	*	*	4636	0	0	
+
+C 21   *	145	*	*	*	*	*	*	*	*	*	*	*	4753	4091	*	*	*	*	*	21
+       32	5523	*	0	*	*	*	4636	1033	0	
+
+R 22   5984	*	*	4749	*	4909	6322	*	3265	*	*	3951	*	6396	3684	986	5096	*	*	3199	22
+       1249	788	*	1657	550	*	*	4636	3278	0	
+
+L 23   *	*	*	*	*	3089	*	*	1223	2237	*	5191	4784	6323	3951	5027	*	4749	*	4911	23
+       0	*	*	*	*	*	*	4629	0	0	
+
+W 24   *	*	*	*	*	*	*	4947	*	2681	*	*	*	*	*	*	*	*	301	*	24
+       0	*	*	*	*	*	*	3997	0	0	
+
+C 25   *	45	*	*	*	*	*	*	*	*	*	*	*	*	*	5020	*	*	*	*	25
+       0	*	*	*	*	*	*	3997	0	0	
+
+K 26   5596	*	*	5841	*	*	*	3262	916	*	*	4723	*	*	3958	4710	*	2417	*	*	26
+       0	*	*	*	*	*	*	3997	0	0	
+
+K 27   *	*	*	*	3571	6063	*	5447	3170	2543	*	*	5481	*	*	*	*	3404	3736	1310	27
+       0	*	*	*	*	*	*	3998	0	0	
+
+I 28   3846	*	3927	3016	*	6250	4561	4995	2144	5851	*	4655	3278	4290	3607	3761	*	4544	*	5790	28
+       0	*	*	*	*	*	*	3998	0	0	
+
+I 29   *	*	*	*	*	*	*	1168	*	1336	3123	*	*	*	*	*	*	*	4507	*	29
+       0	*	*	0	*	*	*	2922	0	0	
+
+//

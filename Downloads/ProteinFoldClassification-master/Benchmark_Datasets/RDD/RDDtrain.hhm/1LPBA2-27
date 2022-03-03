@@ -1,0 +1,177 @@
+HHsearch 1.5
+NAME  1LPBA2
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Mon Sep 28 22:06:40 2015
+LENG  45 match states, 45 columns in multiple alignment
+FILT  25 out of 27 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.2 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCCEEEECCCCCCCEEECCCCEEEEEECCCCEEECC
+>ss_conf PSIPRED confidence values
+987356887133278777668877604735165777375146359
+>Consensus
+enxxCsxxxlygvYYxCPCExGLtCxxdksivgsItNtnfGxCxd
+>1LPBA2
+ENSECSAFTLYGVYYKCPCERGLTCEGDKSLVGSITNTNFGICHN
+>tr|K4FSB7|K4FSB7_CALMI Colipase preproprotein OX=7868 OS=Callorhynchus milii (Elephant fish) (Australian ghost shark). GN= PE=2 SV=1
+EGDLCSDHFLYNIYYRCPCERGLKCDGDKSFIGSITNTNFGTCKD
+>sp|A9JSD6|COL_XENTR Colipase OX=8364 OS=Xenopus tropicalis (Western clawed frog) (Silurana tropicalis). GN= PE=3 SV=1
+ETQKCSPLHIYGTYYFCPCESGLTCEVDRSIVGSITNTDYGYCED
+>tr|B9TY09|B9TY09_CHICK Preprocolipase OX=9031 OS=Gallus gallus (Chicken). GN= PE=4 SV=1
+ETQDCSRKSLYGVYYKCPCESGLSCDADWSIVGSITNTDYGVCYD
+>tr|E3TF71|E3TF71_ICTPU Colipase OX=7998 OS=Ictalurus punctatus (Channel catfish). GN= PE=4 SV=1
+ENEACSKKNWSGTYCYCTCEDGLKCEGDRFIGG-sIVNTNFGTCVD
+>tr|G3TP15|G3TP15_LOXAF Uncharacterized protein OX=9785 OS=Loxodonta africana (African elephant). GN= PE=4 SV=1
+ENSECSTKSIYEVYYKCPCESGLTCNANKTLVGSLTNTNFGICQD
+>tr|G5BEW5|G5BEW5_HETGA Colipase OX=10181 OS=Heterocephalus glaber (Naked mole rat). GN=GW7_00639 PE=4 SV=1
+ENSRCSPKTIYGIYYLCPCERGLACEGDKSIIGAITNTNYGTCRD
+>tr|H0YTV1|H0YTV1_TAEGU Uncharacterized protein OX=59729 OS=Taeniopygia guttata (Zebra finch) (Poephila guttata). GN= PE=4 SV=1
+ESQECSPKNLHGVYYKCPCETGLSCDANRTIVGTITNRNFGVC--
+>tr|F6U1J3|F6U1J3_CIOIN Uncharacterized protein OX=7719 OS=Ciona intestinalis (Transparent sea squirt) (Ascidia intestinalis). GN= PE=4 SV=1
+EGAVCENDGLWDVYDHCPCESGLSCV-------------------
+>tr|C3YVG5|C3YVG5_BRAFL Putative uncharacterized protein OX=7739 OS=Branchiostoma floridae (Florida lancelet) (Amphioxus). GN=BRAFLDRAFT_119373 PE=4 SV=1
+---PCQLPHPYDLYYACPCKAGLRCMVsNPDSISSVLNSEIGVCA-
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    *	*	*	72	*	*	*	*	*	4367	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1948	0	0	
+
+N 2    *	*	*	*	*	2969	*	*	*	*	*	672	*	*	*	3280	2817	*	*	*	2
+       0	*	*	*	*	*	*	1948	0	0	
+
+S 3    3876	*	4069	3338	*	4367	*	*	*	*	*	*	*	2084	*	1032	*	*	*	*	3
+       0	*	*	*	*	*	*	1948	0	0	
+
+E 4    3526	*	3746	1302	*	5101	*	*	4416	4233	*	*	2841	4519	4976	5018	*	4108	*	*	4
+       0	*	*	*	*	*	*	2245	0	0	
+
+C 5    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2245	0	0	
+
+S 6    *	*	*	4108	*	*	*	*	*	*	*	*	*	2841	*	317	*	*	*	*	6
+       0	*	*	*	*	*	*	2245	0	0	
+
+A 7    2403	*	4233	*	*	*	*	*	3526	2841	*	4108	1608	*	3746	*	4474	5267	*	*	7
+       0	*	*	*	*	*	*	2245	0	0	
+
+F 8    *	*	4115	5062	4347	*	4272	*	943	3896	*	*	2848	4297	*	*	*	*	4856	*	8
+       34	5442	*	0	*	*	*	2244	1000	0	
+
+T 9    *	*	*	*	4272	4115	2447	*	*	*	*	2880	*	*	*	2788	1230	*	*	*	9
+       0	*	*	*	*	*	*	2244	0	0	
+
+L 10   *	*	*	*	*	*	*	1983	*	937	*	*	2848	*	*	*	*	*	3541	*	10
+       0	*	*	*	*	*	*	2244	0	0	
+
+Y 11   *	*	*	*	*	*	4324	*	*	*	*	4800	*	*	*	3541	*	*	4115	376	11
+       0	*	*	*	*	*	*	2244	0	0	
+
+G 12   *	*	2347	4491	*	500	*	*	*	*	*	4272	*	*	*	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2244	0	0	
+
+V 13   *	*	*	*	*	*	*	2075	*	2848	*	*	*	*	*	*	2939	1019	*	*	13
+       0	*	*	*	*	*	*	2244	0	0	
+
+Y 14   *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	0	14
+       0	*	*	*	*	*	*	2244	0	0	
+
+Y 15   *	3541	4115	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	224	15
+       0	*	*	*	*	*	*	2244	0	0	
+
+K 16   2848	*	*	*	4489	*	4115	*	1045	4099	*	*	*	*	3320	*	*	5062	*	3541	16
+       0	*	*	*	*	*	*	2244	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2244	0	0	
+
+P 18   *	*	*	*	*	*	*	*	*	*	*	*	130	*	*	*	3541	*	*	*	18
+       0	*	*	*	*	*	*	2244	0	0	
+
+C 19   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2244	0	0	
+
+E 20   *	*	*	216	*	*	*	*	2848	*	*	*	*	*	*	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2244	0	0	
+
+R 21   2848	*	3541	*	*	*	*	*	*	*	*	5215	*	*	1064	2184	4324	*	*	*	21
+       0	*	*	*	*	*	*	2244	0	0	
+
+G 22   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2244	0	0	
+
+L 23   *	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	23
+       0	*	*	*	*	*	*	2244	0	0	
+
+T 24   5035	*	*	*	*	*	*	4543	2861	*	*	*	*	*	2848	2784	986	*	*	*	24
+       0	*	*	*	*	*	*	2244	0	0	
+
+C 25   *	53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4800	*	*	*	25
+       0	*	*	*	*	*	*	2244	0	0	
+
+E 26   *	*	2344	1101	*	*	*	4800	*	*	2848	3844	*	4856	*	*	*	4115	*	*	26
+       0	*	*	*	*	*	*	2244	0	0	
+
+G 27   1761	*	*	*	*	1449	*	*	*	*	*	*	*	*	*	5028	*	1699	*	*	27
+       227	2780	*	0	*	*	*	2174	1122	0	
+
+D 28   *	*	409	*	*	*	*	*	*	*	*	2017	*	*	*	*	*	*	*	*	28
+       0	*	*	*	*	*	*	2174	0	0	
+
+K 29   *	*	*	*	*	*	*	*	852	*	*	*	2780	*	1977	*	*	*	4429	*	29
+       0	*	*	*	*	*	*	2174	0	0	
+
+S 30   *	*	2780	*	3397	*	*	*	*	*	*	*	*	*	*	1177	1656	*	*	*	30
+       0	*	*	*	*	*	*	2174	0	0	
+
+L 31   *	*	*	*	4074	*	*	658	*	3016	*	*	*	*	*	2780	*	4741	*	*	31
+       0	*	*	*	*	*	*	2174	0	0	
+
+V 32   *	*	*	*	*	3397	*	1491	*	3943	*	*	*	*	*	*	5032	1140	*	*	32
+       0	*	*	*	*	*	*	2174	0	0	
+
+G 33   *	*	*	*	*	227	*	*	*	*	*	*	*	*	*	2780	*	*	*	*	33
+       144	*	3397	*	*	*	*	2174	0	0	
+
+S 34   2374	*	*	*	4623	*	*	*	*	*	*	*	*	*	*	581	3351	*	*	*	34
+       0	*	*	0	*	0	*	2047	1054	1054	
+
+I 35   *	*	*	*	*	*	*	309	*	4401	*	*	*	*	*	*	*	2780	*	*	35
+       0	*	*	*	*	*	*	2174	0	0	
+
+T 36   *	*	*	*	*	*	*	*	*	2780	4668	*	*	*	*	*	474	3397	*	*	36
+       0	*	*	*	*	*	*	2174	0	0	
+
+N 37   *	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	*	*	*	37
+       0	*	*	*	*	*	*	2174	0	0	
+
+T 38   *	*	*	*	*	*	*	*	*	*	*	*	*	*	4210	2780	321	*	*	*	38
+       0	*	*	*	*	*	*	2174	0	0	
+
+N 39   *	*	3374	2780	*	*	*	*	*	*	*	400	*	*	*	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2174	0	0	
+
+F 40   *	*	*	*	862	*	*	2780	*	*	*	*	*	*	*	*	*	*	*	1716	40
+       0	*	*	*	*	*	*	2174	0	0	
+
+G 41   *	*	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	41
+       0	*	*	*	*	*	*	2174	0	0	
+
+I 42   *	*	*	*	*	*	*	1681	*	*	*	*	*	*	*	*	1961	1391	*	4321	42
+       0	*	*	*	*	*	*	2174	0	0	
+
+C 43   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	43
+       0	*	*	*	*	*	*	2174	0	0	
+
+H 44   2711	*	*	4266	4620	*	3295	*	4041	2810	*	*	*	2397	3234	*	*	3283	*	4308	44
+       0	*	*	*	*	*	*	2151	0	0	
+
+N 45   *	*	64	*	*	*	*	*	*	*	*	4525	*	*	*	*	*	*	*	*	45
+       0	*	*	0	*	*	*	1846	0	0	
+
+//

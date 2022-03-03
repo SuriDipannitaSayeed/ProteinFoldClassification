@@ -1,0 +1,153 @@
+HHsearch 1.5
+NAME  3391
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 14:01:56 2016
+LENG  37 match states, 37 columns in multiple alignment
+FILT  90 out of 101 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  4.2 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCEECCCCCCCHHHHHHHHHHHCCCCCCCCCCCCCCC
+>ss_conf PSIPRED confidence values
+9464534599558889999986897762519987419
+>Consensus
+xxxxxvxCxxsxxCxxxCkkxxgxxxgKCmNxkCxCy
+>3391
+FGLIDVKCFASSECWTACKKVTGSGQGKCQNNQCRCY
+>sp|Q86SD8|KA155_ANDAU Potassium channel toxin alpha-KTx 15.5 OS=Androctonus australis PE=2 SV=1
+-VETNKKCQG-GSCASVCRRVIGVAAGKCINGRCVCY
+>sp|P0DJO5|KA15S_CHATC Potassium channel toxin alpha-KTx Ctri9577 OS=Chaerilus tricostatus PE=2 SV=1
+-IHTNQPCTSnNTRCRTYCIKVHKINSGKCMNSKCVCH
+>sp|Q9BKB7|KGX21_MESEU Potassium channel toxin gamma-KTx 2.1 OS=Mesobuthus eupeus PE=1 SV=1
+-RPTDIKCSESYQCFPVCKSRFGKTNGRCVNGFCDCF
+>tr|F1CJ83|F1CJ83_HOTJU U8-buthitoxin-Hj3a OS=Hottentotta judaicus PE=2 SV=1
+-EITDESCEFSIHCLLVCRKKFEYLQVKCVSGKCHCY
+>tr|A0A088D9R3|A0A088D9R3_MESEU Potassium channel blocker pMeKTx16-1 OS=Mesobuthus eupeus PE=2 SV=1
+-IHTEVPCKYSGQCVQLCIILVNNKNAKCSNDTCTCY
+>tr|B8XH39|B8XH39_BUTOS Putative potassium channel toxin Tx682 OS=Buthus occitanus israelis PE=2 SV=1
+-EL-DIKCTGgADNCLQPCIDEYDTTKTKCINDRCNCY
+>sp|P0C165|KAX2C_CENEL Potassium channel toxin alpha-KTx 2.12 OS=Centruroides elegans PE=1 SV=1
+-TIINVKCTSPKQCLPPCKEIYGRHAgAKCMNGKCHCS
+>sp|P0CI84|KA273_LYCMC Potassium channel toxin alpha-KTx 27.3 OS=Lychas mucronatus PE=3 SV=1
+--YISDPCAGgVHRCYEPCEKKKCRLPHKCINGRCTCY
+>tr|E4VP41|E4VP41_MESEU Venom antimicrobial peptide-8 OS=Mesobuthus eupeus GN=TXKalpha4 PE=2 SV=1
+----------IPDCSKSCQDS-GLRFKACIPYrSCLCQ
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+F 1    *	*	*	*	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1
+       0	*	*	*	*	*	*	1000	0	0	
+
+G 2    *	*	5573	3225	*	4174	5891	2395	3455	*	*	*	5256	3320	4364	*	2877	2269	*	*	2
+       0	*	*	*	*	*	*	3841	0	0	
+
+L 3    *	5187	4878	4406	2454	5515	3705	2673	4984	3066	*	*	3555	4085	4443	5815	*	4302	*	4504	3
+       97	*	3942	*	*	*	*	4017	0	0	
+
+I 4    5329	*	*	4083	*	4694	*	1513	*	4012	*	*	*	4763	*	*	1411	4261	*	*	4
+       0	*	*	*	*	0	*	4064	0	1125	
+
+D 5    4352	*	1426	4742	*	4153	6081	6150	*	5507	*	1767	5121	6231	*	4032	6495	5239	*	*	5
+       42	5129	*	1000	1000	*	*	4132	1044	0	
+
+V 6    4322	*	5747	4076	*	*	6244	1962	3738	5851	6606	6265	*	4341	*	*	5936	1248	*	*	6
+       0	*	*	*	*	*	*	4111	0	0	
+
+K 7    5939	*	5401	5058	*	*	*	*	1281	*	6822	5623	3173	*	2514	2422	*	5881	*	*	7
+       0	*	*	*	*	*	*	4169	0	0	
+
+C 8    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	8
+       0	*	*	*	*	*	*	4169	0	0	
+
+F 9    5766	*	5842	4794	5562	4732	*	5297	3657	*	*	4617	*	5146	3297	2082	2056	3716	*	4603	9
+       0	*	*	*	*	*	*	4169	0	0	
+
+A 10   3327	*	6494	5404	4118	1570	5543	7016	*	5709	*	3627	*	*	4547	2711	4317	4942	*	3972	10
+       234	3549	3956	0	*	*	*	4175	1232	0	
+
+S 11   5411	*	*	*	*	6185	*	3650	*	5501	*	5381	2783	*	*	910	3202	4293	*	*	11
+       0	*	*	*	*	0	*	4260	0	1174	
+
+S 12   6190	*	5470	4967	*	3416	5396	5070	1945	*	*	3944	3597	4329	3074	2738	4772	*	*	5499	12
+       0	*	*	*	*	*	*	4300	0	0	
+
+E 13   *	*	2240	2460	*	*	4016	*	5392	*	*	4507	4540	1829	4148	4673	4134	*	*	*	13
+       0	*	*	*	*	*	*	4300	0	0	
+
+C 14   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	4300	0	0	
+
+W 15   3992	*	5905	*	4001	6449	6190	4378	5673	2567	*	5684	6937	5475	3576	4835	4951	3689	2780	2540	15
+       0	*	*	*	*	*	*	4300	0	0	
+
+T 16   4903	*	4279	2676	*	4777	*	4335	2902	5070	*	5779	2621	3991	4708	2847	4521	4491	*	*	16
+       0	*	*	*	*	*	*	4300	0	0	
+
+A 17   3474	*	5905	*	5779	*	3947	5105	4614	5750	6190	*	1179	*	*	4207	6398	2653	*	4593	17
+       0	*	*	*	*	*	*	4300	0	0	
+
+C 18   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	4300	0	0	
+
+K 19   5230	*	*	3610	5975	*	*	3216	1195	*	6847	6728	*	3242	2344	*	*	6590	*	*	19
+       0	*	*	*	*	*	*	4300	0	0	
+
+K 20   3255	*	2805	3508	*	4766	*	5750	1258	*	*	*	*	4123	3370	5499	*	*	*	6107	20
+       0	*	*	*	*	*	*	4300	0	0	
+
+V 21   2578	*	*	3467	5684	*	*	4191	2400	3521	5197	5779	*	3421	3310	4468	*	3231	*	*	21
+       354	*	2199	*	*	*	*	4300	0	0	
+
+T 22   *	*	*	*	2194	6489	3858	3581	4776	5294	6367	*	*	*	5356	*	1490	3726	*	3511	22
+       0	*	*	*	*	0	*	4147	0	1771	
+
+G 23   5475	3315	5470	5070	*	508	*	*	4610	*	*	3816	*	*	*	*	6686	*	*	*	23
+       0	*	*	*	*	*	*	4300	0	0	
+
+S 24   5736	2289	*	*	4111	*	*	4844	3483	3336	3904	4576	6935	6710	3298	4586	3386	3941	*	3943	24
+       0	*	*	*	*	*	*	4306	0	0	
+
+G 25   2964	*	5052	*	5321	6384	5293	*	4056	2768	6575	4928	3036	*	2577	3460	3321	6595	*	4710	25
+       0	*	*	*	*	*	*	4300	0	0	
+
+Q 26   2899	*	*	5368	3093	6441	3771	6175	4124	*	*	2222	3834	3812	3488	3390	5684	*	*	6801	26
+       55	4743	*	0	*	*	*	4300	1094	0	
+
+G 27   2407	*	*	*	*	928	4396	*	4835	*	5595	*	5333	*	*	3243	5470	5070	*	*	27
+       0	*	*	*	*	*	*	4300	0	0	
+
+K 28   4835	*	*	*	*	*	*	5333	146	*	*	*	*	*	4771	*	*	*	*	*	28
+       0	*	*	*	*	*	*	4300	0	0	
+
+C 29   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	29
+       0	*	*	*	*	*	*	4300	0	0	
+
+Q 30   5333	*	*	*	*	*	*	1403	6344	*	1265	*	*	4536	*	4980	5684	3749	*	*	30
+       0	*	*	*	*	*	*	4300	0	0	
+
+N 31   *	*	*	*	*	5052	*	*	5475	*	*	180	4835	*	*	5070	*	*	*	*	31
+       0	*	*	*	*	*	*	4300	0	0	
+
+N 32   *	*	4185	*	*	1171	*	*	2597	*	*	4201	*	*	2602	3615	*	*	*	4835	32
+       51	4835	*	0	*	*	*	4300	1091	0	
+
+Q 33   5357	*	*	*	5499	*	6576	*	835	*	6449	5732	*	4067	2663	3620	4822	5787	*	*	33
+       0	*	*	*	*	*	*	4300	0	0	
+
+C 34   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	34
+       0	*	*	*	*	*	*	4300	0	0	
+
+R 35   *	*	4177	*	*	*	3218	6398	1663	4377	5673	3812	*	*	2736	*	3171	3524	*	5471	35
+       0	*	*	*	*	*	*	4300	0	0	
+
+C 36   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	36
+       0	*	*	*	*	*	*	4306	0	0	
+
+Y 37   *	*	*	*	3355	*	5367	*	*	*	6117	5744	*	4542	*	4316	3544	*	*	586	37
+       0	*	*	0	*	*	*	4281	0	0	
+
+//

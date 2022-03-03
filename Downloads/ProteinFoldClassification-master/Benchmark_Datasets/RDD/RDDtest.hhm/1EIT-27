@@ -1,0 +1,150 @@
+HHsearch 1.5
+NAME  1EIT
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Mon Sep 28 21:27:43 2015
+LENG  36 match states, 36 columns in multiple alignment
+FILT  13 out of 15 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCEECCCCCCCCCCEEECCCCCCCCEECCCC
+>ss_conf PSIPRED confidence values
+963556703021368667615716889874626798
+>Consensus
+xCvxexxxCadWxgpCCxgyyCsCxxxpxCxCrxnx
+>1EIT
+ECVPENGHCRDWYDECCEGFYCSCRQPPKCICRNNN
+>sp|P60272|TXMO_HADIN Toxin AcTx-Hi:OB4219 OX=153481 OS=Hadronyche infensa (Fraser island funnel-web spider) (Atrax infensa). GN= PE=1 SV=1
+KCLAEAADCSPWSGDsCCKPYLCSCIFFYPCSCRPK-
+>sp|P60178|TXMG3_AGEAP Mu-agatoxin-3 OX=6908 OS=gertschi). GN= PE=1 SV=1
+DCVGDGQRCADWAGPyCCSGYYCSCRSMPYCRCRSDS
+>sp|P83256|TXDP1_PIRLC Delta-palutoxin IT1 OX=185217 OS=Pireneitega luctuosa (Tangled nest spider) (Paracoelotes luctuosus). GN= PE=1 SV=1
+GCLGEGEKCADWSGPsCCDGFYCSCRSMPYCRCRNNS
+>sp|P15967|TXC1_HOLCU Curtatoxin-1 OX=6910 OS=Hololena curta (Funnel-web spider) (Agelena curta). GN= PE=1 SV=1
+SCVGEYGRCRSAYEDCCDGYYCNCSQPPYCLCRNNN
+>sp|Q5Y4V1|TAG3H_AGEOR Mu-2Aaga_09 OX=293813 OS=Agelena orientalis (Spider). GN= PE=2 SV=1
+GdCVGESQQCADWSGPyCCKGYYCTCQYFPKCICVNDN
+>sp|Q5Y4U9|TAG3J_AGEOR Mu-2Aaga_11 OX=293813 OS=Agelena orientalis (Spider). GN= PE=2 SV=1
+GCVGENQQCADWARPhCCSGYYCTCRYFPKCICRKDS
+>sp|Q5Y4V8|TAG3A_AGEOR U3-agatoxin-Ao1a OX=293813 OS=Agelena orientalis (Spider). GN= PE=1 SV=1
+ECAAKNKRCADWAGPwCCEGLYCSCRSYPGCMCRPNS
+>sp|Q5Y4U6|TAG3M_AGEOR U3-agatoxin-Ao1m OX=293813 OS=Agelena orientalis (Spider). GN= PE=1 SV=1
+ECVGENGHCRSWYN-dCCDGYYCSCMQPPNCICRNNN
+>sp|P83258|TXDP3_PIRLC Delta-palutoxin IT3 OX=185217 OS=Pireneitega luctuosa (Tangled nest spider) (Paracoelotes luctuosus). GN= PE=1 SV=1
+DCLNEGDWCADWSGPsCCGEMWCSCPGFGKCRCKK--
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+E 1    2556	*	2471	2206	*	2389	*	*	2819	*	*	*	*	*	*	3318	*	*	*	*	1
+       106	3818	*	0	*	*	*	2369	1000	0	
+
+C 2    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	2
+       0	*	*	*	*	*	*	2369	0	0	
+
+V 3    2814	*	*	*	*	*	*	*	*	1649	*	*	*	*	*	*	*	892	*	*	3
+       0	*	*	*	*	*	*	2369	0	0	
+
+P 4    2210	*	*	*	*	935	*	*	*	*	*	3084	3734	*	*	*	3883	*	*	*	4
+       0	*	*	*	*	*	*	2369	0	0	
+
+E 5    *	*	3118	429	*	*	*	*	2814	*	*	*	*	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2369	0	0	
+
+N 6    2819	*	*	*	*	1774	*	*	*	*	*	1341	*	*	*	3818	*	*	*	3318	6
+       0	*	*	*	*	*	*	2369	0	0	
+
+G 7    2819	*	3084	4080	*	2043	*	*	3749	*	*	*	*	1457	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2369	0	0	
+
+H 8    *	*	2819	*	*	*	2813	*	4080	*	*	*	*	2464	1483	*	*	*	3084	*	8
+       0	*	*	*	*	*	*	2369	0	0	
+
+C 9    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	9
+       0	*	*	*	*	*	*	2369	0	0	
+
+R 10   700	*	*	*	*	*	*	*	*	*	*	*	*	*	2043	2819	*	*	*	*	10
+       0	*	*	*	*	*	*	2369	0	0	
+
+D 11   *	*	810	*	*	*	*	*	*	*	*	*	2819	*	*	1796	*	*	*	*	11
+       0	*	*	*	*	*	*	2369	0	0	
+
+W 12   3318	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	152	*	12
+       0	*	*	*	*	*	*	2369	0	0	
+
+Y 13   1667	*	*	*	*	*	*	*	*	*	*	*	*	*	*	1176	*	*	*	2043	13
+       0	*	*	*	*	*	*	2369	0	0	
+
+D 14   *	*	3734	3318	*	522	*	*	*	*	*	3896	*	*	4037	*	*	*	*	*	14
+       100	*	3896	*	*	*	*	2369	0	0	
+
+E 15   *	*	1948	3483	*	*	*	*	*	*	*	*	618	*	*	*	*	*	*	*	15
+       2306	326	*	0	*	0	*	2354	2032	1000	
+
+C 16   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2369	0	0	
+
+C 17   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	17
+       0	*	*	*	*	*	*	2369	0	0	
+
+E 18   *	*	1334	2741	*	3084	*	*	2234	*	*	*	*	*	*	3019	*	*	*	*	18
+       0	*	*	*	*	*	*	2369	0	0	
+
+G 19   *	*	*	3084	*	434	*	*	*	*	*	*	2819	*	*	*	*	*	*	*	19
+       0	*	*	*	*	*	*	2369	0	0	
+
+F 20   *	*	*	*	2307	*	*	*	*	3749	3084	*	*	*	*	*	*	*	*	724	20
+       0	*	*	*	*	*	*	2369	0	0	
+
+Y 21   *	*	*	*	*	*	*	*	*	2819	*	*	*	*	*	*	*	*	3084	434	21
+       0	*	*	*	*	*	*	2369	0	0	
+
+C 22   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	22
+       0	*	*	*	*	*	*	2369	0	0	
+
+S 23   *	*	*	*	*	*	*	*	*	*	*	3318	*	*	*	477	2464	*	*	*	23
+       0	*	*	*	*	*	*	2369	0	0	
+
+C 24   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	24
+       0	*	*	*	*	*	*	2369	0	0	
+
+R 25   *	*	*	*	*	*	*	2819	*	*	3896	*	3084	3818	994	3318	*	*	*	*	25
+       0	*	*	*	*	*	*	2369	0	0	
+
+Q 26   *	*	*	*	2819	3084	*	*	*	*	*	*	*	2043	*	1660	*	*	*	2464	26
+       0	*	*	*	*	*	*	2369	0	0	
+
+P 27   *	*	*	*	1182	*	*	*	*	*	2520	*	2043	*	*	*	*	*	*	2814	27
+       0	*	*	*	*	*	*	2369	0	0	
+
+P 28   *	*	*	*	*	3084	*	*	*	*	*	*	434	*	*	*	*	*	*	2819	28
+       0	*	*	*	*	*	*	2369	0	0	
+
+K 29   *	*	*	*	*	2814	*	*	1418	*	*	3896	2819	*	*	*	*	*	*	1864	29
+       0	*	*	*	*	*	*	2369	0	0	
+
+C 30   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	30
+       0	*	*	*	*	*	*	2369	0	0	
+
+I 31   *	*	*	*	*	*	*	1628	*	3318	2814	*	*	*	1774	2819	*	*	*	*	31
+       0	*	*	*	*	*	*	2369	0	0	
+
+C 32   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	32
+       0	*	*	*	*	*	*	2369	0	0	
+
+R 33   *	*	*	*	*	*	*	*	3084	*	*	*	*	*	302	*	*	3818	*	*	33
+       0	*	*	*	*	*	*	2369	0	0	
+
+N 34   *	*	*	*	*	*	*	*	2483	*	*	1074	1817	*	*	4002	*	*	*	*	34
+       0	*	*	*	*	*	*	2369	0	0	
+
+N 35   *	*	2137	*	*	*	*	*	2625	*	*	712	*	*	*	*	*	*	*	*	35
+       0	*	*	*	*	*	*	2198	0	0	
+
+N 36   *	*	*	*	*	*	*	*	*	*	*	1049	*	*	*	953	*	*	*	*	36
+       0	*	*	0	*	*	*	1941	0	0	
+
+//

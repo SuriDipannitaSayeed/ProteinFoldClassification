@@ -1,0 +1,165 @@
+HHsearch 1.5
+NAME  2057
+FAM   
+FILE  protein
+COM   /nfs/amino-library/local/hhsuite/bin/hhmake -i protein.a3m 
+DATE  Wed Mar 23 12:58:25 2016
+LENG  41 match states, 41 columns in multiple alignment
+FILT  39 out of 41 sequences passed filter (-id 90 -cov 0 -qid 0 -qsc -20.00 -diff 100)
+NEFF  2.4 
+SEQ
+>ss_pred PSIPRED predicted secondary structure
+CCCCCCCCCCCHHHEECCCCCCCCCCCCCCCCCCEEEEEEC
+>ss_conf PSIPRED confidence values
+98477688775100203673242048989872110101539
+>Consensus
+xgxxPxCdxGexCAvrkGxRIGklCdCxrgxxCNxflLkCx
+>2057
+YGQVPMCDAGEQCAVRKGARIGKLCDCPRGTSCNSFLLKCL
+>tr|W5LMP3|W5LMP3_ASTMX Uncharacterized protein OS=Astyanax mexicanus PE=4 SV=1
+ASVIPRCDVGERCALKHGPRIGRLCDCMRGTVCNTFFLRCY
+>tr|H9H2H2|H9H2H2_MELGA Uncharacterized protein (Fragment) OS=Meleagris gallopavo GN=CARTPT PE=4 SV=1
+PGRVPSCQLGEPCAVRVGARFGKRCSCPPGTSCNLYILRCS
+>tr|W5NA05|W5NA05_LEPOC Uncharacterized protein OS=Lepisosteus oculatus PE=4 SV=1
+AATIPMCDVGDRCALRQGPRIGKLCDCARGSICNSFLLKCI
+>tr|C1J7W0|C1J7W0_LEUOC CART OS=Leucoraja ocellata GN=CART PE=2 SV=1
+YGQGPQCNIGDMCAVRKGPRIWRTCNCLS-SKCNYFLFKCV
+>tr|A0A0R4ILT6|A0A0R4ILT6_DANRE Uncharacterized protein OS=Danio rerio GN=si:ch73-380l10.2 PE=4 SV=1
+KRAIPQCALGSRCAMRLGSRFGKLCECGRGSNCNSFLLKCI
+>tr|A0A0M4FRU4|A0A0M4FRU4_SOLSE Cocaine-and amphetamine-regulated transcript 3b OS=Solea senegalensis GN=cart3b PE=2 SV=1
+RGSIPLCGMGERCAMKYGPRIGKLCDCGRAANCNSYLLKCI
+>tr|A0A0M4G346|A0A0M4G346_SOLSE Cocaine-and amphetamine-regulated transcript 1a OS=Solea senegalensis GN=cart1a PE=2 SV=1
+LGWLPSCDVGQQCALRKGSRIGKLCSCPGGNVCNFDVLKCV
+>tr|E3WET6|E3WET6_ORYLA Cocaine-and amphetamine-regulated transcript ch4 OS=Oryzias latipes GN=cart ch4 PE=2 SV=1
+LGWLPPCNTSEQCAVRKGARVGKLCGCPRGMECDFSILKCL
+>tr|M4AYB1|M4AYB1_XIPMA Uncharacterized protein OS=Xiphophorus maculatus GN=CARTPT (3 of 3) PE=4 SV=1
+-SYLPACDPGEQCALRKGSRIGKLCDCSLPRTCNSFLHRCL
+#
+NULL   3706	5728	4211	4064	4839	3729	4763	4308	4069	3323	5509	4640	4464	4937	4285	4423	3815	3783	6325	4665	
+HMM    A	C	D	E	F	G	H	I	K	L	M	N	P	Q	R	S	T	V	W	Y	
+       M->M	M->I	M->D	I->M	I->I	D->M	D->D	Neff	Neff_I	Neff_D
+       0	*	*	0	*	0	*	*	*	*	
+Y 1    3216	*	*	*	2849	5078	*	*	4431	1711	*	*	4157	*	2971	*	*	*	*	2405	1
+       0	*	*	*	*	*	*	2338	0	0	
+
+G 2    4118	5005	*	*	*	429	*	*	*	*	*	5104	*	*	4858	3255	*	*	*	*	2
+       0	*	*	*	*	*	*	2424	0	0	
+
+Q 3    3270	*	*	*	*	*	*	5219	*	4111	5371	*	*	1721	3955	3701	5487	5246	2207	3689	3
+       0	*	*	*	*	*	*	2424	0	0	
+
+V 4    4881	*	*	*	*	3962	*	2002	5005	1843	*	*	*	*	4825	*	*	1704	*	*	4
+       0	*	*	*	*	*	*	2424	0	0	
+
+P 5    4066	*	*	4825	*	*	*	*	*	*	*	*	144	*	*	*	*	*	*	*	5
+       0	*	*	*	*	*	*	2424	0	0	
+
+M 6    4229	*	*	*	*	*	*	*	4352	2721	3538	*	3342	2611	3697	2109	4648	4361	*	*	6
+       0	*	*	*	*	*	*	2424	0	0	
+
+C 7    *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	7
+       0	*	*	*	*	*	*	2424	0	0	
+
+D 8    4230	*	855	4043	*	3307	4847	*	*	*	*	3219	*	5071	*	5104	*	4999	*	*	8
+       30	5625	*	1000	1000	*	*	2424	1000	0	
+
+A 9    2436	*	*	*	*	*	*	3041	*	2408	3642	*	3165	*	5389	*	4532	2020	*	*	9
+       0	*	*	*	*	*	*	2424	0	0	
+
+G 10   *	*	*	*	*	165	*	*	*	*	*	*	*	*	3940	4551	*	*	*	*	10
+       0	*	*	*	*	*	*	2444	0	0	
+
+E 11   *	*	2504	486	*	*	*	*	*	*	*	*	*	3717	*	4887	*	*	*	*	11
+       0	*	*	*	*	*	*	2444	0	0	
+
+Q 12   5137	*	*	*	*	*	4436	*	*	5363	3978	*	3106	1263	1714	*	*	*	*	*	12
+       0	*	*	*	*	*	*	2444	0	0	
+
+C 13   *	53	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	4798	13
+       0	*	*	*	*	*	*	2444	0	0	
+
+A 14   0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	14
+       0	*	*	*	*	*	*	2444	0	0	
+
+V 15   *	*	*	*	*	*	*	3147	*	2284	3064	*	*	*	5300	*	*	897	*	*	15
+       0	*	*	*	*	*	*	2444	0	0	
+
+R 16   *	*	*	*	*	*	*	*	2121	*	*	*	*	*	377	*	*	*	*	*	16
+       0	*	*	*	*	*	*	2444	0	0	
+
+K 17   *	*	*	*	5300	*	2851	*	730	4136	*	*	*	4097	5097	*	*	3983	*	5292	17
+       0	*	*	*	*	*	*	2444	0	0	
+
+G 18   4342	*	*	*	*	73	*	*	*	*	*	*	*	*	*	*	*	*	*	*	18
+       0	*	*	*	*	*	*	2444	0	0	
+
+A 19   1565	*	*	*	*	*	*	*	*	*	*	*	1433	*	*	1778	*	*	*	*	19
+       0	*	*	*	*	*	*	2444	0	0	
+
+R 20   *	*	*	*	*	*	*	*	*	*	*	*	*	*	0	*	*	*	*	*	20
+       0	*	*	*	*	*	*	2444	0	0	
+
+I 21   *	*	*	*	3520	*	*	304	*	*	*	*	*	*	*	*	*	3861	*	4874	21
+       0	*	*	*	*	*	*	2444	0	0	
+
+G 22   *	*	*	*	*	95	*	*	*	*	*	*	*	*	*	*	*	*	3978	*	22
+       0	*	*	*	*	*	*	2444	0	0	
+
+K 23   *	*	*	*	*	*	*	*	366	*	*	*	*	*	2320	*	5399	*	*	*	23
+       0	*	*	*	*	*	*	2444	0	0	
+
+L 24   *	*	*	*	*	*	*	*	*	370	3326	*	*	*	3983	*	3978	*	*	*	24
+       0	*	*	*	*	*	*	2444	0	0	
+
+C 25   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	25
+       0	*	*	*	*	*	*	2444	0	0	
+
+D 26   *	*	860	4225	*	3303	*	*	*	*	*	3325	*	*	*	2362	*	*	*	*	26
+       0	*	*	*	*	*	*	2444	0	0	
+
+C 27   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	27
+       0	*	*	*	*	*	*	2444	0	0	
+
+P 28   3925	*	*	*	*	3250	*	*	*	2965	4288	*	867	*	4798	3928	*	*	*	*	28
+       0	*	*	*	*	*	*	2444	0	0	
+
+R 29   *	*	*	*	*	4260	*	*	*	3211	*	*	3983	5255	542	3978	*	*	*	*	29
+       95	*	3978	*	*	*	*	2444	0	0	
+
+G 30   5234	*	*	*	*	341	*	*	*	*	*	*	3645	*	5359	5742	4756	5382	*	*	30
+       0	*	*	*	*	0	*	2356	0	1058	
+
+T 31   2284	*	*	*	*	*	*	*	*	*	4551	5162	*	*	3211	2015	1439	*	*	*	31
+       0	*	*	*	*	*	*	2444	0	0	
+
+S 32   2414	*	*	4551	4224	4547	5436	4835	3978	4183	*	4075	*	*	*	2478	2686	3286	*	*	32
+       0	*	*	*	*	*	*	2444	0	0	
+
+C 33   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	33
+       0	*	*	*	*	*	*	2444	0	0	
+
+N 34   *	*	4551	*	*	*	4380	*	*	*	*	176	*	*	*	5365	*	*	*	*	34
+       0	*	*	*	*	*	*	2444	0	0	
+
+S 35   *	*	*	*	1513	*	*	5360	*	3435	*	*	*	*	*	1366	3618	*	*	3978	35
+       0	*	*	*	*	*	*	2444	0	0	
+
+F 36   *	5457	5162	*	762	*	*	5360	*	5515	*	*	*	*	*	2783	*	*	*	2571	36
+       0	*	*	*	*	*	*	2444	0	0	
+
+L 37   *	*	*	*	3546	*	*	2205	*	776	*	*	*	*	*	*	*	3136	*	*	37
+       0	*	*	*	*	*	*	2444	0	0	
+
+L 38   *	*	*	*	3978	*	3795	*	*	210	*	*	*	*	*	*	*	*	*	*	38
+       0	*	*	*	*	*	*	2444	0	0	
+
+K 39   *	*	*	*	*	*	*	*	552	*	*	*	*	5026	1801	*	*	*	*	*	39
+       0	*	*	*	*	*	*	2444	0	0	
+
+C 40   *	0	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	40
+       0	*	*	*	*	*	*	2444	0	0	
+
+L 41   5026	*	*	*	4488	*	*	2589	*	1124	*	*	*	*	*	3435	*	3452	*	3110	41
+       0	*	*	0	*	*	*	2444	0	0	
+
+//
