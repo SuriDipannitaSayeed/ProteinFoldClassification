@@ -1,6 +1,6 @@
 # ProteinFoldClassificationwithGNNandPTGL
 ## Datasets
-The Benchmark dataset folder contains the graphdata set generated from three different benchmark dataset. 1) DD dataset 2) EDD dataset 3) TG dataset. The Structural_Classification_Dataset contains the graph dataset for 5 different protein classes. 1) All alpha graph 2) All beta graph 3) All alpha plus beta graph 4) All alpha by beta graph 5) All alpha plus beta multidomain graph.
+The Benchmark dataset folder contains the graphdata set generated from three different benchmark dataset. 1) DD dataset 2) EDD dataset 3) TG dataset. The Structural_Classification_Dataset contains the graph dataset for 4 different protein classes from SCOP and CATH. Those are: 1) All alpha graph 2) All beta graph 3) All alpha plus beta graph 4) All alpha by beta graph.
 The following method have been used to convert into the pytorch graph from the PTGL json file.
 ```sh
 import json
