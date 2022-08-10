@@ -142,7 +142,7 @@ def gml_toData_subgraph(attr_y,filename2,rangestr1,rangestr2):
   return data
 
 #full-graph
-#Alpha Graph
+#Alpha/Beta/Alpha-Beta Graph
 import json
 import torch
 import torch
