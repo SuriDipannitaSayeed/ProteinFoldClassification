@@ -258,6 +258,8 @@ The dataset name in the main program should have to be changed accordingly.
 
     
 ```sh
+x=gml_toData_alpha_subgraph(0,'/content/1xzp_A_albe_PG.gml',"118-211","372-450")
+print(x.edge_index)
 with open("/content/all_betagraph_.txt","rb") as f:
     traindataset = pickle.load(f,encoding="latin1")
 with open("/content/all_betagraph_.txt","rb") as f:
@@ -265,4 +267,4 @@ with open("/content/all_betagraph_.txt","rb") as f:
 ```
 # Google Colab
 
-[https://colab.research.google.com/drive/1oXu43mqr3H1TLzSIF_6IQ9xjSlA7voNg#scrollTo=V3cW_VgVJmgg]
+[[https://colab.research.google.com/drive/1oXu43mqr3H1TLzSIF_6IQ9xjSlA7voNg#scrollTo=V3cW_VgVJmgg](https://colab.research.google.com/drive/1nuttdBSUKGaSzx7K2j1qgW-XmVfFrKw_#scrollTo=-A_rAJVXpBem)]
